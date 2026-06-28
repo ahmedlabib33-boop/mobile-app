@@ -1,6 +1,6 @@
 ﻿{
     "app_name":  "Project Intelligence Hub",
-    "streamlit_url":  "https://mobile-app.streamlit.app",
+    "streamlit_url":  "https://samco-mob-intelligence-dashboard.streamlit.app",
     "url_type":  "stable_streamlit_cloud",
     "github_repo":  "https://github.com/ahmedlabib33-boop/mobile-app.git",
     "android_apk_output":  "dist/Project_Intelligence_Hub.apk",
