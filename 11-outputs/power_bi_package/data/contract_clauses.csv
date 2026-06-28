@@ -1,0 +1,146 @@
+project_id,project_name,sector_name,id,clause_number,clause_title,section_name,claim_type,risk_level,claim_strength,time_impact,cost_impact,file_name
+LMD-Bridge,LMD Bridge & Road Interchange,Bridges,423,,Agreement Summary,Notice Requirements,Notice Compliance,High,Medium,Yes,Yes,Overall_Contract_clause_library.xlsx
+LMD-Bridge,LMD Bridge & Road Interchange,Bridges,424,,months from the Commencement Date,Notice Requirements,Notice Compliance,High,Medium,Yes,Yes,Overall_Contract_clause_library.xlsx
+LMD-Bridge,LMD Bridge & Road Interchange,Bridges,425,,Document Priority,Evidence Requirements,Evidence / Substantiation,High,Medium,Yes,Yes,Overall_Contract_clause_library.xlsx
+LMD-Bridge,LMD Bridge & Road Interchange,Bridges,426,,This Agreement,Evidence Requirements,Evidence / Substantiation,High,Medium,Yes,Yes,Overall_Contract_clause_library.xlsx
+LMD-Bridge,LMD Bridge & Road Interchange,Bridges,427,,Appendix to Tender / Contract Data,Evidence Requirements,Evidence / Substantiation,High,Medium,Yes,Yes,Overall_Contract_clause_library.xlsx
+LMD-Bridge,LMD Bridge & Road Interchange,Bridges,428,,Particular Conditions,Evidence Requirements,Evidence / Substantiation,High,Medium,Yes,Yes,Overall_Contract_clause_library.xlsx
+LMD-Bridge,LMD Bridge & Road Interchange,Bridges,429,,General Conditions,Evidence Requirements,Evidence / Substantiation,High,Medium,Yes,Yes,Overall_Contract_clause_library.xlsx
+LMD-Bridge,LMD Bridge & Road Interchange,Bridges,430,,General Requirements,Evidence Requirements,Evidence / Substantiation,High,Medium,Yes,Yes,Overall_Contract_clause_library.xlsx
+LMD-Bridge,LMD Bridge & Road Interchange,Bridges,431,,Bill of Quantities,Evidence Requirements,Evidence / Substantiation,High,Medium,Yes,Yes,Overall_Contract_clause_library.xlsx
+LMD-Bridge,LMD Bridge & Road Interchange,Bridges,432,,Drawings,Evidence Requirements,Evidence / Substantiation,High,Medium,Yes,Yes,Overall_Contract_clause_library.xlsx
+LMD-Bridge,LMD Bridge & Road Interchange,Bridges,433,,"Soil report, permits matrix, and site layout",Evidence Requirements,Evidence / Substantiation,High,Medium,Yes,Yes,Overall_Contract_clause_library.xlsx
+LMD-Bridge,LMD Bridge & Road Interchange,Bridges,434,,Commercial Data,Payment Entitlements,Payment / Certification,High,Strong,Yes,Yes,Overall_Contract_clause_library.xlsx
+LMD-Bridge,LMD Bridge & Road Interchange,Bridges,435,,% structured as 35% cash advance and 65% Employer-supplied steel/material,Evidence Requirements,Evidence / Substantiation,High,Medium,Yes,Yes,Overall_Contract_clause_library.xlsx
+LMD-Bridge,LMD Bridge & Road Interchange,Bridges,436,,% of the Contract Price.,Evidence Requirements,Evidence / Substantiation,High,Medium,Yes,Yes,Overall_Contract_clause_library.xlsx
+LMD-Bridge,LMD Bridge & Road Interchange,Bridges,437,,% of the Accepted Contract Amount unless waived by contract amendment.,Contractor Counterarguments,Counterargument / Exception,High,Medium,Yes,Yes,Overall_Contract_clause_library.xlsx
+LMD-Bridge,LMD Bridge & Road Interchange,Bridges,438,,% of monthly cash flow,Payment Entitlements,Payment / Certification,High,Strong,Yes,Yes,Overall_Contract_clause_library.xlsx
+LMD-Bridge,LMD Bridge & Road Interchange,Bridges,439,,days after Engineer receives the complete monthly statement,Payment Entitlements,Payment / Certification,Critical,Strong,Yes,Yes,Overall_Contract_clause_library.xlsx
+LMD-Bridge,LMD Bridge & Road Interchange,Bridges,440,,"% of outstanding works per week of delay or part thereof, capped at 10% of",Evidence Requirements,Evidence / Substantiation,Medium,Strong,Yes,Yes,Overall_Contract_clause_library.xlsx
+LMD-Bridge,LMD Bridge & Road Interchange,Bridges,441,,"Programme, Progress, and Delay Entitlement",EOT Entitlements,Extension of Time,High,Strong,Yes,Yes,Overall_Contract_clause_library.xlsx
+LMD-Bridge,LMD Bridge & Road Interchange,Bridges,442,,"Site, Materials, Quality, and HSE",Payment Entitlements,Payment / Certification,Medium,Strong,Yes,Yes,Overall_Contract_clause_library.xlsx
+LMD-Bridge,LMD Bridge & Road Interchange,Bridges,443,,Clause Intelligence Extract,Evidence Requirements,Evidence / Substantiation,Medium,Medium,Yes,Yes,Overall_Contract_clause_library.xlsx
+LMD-Bridge,LMD Bridge & Road Interchange,Bridges,444,,Mar-2026.,Evidence Requirements,Evidence / Substantiation,High,Medium,Yes,Yes,Overall_Contract_clause_library.xlsx
+LMD-Bridge,LMD Bridge & Road Interchange,Bridges,445,,month structural,Delay Damages Defense,Delay Damages Defense,Critical,Medium,Yes,Yes,Overall_Contract_clause_library.xlsx
+LMD-Bridge,LMD Bridge & Road Interchange,Bridges,446,,% of the Contract Price.,Evidence Requirements,Evidence / Substantiation,High,Medium,Yes,Yes,Overall_Contract_clause_library.xlsx
+LMD-Bridge,LMD Bridge & Road Interchange,Bridges,447,,Execution Control Matrix,Payment Entitlements,Payment / Certification,High,Strong,Yes,Yes,Overall_Contract_clause_library.xlsx
+LMD-Bridge,LMD Bridge & Road Interchange,Bridges,448,,Signature Placeholders,Evidence Requirements,Evidence / Substantiation,High,Medium,Yes,Yes,Overall_Contract_clause_library.xlsx
+The Big -P.01-UP-20-April-26,ROYA-BIG PROJECT PHASE01 (B1-4),Buildings,331,,Contract basics,Notice Requirements,Notice Compliance,High,Medium,Yes,Yes,Overall_Contract_clause_library.xlsx
+The Big -P.01-UP-20-April-26,ROYA-BIG PROJECT PHASE01 (B1-4),Buildings,332,,Accepted Contract Amount,Variation Entitlements,Variation / Change,High,Strong,Yes,Yes,Overall_Contract_clause_library.xlsx
+The Big -P.01-UP-20-April-26,ROYA-BIG PROJECT PHASE01 (B1-4),Buildings,333,,Re-measured contract,Payment Entitlements,Payment / Certification,High,Strong,Yes,Yes,Overall_Contract_clause_library.xlsx
+The Big -P.01-UP-20-April-26,ROYA-BIG PROJECT PHASE01 (B1-4),Buildings,334,,BOQ quantity no warranty,Variation Entitlements,Variation / Change,High,Medium,Yes,Yes,Overall_Contract_clause_library.xlsx
+The Big -P.01-UP-20-April-26,ROYA-BIG PROJECT PHASE01 (B1-4),Buildings,335,,Fixed and final price wording,Material Escalation / Price Adjustment,Escalation / Price Adjustment,Medium,Medium,Yes,Yes,Overall_Contract_clause_library.xlsx
+The Big -P.01-UP-20-April-26,ROYA-BIG PROJECT PHASE01 (B1-4),Buildings,336,,Concrete and steel price adjustment,Material Escalation / Price Adjustment,Escalation / Price Adjustment,Medium,Strong,Yes,Yes,Overall_Contract_clause_library.xlsx
+The Big -P.01-UP-20-April-26,ROYA-BIG PROJECT PHASE01 (B1-4),Buildings,337,,Exclusions from contract amount,Variation Entitlements,Variation / Change,High,Strong,Yes,Yes,Overall_Contract_clause_library.xlsx
+The Big -P.01-UP-20-April-26,ROYA-BIG PROJECT PHASE01 (B1-4),Buildings,338,,Advance payment structure,Payment Entitlements,Payment / Certification,High,Strong,Yes,Yes,Overall_Contract_clause_library.xlsx
+The Big -P.01-UP-20-April-26,ROYA-BIG PROJECT PHASE01 (B1-4),Buildings,339,,Monthly statements and material on site,Payment Entitlements,Payment / Certification,High,Strong,Yes,Yes,Overall_Contract_clause_library.xlsx
+The Big -P.01-UP-20-April-26,ROYA-BIG PROJECT PHASE01 (B1-4),Buildings,340,,Minimum IPC threshold,EOT Entitlements,Extension of Time,Medium,Strong,Yes,Yes,Overall_Contract_clause_library.xlsx
+The Big -P.01-UP-20-April-26,ROYA-BIG PROJECT PHASE01 (B1-4),Buildings,341,,Payment period,Payment Entitlements,Payment / Certification,Medium,Strong,Yes,Yes,Overall_Contract_clause_library.xlsx
+The Big -P.01-UP-20-April-26,ROYA-BIG PROJECT PHASE01 (B1-4),Buildings,342,,Social insurance condition,Payment Entitlements,Payment / Certification,High,Strong,Yes,Yes,Overall_Contract_clause_library.xlsx
+The Big -P.01-UP-20-April-26,ROYA-BIG PROJECT PHASE01 (B1-4),Buildings,343,,Retention,Payment Entitlements,Payment / Certification,Medium,Medium,Yes,Yes,Overall_Contract_clause_library.xlsx
+The Big -P.01-UP-20-April-26,ROYA-BIG PROJECT PHASE01 (B1-4),Buildings,344,,Performance security,Risk Clauses,Risk Allocation,High,Medium,Yes,Yes,Overall_Contract_clause_library.xlsx
+The Big -P.01-UP-20-April-26,ROYA-BIG PROJECT PHASE01 (B1-4),Buildings,345,,Time for Completion,Risk Clauses,Risk Allocation,Critical,Medium,Yes,Yes,Overall_Contract_clause_library.xlsx
+The Big -P.01-UP-20-April-26,ROYA-BIG PROJECT PHASE01 (B1-4),Buildings,346,,8-month structural milestone,Notice Requirements,Notice Compliance,Medium,Medium,Yes,Yes,Overall_Contract_clause_library.xlsx
+The Big -P.01-UP-20-April-26,ROYA-BIG PROJECT PHASE01 (B1-4),Buildings,347,,Delay damages,EOT Entitlements,Extension of Time,Critical,Medium,Yes,Yes,Overall_Contract_clause_library.xlsx
+The Big -P.01-UP-20-April-26,ROYA-BIG PROJECT PHASE01 (B1-4),Buildings,348,,Normal working hours,Variation Entitlements,Variation / Change,High,Strong,Yes,Yes,Overall_Contract_clause_library.xlsx
+The Big -P.01-UP-20-April-26,ROYA-BIG PROJECT PHASE01 (B1-4),Buildings,349,,Document priority,EOT Entitlements,Extension of Time,High,Strong,Yes,Yes,Overall_Contract_clause_library.xlsx
+The Big -P.01-UP-20-April-26,ROYA-BIG PROJECT PHASE01 (B1-4),Buildings,350,,More stringent requirement governs,Variation Entitlements,Variation / Change,High,Strong,Yes,Yes,Overall_Contract_clause_library.xlsx
+The Big -P.01-UP-20-April-26,ROYA-BIG PROJECT PHASE01 (B1-4),Buildings,351,,Missing or blank BOQ items,Variation Entitlements,Variation / Change,High,Strong,Yes,Yes,Overall_Contract_clause_library.xlsx
+The Big -P.01-UP-20-April-26,ROYA-BIG PROJECT PHASE01 (B1-4),Buildings,352,,Works shown in any document,EOT Entitlements,Extension of Time,Medium,Strong,Yes,Yes,Overall_Contract_clause_library.xlsx
+The Big -P.01-UP-20-April-26,ROYA-BIG PROJECT PHASE01 (B1-4),Buildings,353,,Necessary and implied works,Risk Clauses,General Contract Risk,Low,Strong,Yes,Yes,Overall_Contract_clause_library.xlsx
+The Big -P.01-UP-20-April-26,ROYA-BIG PROJECT PHASE01 (B1-4),Buildings,354,,Discrepancies and ambiguities,Notice Requirements,Notice Compliance,High,Medium,Yes,Yes,Overall_Contract_clause_library.xlsx
+The Big -P.01-UP-20-April-26,ROYA-BIG PROJECT PHASE01 (B1-4),Buildings,355,,Contractor documents timing,Notice Requirements,Notice Compliance,High,Medium,Yes,Yes,Overall_Contract_clause_library.xlsx
+The Big -P.01-UP-20-April-26,ROYA-BIG PROJECT PHASE01 (B1-4),Buildings,356,,Delayed drawings or instructions,EOT Entitlements,Extension of Time,High,Strong,Yes,Yes,Overall_Contract_clause_library.xlsx
+The Big -P.01-UP-20-April-26,ROYA-BIG PROJECT PHASE01 (B1-4),Buildings,357,,Site access,Evidence Requirements,Evidence / Substantiation,High,Medium,Yes,Yes,Overall_Contract_clause_library.xlsx
+The Big -P.01-UP-20-April-26,ROYA-BIG PROJECT PHASE01 (B1-4),Buildings,358,,Permits and licenses,EOT Entitlements,Extension of Time,High,Strong,Yes,Yes,Overall_Contract_clause_library.xlsx
+The Big -P.01-UP-20-April-26,ROYA-BIG PROJECT PHASE01 (B1-4),Buildings,359,,Engineer authority and determination,Variation Entitlements,Variation / Change,High,Strong,Yes,Yes,Overall_Contract_clause_library.xlsx
+The Big -P.01-UP-20-April-26,ROYA-BIG PROJECT PHASE01 (B1-4),Buildings,360,,Contractor general obligations,Evidence Requirements,Evidence / Substantiation,High,Medium,Yes,Yes,Overall_Contract_clause_library.xlsx
+The Big -P.01-UP-20-April-26,ROYA-BIG PROJECT PHASE01 (B1-4),Buildings,361,,Design verification and review,Risk Clauses,General Contract Risk,Low,Strong,Yes,Yes,Overall_Contract_clause_library.xlsx
+The Big -P.01-UP-20-April-26,ROYA-BIG PROJECT PHASE01 (B1-4),Buildings,362,,Cooperation with others,EOT Entitlements,Extension of Time,Medium,Strong,Yes,Yes,Overall_Contract_clause_library.xlsx
+The Big -P.01-UP-20-April-26,ROYA-BIG PROJECT PHASE01 (B1-4),Buildings,363,,Unforeseeable physical conditions,EOT Entitlements,Extension of Time,High,Strong,Yes,Yes,Overall_Contract_clause_library.xlsx
+The Big -P.01-UP-20-April-26,ROYA-BIG PROJECT PHASE01 (B1-4),Buildings,364,,Utilities and existing services,Risk Clauses,Risk Allocation,High,Strong,Yes,Yes,Overall_Contract_clause_library.xlsx
+The Big -P.01-UP-20-April-26,ROYA-BIG PROJECT PHASE01 (B1-4),Buildings,365,,Employer equipment and free-issue materials,EOT Entitlements,Extension of Time,High,Strong,Yes,Yes,Overall_Contract_clause_library.xlsx
+The Big -P.01-UP-20-April-26,ROYA-BIG PROJECT PHASE01 (B1-4),Buildings,366,,Progress reports,Variation Entitlements,Variation / Change,High,Strong,Yes,Yes,Overall_Contract_clause_library.xlsx
+The Big -P.01-UP-20-April-26,ROYA-BIG PROJECT PHASE01 (B1-4),Buildings,367,,Shop drawings and as-builts,Risk Clauses,General Contract Risk,Low,Weak,Yes,Yes,Overall_Contract_clause_library.xlsx
+The Big -P.01-UP-20-April-26,ROYA-BIG PROJECT PHASE01 (B1-4),Buildings,368,,Quality assurance system,Evidence Requirements,Evidence / Substantiation,Medium,Strong,Yes,Yes,Overall_Contract_clause_library.xlsx
+The Big -P.01-UP-20-April-26,ROYA-BIG PROJECT PHASE01 (B1-4),Buildings,369,,HSE system,EOT Entitlements,Extension of Time,High,Strong,Yes,Yes,Overall_Contract_clause_library.xlsx
+The Big -P.01-UP-20-April-26,ROYA-BIG PROJECT PHASE01 (B1-4),Buildings,370,,Personnel approval,EOT Entitlements,Extension of Time,Medium,Strong,Yes,Yes,Overall_Contract_clause_library.xlsx
+The Big -P.01-UP-20-April-26,ROYA-BIG PROJECT PHASE01 (B1-4),Buildings,371,,Programme requirements,Risk Clauses,General Contract Risk,Low,Weak,Yes,Yes,Overall_Contract_clause_library.xlsx
+The Big -P.01-UP-20-April-26,ROYA-BIG PROJECT PHASE01 (B1-4),Buildings,372,,Recovery plan trigger,Notice Requirements,Notice Compliance,Critical,Strong,Yes,Yes,Overall_Contract_clause_library.xlsx
+The Big -P.01-UP-20-April-26,ROYA-BIG PROJECT PHASE01 (B1-4),Buildings,373,,Extension of time,EOT Entitlements,Extension of Time,Critical,Strong,Yes,Yes,Overall_Contract_clause_library.xlsx
+The Big -P.01-UP-20-April-26,ROYA-BIG PROJECT PHASE01 (B1-4),Buildings,374,,Rate of progress,Contractor Rights,General Contractor Entitlement,High,Strong,Yes,Yes,Overall_Contract_clause_library.xlsx
+The Big -P.01-UP-20-April-26,ROYA-BIG PROJECT PHASE01 (B1-4),Buildings,375,,Suspension by Employer,EOT Entitlements,Extension of Time,High,Strong,Yes,Yes,Overall_Contract_clause_library.xlsx
+The Big -P.01-UP-20-April-26,ROYA-BIG PROJECT PHASE01 (B1-4),Buildings,376,,Tests on completion and failed tests,Variation Entitlements,Variation / Change,High,Medium,Yes,Yes,Overall_Contract_clause_library.xlsx
+The Big -P.01-UP-20-April-26,ROYA-BIG PROJECT PHASE01 (B1-4),Buildings,377,,Taking-over requirements,Payment Entitlements,Payment / Certification,Critical,Strong,Yes,Yes,Overall_Contract_clause_library.xlsx
+The Big -P.01-UP-20-April-26,ROYA-BIG PROJECT PHASE01 (B1-4),Buildings,378,,Defects Notification Period,Payment Entitlements,Payment / Certification,High,Strong,Yes,Yes,Overall_Contract_clause_library.xlsx
+The Big -P.01-UP-20-April-26,ROYA-BIG PROJECT PHASE01 (B1-4),Buildings,379,,Measurement and evaluation,Payment Entitlements,Payment / Certification,Medium,Strong,Yes,Yes,Overall_Contract_clause_library.xlsx
+The Big -P.01-UP-20-April-26,ROYA-BIG PROJECT PHASE01 (B1-4),Buildings,380,,Right to vary,Variation Entitlements,Variation / Change,Medium,Strong,Yes,Yes,Overall_Contract_clause_library.xlsx
+The Big -P.01-UP-20-April-26,ROYA-BIG PROJECT PHASE01 (B1-4),Buildings,381,,Variation procedure,Notice Requirements,Notice Compliance,High,Strong,Yes,Yes,Overall_Contract_clause_library.xlsx
+The Big -P.01-UP-20-April-26,ROYA-BIG PROJECT PHASE01 (B1-4),Buildings,382,,Batching plant duties,Variation Entitlements,Variation / Change,High,Strong,Yes,Yes,Overall_Contract_clause_library.xlsx
+The Big -P.01-UP-20-April-26,ROYA-BIG PROJECT PHASE01 (B1-4),Buildings,383,,Tax and VAT,Payment Entitlements,Payment / Certification,Medium,Strong,Yes,Yes,Overall_Contract_clause_library.xlsx
+The Big -P.01-UP-20-April-26,ROYA-BIG PROJECT PHASE01 (B1-4),Buildings,384,,Termination by Employer,Suspension Rights,Suspension,High,Strong,Yes,Yes,Overall_Contract_clause_library.xlsx
+The Big -P.01-UP-20-April-26,ROYA-BIG PROJECT PHASE01 (B1-4),Buildings,385,,Contractor suspension or termination,Suspension Rights,Suspension,Critical,Strong,Yes,Yes,Overall_Contract_clause_library.xlsx
+The Big -P.01-UP-20-April-26,ROYA-BIG PROJECT PHASE01 (B1-4),Buildings,386,,Indemnities,Risk Clauses,Risk Allocation,High,Medium,Yes,Yes,Overall_Contract_clause_library.xlsx
+The Big -P.01-UP-20-April-26,ROYA-BIG PROJECT PHASE01 (B1-4),Buildings,387,,Insurance,Risk Clauses,Risk Allocation,High,Strong,Yes,Yes,Overall_Contract_clause_library.xlsx
+The Big -P.01-UP-20-April-26,ROYA-BIG PROJECT PHASE01 (B1-4),Buildings,388,,Force majeure,Evidence Requirements,Evidence / Substantiation,Critical,Strong,Yes,Yes,Overall_Contract_clause_library.xlsx
+The Big -P.01-UP-20-April-26,ROYA-BIG PROJECT PHASE01 (B1-4),Buildings,389,,Claims time bar,EOT Entitlements,Extension of Time,Critical,Strong,Yes,Yes,Overall_Contract_clause_library.xlsx
+The Big -P.01-UP-20-April-26,ROYA-BIG PROJECT PHASE01 (B1-4),Buildings,390,,Monthly claim and variation account,Evidence Requirements,Evidence / Substantiation,High,Strong,Yes,Yes,Overall_Contract_clause_library.xlsx
+The Big -P.01-UP-20-April-26,ROYA-BIG PROJECT PHASE01 (B1-4),Buildings,391,,Concurrent delay rule,Contractor Rights,General Contractor Entitlement,Critical,Strong,Yes,Yes,Overall_Contract_clause_library.xlsx
+The Big -P.01-UP-20-April-26,ROYA-BIG PROJECT PHASE01 (B1-4),Buildings,392,,Engineer decision before dispute,Notice Requirements,Notice Compliance,Critical,Strong,Yes,Yes,Overall_Contract_clause_library.xlsx
+The Big -P.01-UP-20-April-26,ROYA-BIG PROJECT PHASE01 (B1-4),Buildings,393,,No DAB and court route,Dispute Resolution,Dispute Resolution,Medium,Strong,Yes,Yes,Overall_Contract_clause_library.xlsx
+The Big -P.01-UP-20-April-26,ROYA-BIG PROJECT PHASE01 (B1-4),Buildings,394,,Prequalification of steel suppliers,Payment Entitlements,Payment / Certification,Medium,Strong,Yes,Yes,Overall_Contract_clause_library.xlsx
+The Big -P.01-UP-20-April-26,ROYA-BIG PROJECT PHASE01 (B1-4),Buildings,395,,Prequalification of concrete suppliers,EOT Entitlements,Extension of Time,High,Strong,Yes,Yes,Overall_Contract_clause_library.xlsx
+The Big -P.01-UP-20-April-26,ROYA-BIG PROJECT PHASE01 (B1-4),Buildings,396,,Revit and CAD deliverables,Contractor Counterarguments,Counterargument / Exception,Medium,Medium,Yes,Yes,Overall_Contract_clause_library.xlsx
+Sophia-Mall,Sophia Mall Mixed-Use Development,Buildings,292,,Agreement Summary,Evidence Requirements,Evidence / Substantiation,High,Medium,Yes,Yes,Overall_Contract_clause_library.xlsx
+Sophia-Mall,Sophia Mall Mixed-Use Development,Buildings,293,,Feb-2026 and the Commencement Date is 15-Feb-2026.,Contractor Counterarguments,Counterargument / Exception,High,Medium,Yes,Yes,Overall_Contract_clause_library.xlsx
+Sophia-Mall,Sophia Mall Mixed-Use Development,Buildings,294,,months from the Commencement Date,Notice Requirements,Notice Compliance,High,Medium,Yes,Yes,Overall_Contract_clause_library.xlsx
+Sophia-Mall,Sophia Mall Mixed-Use Development,Buildings,295,,Document Priority,Evidence Requirements,Evidence / Substantiation,High,Medium,Yes,Yes,Overall_Contract_clause_library.xlsx
+Sophia-Mall,Sophia Mall Mixed-Use Development,Buildings,296,,This Agreement,Evidence Requirements,Evidence / Substantiation,High,Medium,Yes,Yes,Overall_Contract_clause_library.xlsx
+Sophia-Mall,Sophia Mall Mixed-Use Development,Buildings,297,,Appendix to Tender / Contract Data,Evidence Requirements,Evidence / Substantiation,High,Medium,Yes,Yes,Overall_Contract_clause_library.xlsx
+Sophia-Mall,Sophia Mall Mixed-Use Development,Buildings,298,,Particular Conditions,Evidence Requirements,Evidence / Substantiation,High,Medium,Yes,Yes,Overall_Contract_clause_library.xlsx
+Sophia-Mall,Sophia Mall Mixed-Use Development,Buildings,299,,General Conditions,Evidence Requirements,Evidence / Substantiation,High,Medium,Yes,Yes,Overall_Contract_clause_library.xlsx
+Sophia-Mall,Sophia Mall Mixed-Use Development,Buildings,300,,General Requirements,Evidence Requirements,Evidence / Substantiation,High,Medium,Yes,Yes,Overall_Contract_clause_library.xlsx
+Sophia-Mall,Sophia Mall Mixed-Use Development,Buildings,301,,Bill of Quantities,Evidence Requirements,Evidence / Substantiation,High,Medium,Yes,Yes,Overall_Contract_clause_library.xlsx
+Sophia-Mall,Sophia Mall Mixed-Use Development,Buildings,302,,Drawings,Evidence Requirements,Evidence / Substantiation,High,Medium,Yes,Yes,Overall_Contract_clause_library.xlsx
+Sophia-Mall,Sophia Mall Mixed-Use Development,Buildings,303,,"Soil report, permits matrix, and site layout",Evidence Requirements,Evidence / Substantiation,High,Medium,Yes,Yes,Overall_Contract_clause_library.xlsx
+Sophia-Mall,Sophia Mall Mixed-Use Development,Buildings,304,,Commercial Data,Payment Entitlements,Payment / Certification,High,Strong,Yes,Yes,Overall_Contract_clause_library.xlsx
+Sophia-Mall,Sophia Mall Mixed-Use Development,Buildings,305,,% structured as 30% cash against bank guarantee and 70%,Evidence Requirements,Evidence / Substantiation,High,Medium,Yes,Yes,Overall_Contract_clause_library.xlsx
+Sophia-Mall,Sophia Mall Mixed-Use Development,Buildings,306,,% of the Contract Price.,Evidence Requirements,Evidence / Substantiation,High,Medium,Yes,Yes,Overall_Contract_clause_library.xlsx
+Sophia-Mall,Sophia Mall Mixed-Use Development,Buildings,307,,% of the Accepted Contract Amount unless waived by contract amendment.,Contractor Counterarguments,Counterargument / Exception,High,Medium,Yes,Yes,Overall_Contract_clause_library.xlsx
+Sophia-Mall,Sophia Mall Mixed-Use Development,Buildings,308,,% of monthly cash flow,Payment Entitlements,Payment / Certification,High,Strong,Yes,Yes,Overall_Contract_clause_library.xlsx
+Sophia-Mall,Sophia Mall Mixed-Use Development,Buildings,309,,days after Engineer receives the complete monthly statement,Payment Entitlements,Payment / Certification,Critical,Strong,Yes,Yes,Overall_Contract_clause_library.xlsx
+Sophia-Mall,Sophia Mall Mixed-Use Development,Buildings,310,,"% of outstanding works per week of delay or part thereof, capped at 10% of the",Evidence Requirements,Evidence / Substantiation,Medium,Strong,Yes,Yes,Overall_Contract_clause_library.xlsx
+Sophia-Mall,Sophia Mall Mixed-Use Development,Buildings,311,,"Programme, Progress, and Delay Entitlement",EOT Entitlements,Extension of Time,High,Strong,Yes,Yes,Overall_Contract_clause_library.xlsx
+Sophia-Mall,Sophia Mall Mixed-Use Development,Buildings,312,,"Site, Materials, Quality, and HSE",Payment Entitlements,Payment / Certification,Medium,Strong,Yes,Yes,Overall_Contract_clause_library.xlsx
+Sophia-Mall,Sophia Mall Mixed-Use Development,Buildings,313,,Clause Intelligence Extract,Evidence Requirements,Evidence / Substantiation,Medium,Medium,Yes,Yes,Overall_Contract_clause_library.xlsx
+Sophia-Mall,Sophia Mall Mixed-Use Development,Buildings,314,,Feb-2026.,Evidence Requirements,Evidence / Substantiation,High,Medium,Yes,Yes,Overall_Contract_clause_library.xlsx
+Sophia-Mall,Sophia Mall Mixed-Use Development,Buildings,315,,month structural,Delay Damages Defense,Delay Damages Defense,Critical,Medium,Yes,Yes,Overall_Contract_clause_library.xlsx
+Sophia-Mall,Sophia Mall Mixed-Use Development,Buildings,316,,% of the Contract Price.,Evidence Requirements,Evidence / Substantiation,High,Medium,Yes,Yes,Overall_Contract_clause_library.xlsx
+Sophia-Mall,Sophia Mall Mixed-Use Development,Buildings,317,,Execution Control Matrix,Payment Entitlements,Payment / Certification,High,Strong,Yes,Yes,Overall_Contract_clause_library.xlsx
+Sophia-Mall,Sophia Mall Mixed-Use Development,Buildings,318,,Signature Placeholders,Evidence Requirements,Evidence / Substantiation,High,Medium,Yes,Yes,Overall_Contract_clause_library.xlsx
+Suez-Tunnel,Suez Tunnel Civil & MEP Works,Tunnels,291,,Agreement Summary,Notice Requirements,Notice Compliance,High,Medium,Yes,Yes,Overall_Contract_clause_library.xlsx
+Suez-Tunnel,Suez Tunnel Civil & MEP Works,Tunnels,292,,months from the Commencement Date,Notice Requirements,Notice Compliance,High,Medium,Yes,Yes,Overall_Contract_clause_library.xlsx
+Suez-Tunnel,Suez Tunnel Civil & MEP Works,Tunnels,293,,Document Priority,Evidence Requirements,Evidence / Substantiation,High,Medium,Yes,Yes,Overall_Contract_clause_library.xlsx
+Suez-Tunnel,Suez Tunnel Civil & MEP Works,Tunnels,294,,This Agreement,Evidence Requirements,Evidence / Substantiation,High,Medium,Yes,Yes,Overall_Contract_clause_library.xlsx
+Suez-Tunnel,Suez Tunnel Civil & MEP Works,Tunnels,295,,Appendix to Tender / Contract Data,Evidence Requirements,Evidence / Substantiation,High,Medium,Yes,Yes,Overall_Contract_clause_library.xlsx
+Suez-Tunnel,Suez Tunnel Civil & MEP Works,Tunnels,296,,Particular Conditions,Evidence Requirements,Evidence / Substantiation,High,Medium,Yes,Yes,Overall_Contract_clause_library.xlsx
+Suez-Tunnel,Suez Tunnel Civil & MEP Works,Tunnels,297,,General Conditions,Evidence Requirements,Evidence / Substantiation,High,Medium,Yes,Yes,Overall_Contract_clause_library.xlsx
+Suez-Tunnel,Suez Tunnel Civil & MEP Works,Tunnels,298,,General Requirements,Evidence Requirements,Evidence / Substantiation,High,Medium,Yes,Yes,Overall_Contract_clause_library.xlsx
+Suez-Tunnel,Suez Tunnel Civil & MEP Works,Tunnels,299,,Bill of Quantities,Evidence Requirements,Evidence / Substantiation,High,Medium,Yes,Yes,Overall_Contract_clause_library.xlsx
+Suez-Tunnel,Suez Tunnel Civil & MEP Works,Tunnels,300,,Drawings,Evidence Requirements,Evidence / Substantiation,High,Medium,Yes,Yes,Overall_Contract_clause_library.xlsx
+Suez-Tunnel,Suez Tunnel Civil & MEP Works,Tunnels,301,,"Soil report, permits matrix, and site layout",Evidence Requirements,Evidence / Substantiation,High,Medium,Yes,Yes,Overall_Contract_clause_library.xlsx
+Suez-Tunnel,Suez Tunnel Civil & MEP Works,Tunnels,302,,Commercial Data,Payment Entitlements,Payment / Certification,High,Strong,Yes,Yes,Overall_Contract_clause_library.xlsx
+Suez-Tunnel,Suez Tunnel Civil & MEP Works,Tunnels,303,,% structured as 40% cash advance and 60% Employer-supplied steel/material,Evidence Requirements,Evidence / Substantiation,High,Medium,Yes,Yes,Overall_Contract_clause_library.xlsx
+Suez-Tunnel,Suez Tunnel Civil & MEP Works,Tunnels,304,,% of the Contract Price.,Evidence Requirements,Evidence / Substantiation,High,Medium,Yes,Yes,Overall_Contract_clause_library.xlsx
+Suez-Tunnel,Suez Tunnel Civil & MEP Works,Tunnels,305,,% of the Accepted Contract Amount unless waived by contract amendment.,Contractor Counterarguments,Counterargument / Exception,High,Medium,Yes,Yes,Overall_Contract_clause_library.xlsx
+Suez-Tunnel,Suez Tunnel Civil & MEP Works,Tunnels,306,,% of monthly cash flow,Payment Entitlements,Payment / Certification,High,Strong,Yes,Yes,Overall_Contract_clause_library.xlsx
+Suez-Tunnel,Suez Tunnel Civil & MEP Works,Tunnels,307,,days after Engineer receives the complete monthly statement,Payment Entitlements,Payment / Certification,Critical,Strong,Yes,Yes,Overall_Contract_clause_library.xlsx
+Suez-Tunnel,Suez Tunnel Civil & MEP Works,Tunnels,308,,"% of outstanding works per week of delay or part thereof, capped at 10% of",Evidence Requirements,Evidence / Substantiation,Medium,Strong,Yes,Yes,Overall_Contract_clause_library.xlsx
+Suez-Tunnel,Suez Tunnel Civil & MEP Works,Tunnels,309,,"Programme, Progress, and Delay Entitlement",EOT Entitlements,Extension of Time,High,Strong,Yes,Yes,Overall_Contract_clause_library.xlsx
+Suez-Tunnel,Suez Tunnel Civil & MEP Works,Tunnels,310,,"Site, Materials, Quality, and HSE",Payment Entitlements,Payment / Certification,Medium,Strong,Yes,Yes,Overall_Contract_clause_library.xlsx
+Suez-Tunnel,Suez Tunnel Civil & MEP Works,Tunnels,311,,Clause Intelligence Extract,Evidence Requirements,Evidence / Substantiation,Medium,Medium,Yes,Yes,Overall_Contract_clause_library.xlsx
+Suez-Tunnel,Suez Tunnel Civil & MEP Works,Tunnels,312,,Jan-2026.,Evidence Requirements,Evidence / Substantiation,High,Medium,Yes,Yes,Overall_Contract_clause_library.xlsx
+Suez-Tunnel,Suez Tunnel Civil & MEP Works,Tunnels,313,,month structural,Delay Damages Defense,Delay Damages Defense,Critical,Medium,Yes,Yes,Overall_Contract_clause_library.xlsx
+Suez-Tunnel,Suez Tunnel Civil & MEP Works,Tunnels,314,,% of the Contract Price.,Evidence Requirements,Evidence / Substantiation,High,Medium,Yes,Yes,Overall_Contract_clause_library.xlsx
+Suez-Tunnel,Suez Tunnel Civil & MEP Works,Tunnels,315,,Execution Control Matrix,Payment Entitlements,Payment / Certification,High,Strong,Yes,Yes,Overall_Contract_clause_library.xlsx
+Suez-Tunnel,Suez Tunnel Civil & MEP Works,Tunnels,316,,Signature Placeholders,Evidence Requirements,Evidence / Substantiation,High,Medium,Yes,Yes,Overall_Contract_clause_library.xlsx

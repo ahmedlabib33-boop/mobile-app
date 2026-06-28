@@ -1,0 +1,18 @@
+﻿project_id,wbs_id,activity_id,activity_name,planned_start,planned_finish,actual_start,actual_finish,forecast_start,forecast_finish,planned_weight,planned_progress,actual_progress,total_float_days,is_critical,responsible_party
+LMD-Bridge,LMD-Bridge.MILESTONE,KD-MS-1000,Project Start Date,5-Nov-25,,5-Nov-25 A,5-Nov-25 A,5-Nov-25,,0.0120,1.00,1.00,5,No,Project Controls
+LMD-Bridge,LMD-Bridge.MILESTONE,KD-MS-1010,Contract Agreement,5-Nov-25,,5-Nov-25 A,5-Nov-25 A,5-Nov-25,,0.0120,1.00,1.00,6,No,Commercial
+LMD-Bridge,LMD-Bridge.MILESTONE,KD-MS-1020,IFC Drawing Package,12-Nov-25,,12-Nov-25 A,12-Nov-25 A,12-Nov-25,,0.0120,1.00,1.00,,Yes,Engineering
+LMD-Bridge,LMD-Bridge.MOBILIZATION,KD-MOB-1000,Mobilization and traffic diversion setup,9-Nov-25,9-Dec-25,30-Nov-25 A,3-Jan-26 A,30-Nov-25,19-Dec-25,0.0241,1.00,1.00,8,No,Construction
+LMD-Bridge,LMD-Bridge.SURVEY,SUR-LB-1010,Survey control and utility relocation setting out,27-Nov-25,19-Dec-25,21-Dec-25 A,16-Jan-26 A,21-Dec-25,29-Dec-25,0.0241,1.00,1.00,9,No,Survey Team
+LMD-Bridge,LMD-Bridge.ENGINEERING,E-SUB-LB-1020,Bridge substructure shop drawings,20-Dec-25,24-Jan-26,16-Jan-26 A,,16-Jan-26,20-Feb-26,0.0361,0.92,0.75,-31,Yes,Engineering
+LMD-Bridge,LMD-Bridge.ENGINEERING,E-APP-LB-1020,Approval of pier and deck shop drawings,26-Jan-26,27-Feb-26,16-Feb-26 A,,16-Feb-26,26-Mar-26,0.0361,0.70,0.57,-33,Yes,Engineer
+LMD-Bridge,LMD-Bridge.PROCUREMENT,P-MDEL-LB-1000,"Steel, bearings and expansion joints delivery",14-Jan-26,25-Mar-26,7-Feb-26 A,,7-Feb-26,21-Apr-26,0.0602,0.55,0.45,-35,Yes,Procurement
+LMD-Bridge,LMD-Bridge.CONSTRUCTION,CON-LB-PIL-1010,Bored piles and pile caps,10-Jan-26,15-Apr-26,6-Feb-26 A,,6-Feb-26,12-May-26,0.1205,0.85,0.70,-37,Yes,Construction
+LMD-Bridge,LMD-Bridge.CONSTRUCTION,CON-LB-RFT-1020,RFT for piers and abutments,17-Mar-26,24-Apr-26,7-Apr-26 A,,7-Apr-26,21-May-26,0.1205,0.58,0.48,-39,Yes,Construction
+LMD-Bridge,LMD-Bridge.CONSTRUCTION,CON-LB-CON-1030,Concrete works for piers and abutments,24-Apr-26,29-May-26,18-May-26 A,,18-May-26,25-Jun-26,0.1205,0.36,0.30,-41,Yes,Construction
+LMD-Bridge,LMD-Bridge.CONSTRUCTION,CON-LB-DECK-1040,Deck formwork reinforcement and casting,13-Jun-26,1-Sep-26,10-Jul-26 A,,10-Jul-26,28-Sep-26,0.1205,0.08,0.07,-43,Yes,Construction
+LMD-Bridge,LMD-Bridge.CONSTRUCTION,CON-LB-ROAD-1050,Approach road embankment and pavement,27-Aug-26,30-Nov-26,17-Sep-26 A,,17-Sep-26,27-Dec-26,0.1205,0.02,0.02,17,No,Roadworks
+LMD-Bridge,LMD-Bridge.MEP,MEP-LB-LGT-1060,Street lighting and drainage works,31-Oct-26,25-Dec-26,,,21-Nov-26,4-Jan-27,0.0723,0.00,0.00,18,No,MEP
+LMD-Bridge,LMD-Bridge.FINISHING,FIN-LB-1070,"Barriers, asphalt and road marking",20-Dec-26,18-Feb-27,,,10-Jan-27,28-Feb-27,0.0723,0.00,0.00,19,No,Finishing
+LMD-Bridge,LMD-Bridge.TESTING,TST-LB-1080,Load testing and handover inspections,20-Mar-27,24-Apr-27,,,10-Apr-27,4-May-27,0.0241,0.00,0.00,-51,Yes,QA/QC
+LMD-Bridge,LMD-Bridge.MILESTONE,KD-MS-9000,Substantial Completion,4-Apr-27,,,,25-Apr-27,,0.0120,0.00,0.00,-53,Yes,Project Controls

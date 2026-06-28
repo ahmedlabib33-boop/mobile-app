@@ -1,0 +1,6 @@
+﻿project_id,payment,contract,project,invoice no,invoice date,certified amount,paid amount,payment status,Contractual interest due,Date of Cash Cheque Receipt,Period for payment release,Period in which interest is applied,Amount of interest claimed (EGP),delayed duration(Days) ,Unnamed: 14,Unnamed: 15,Unnamed: 16,Unnamed: 17,Unnamed: 18
+LMD-Bridge-P.03-UP-26-Jun-26,1.0,LB-03,LMD-Bridge-P.03-UP-26-Jun-26,1.0,5-Dec-25,19211190.0,19211190.0,Paid,45.0,6-Feb-26,63.0,18.0,41496.17,18.0,,,,,
+LMD-Bridge-P.03-UP-26-Jun-26,2.0,LB-03,LMD-Bridge-P.03-UP-26-Jun-26,2.0,2-Jan-26,21195513.0,21195513.0,Paid,45.0,20-Mar-26,77.0,32.0,81390.77,32.0,,,,,
+LMD-Bridge-P.03-UP-26-Jun-26,3.0,LB-03,LMD-Bridge-P.03-UP-26-Jun-26,3.0,30-Jan-26,23519380.0,23519380.0,Paid,45.0,22-Mar-26,51.0,6.0,16933.95,6.0,,,,,
+LMD-Bridge-P.03-UP-26-Jun-26,4.0,LB-03,LMD-Bridge-P.03-UP-26-Jun-26,4.0,27-Feb-26,26170504.0,26170504.0,Paid,45.0,1-May-26,63.0,18.0,56528.29,18.0,,,,,
+LMD-Bridge-P.03-UP-26-Jun-26,5.0,LB-03,LMD-Bridge-P.03-UP-26-Jun-26,5.0,27-Mar-26,28406125.0,19316165.0,Partially Paid,45.0,12-Jun-26,77.0,32.0,109079.52,32.0,,,,,

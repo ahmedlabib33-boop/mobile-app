@@ -1,0 +1,17 @@
+﻿project_id,wbs_code,wbs_name,total_activities,bl_project_duration,remaining_duration,total_float,bl_project_start,bl_project_finish,actual_start,actual_finish,schedule_%_complete,performance_%_complete,budget_at_completion,earned_value_cost,planned_value_cost
+LMD-Bridge-P.01-UP-20-April-26,No Priority,,912,485,338,0,1-Oct-25,28-Jan-27,2-Oct-25,,0.588,0.329,318250000,104704250,187131000
+LMD-Bridge-P.01-UP-20-April-26,LMD-Bridge - P.01 - UP-20-April-26,LMD BRIDGE AND ROAD INTERCHANGE PROJECT,912,485,338,-61,1-Oct-25,28-Jan-27,2-Oct-25,,0.588,0.329,318250000,104704250,187131000
+LMD-Bridge-P.01-UP-20-April-26,LMD-Bridge - P.01 - UP-20-April-26.KD,Key Dates,7,485,338,-61,1-Oct-25,28-Jan-27,2-Oct-25,,0,0,0,0,0
+LMD-Bridge-P.01-UP-20-April-26,LMD-Bridge - P.01 - UP-20-April-26.KD.MI,Milestone,5,485,338,-61,1-Oct-25,28-Jan-27,2-Oct-25,,0,0,0,0,0
+LMD-Bridge-P.01-UP-20-April-26,LMD-Bridge - P.01 - UP-20-April-26.KD.MO,Mobilization,9,14,0,,1-Oct-25,15-Oct-25,3-Oct-25,18-Oct-25,0,0,0,0,0
+LMD-Bridge-P.01-UP-20-April-26,LMD-Bridge - P.01 - UP-20-April-26.EN,Engineering,202,214,28,96,1-Oct-25,3-May-26,2-Oct-25,,0,0,0,0,0
+LMD-Bridge-P.01-UP-20-April-26,LMD-Bridge - P.01 - UP-20-April-26.P,Procurement,73,395,185,64,1-Oct-25,31-Oct-26,2-Oct-25,,0,0,0,0,0
+LMD-Bridge-P.01-UP-20-April-26,LMD-Bridge - P.01 - UP-20-April-26.CON,Construction,489,435,318,-44,5-Nov-25,19-Nov-26,2-Oct-25,,0.588,0.329,318250000,104704250,187131000
+LMD-Bridge-P.01-UP-20-April-26,LMD-Bridge - P.01 - UP-20-April-26.CON.EW,Earth Works,38,78,5,-8,31-Oct-25,17-Jan-26,29-Oct-25,31-Dec-25,0.93,0.87,18750000,16312500,17437500
+LMD-Bridge-P.01-UP-20-April-26,LMD-Bridge - P.01 - UP-20-April-26.CON.FD,Foundations & Piles,96,245,128,-62,15-Nov-25,18-Jul-26,2-Oct-25,,0.71,0.46,72500000,33350000,51475000
+LMD-Bridge-P.01-UP-20-April-26,LMD-Bridge - P.01 - UP-20-April-26.CON.PC,Piers & Caps,88,286,202,-57,5-Jan-26,18-Oct-26,2-Oct-25,,0.58,0.34,61800000,21012000,35844000
+LMD-Bridge-P.01-UP-20-April-26,LMD-Bridge - P.01 - UP-20-April-26.CON.SG,Superstructure Girders,103,330,276,-66,14-Feb-26,10-Jan-27,2-Oct-25,,0.45,0.25,88200000,22050000,39690000
+LMD-Bridge-P.01-UP-20-April-26,LMD-Bridge - P.01 - UP-20-April-26.CON.DK,Deck Slab & Barriers,72,295,246,-40,24-Mar-26,13-Jan-27,2-Oct-25,,0.41,0.21,49700000,10437000,20377000
+LMD-Bridge-P.01-UP-20-April-26,LMD-Bridge - P.01 - UP-20-April-26.CON.RD,Roadworks & Diversions,53,248,196,20,18-Jun-26,21-Feb-27,2-Oct-25,,0.36,0.17,31900000,5423000,11484000
+LMD-Bridge-P.01-UP-20-April-26,LMD-Bridge - P.01 - UP-20-April-26.CON.UT,Utilities & Lighting,39,270,224,12,3-May-26,28-Jan-27,2-Oct-25,,0.25,0.11,20650000,2271500,5162500
+LMD-Bridge-P.01-UP-20-April-26,LMD-Bridge - P.01 - UP-20-April-26.HO,"Testing, Commissioning & Handover",93,456,338,-61,10-Dec-25,28-Jan-27,,,0,0,0,0,0

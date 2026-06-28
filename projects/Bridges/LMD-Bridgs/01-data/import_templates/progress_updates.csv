@@ -1,0 +1,18 @@
+﻿project_id,activity_id,update_date,planned_progress,actual_progress,planned_value,earned_value,actual_cost,notes
+LMD-Bridge,KD-MS-1000,31-May-26,1.00,1.00,10240963.86,10240963.86,10855421.69,Progress aligned with update narrative
+LMD-Bridge,KD-MS-1010,31-May-26,1.00,1.00,10240963.86,10240963.86,10855421.69,Progress aligned with update narrative
+LMD-Bridge,KD-MS-1020,31-May-26,1.00,1.00,10240963.86,10240963.86,10855421.69,Progress aligned with update narrative
+LMD-Bridge,KD-MOB-1000,31-May-26,1.00,1.00,20481927.71,20481927.71,21710843.37,Progress aligned with update narrative
+LMD-Bridge,SUR-LB-1010,31-May-26,1.00,1.00,20481927.71,20481927.71,21710843.37,Progress aligned with update narrative
+LMD-Bridge,E-SUB-LB-1020,31-May-26,0.92,0.75,28265060.24,23177349.40,24567990.36,Critical activity behind planned curve
+LMD-Bridge,E-APP-LB-1020,31-May-26,0.70,0.57,21506024.10,17634939.76,18693036.14,Critical activity behind planned curve
+LMD-Bridge,P-MDEL-LB-1000,31-May-26,0.55,0.45,28162650.60,23093373.49,24478975.90,Progress aligned with update narrative
+LMD-Bridge,CON-LB-PIL-1010,31-May-26,0.85,0.70,87048192.77,71379518.07,75662289.16,Critical activity behind planned curve
+LMD-Bridge,CON-LB-RFT-1020,31-May-26,0.58,0.48,59397590.36,48706024.10,51628385.54,Critical activity behind planned curve
+LMD-Bridge,CON-LB-CON-1030,31-May-26,0.36,0.30,36867469.88,30231325.30,32045204.82,Progress aligned with update narrative
+LMD-Bridge,CON-LB-DECK-1040,31-May-26,0.08,0.07,8192771.08,6718072.29,7121156.63,Progress aligned with update narrative
+LMD-Bridge,CON-LB-ROAD-1050,31-May-26,0.02,0.02,2048192.77,1679518.07,1780289.16,Progress aligned with update narrative
+LMD-Bridge,MEP-LB-LGT-1060,31-May-26,0.00,0.00,0.00,0.00,0.00,Progress aligned with update narrative
+LMD-Bridge,FIN-LB-1070,31-May-26,0.00,0.00,0.00,0.00,0.00,Progress aligned with update narrative
+LMD-Bridge,TST-LB-1080,31-May-26,0.00,0.00,0.00,0.00,0.00,Progress aligned with update narrative
+LMD-Bridge,KD-MS-9000,31-May-26,0.00,0.00,0.00,0.00,0.00,Progress aligned with update narrative

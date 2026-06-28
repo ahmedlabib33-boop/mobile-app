@@ -1,0 +1,16 @@
+﻿project_id,Activity ID,Activity Name,Predecessors,Predecessor Details,Successors
+LMD-Bridge-P.03-UP-26-Jun-26,CON-LB-AA-FORM-1040,Formwork readiness before Abutment A pile cap RFT (Abutment-A),E-APP-LB-AA-1020,E-APP-LB-AA-1020: FS 0,CON-LB-AA-RFT-1050
+LMD-Bridge-P.03-UP-26-Jun-26,CON-LB-AA-RFT-1050,RFT for Abutment A pile cap RFT (Abutment-A),CON-LB-AA-FORM-1040,CON-LB-AA-FORM-1040: FS 0,CON-LB-AA-CONC-1070
+LMD-Bridge-P.03-UP-26-Jun-26,CON-LB-AA-CONC-1070,Concrete casting after Abutment A pile cap RFT (Abutment-A),CON-LB-AA-RFT-1050,CON-LB-AA-RFT-1050: FS 0,LB-MS-1040
+LMD-Bridge-P.03-UP-26-Jun-26,CON-LB-P1-FORM-1050,Formwork readiness before Pier P1 starter bars RFT (Pier-P1),E-APP-LB-P1-1030,E-APP-LB-P1-1030: FS 0,CON-LB-P1-RFT-1060
+LMD-Bridge-P.03-UP-26-Jun-26,CON-LB-P1-RFT-1060,RFT for Pier P1 starter bars RFT (Pier-P1),CON-LB-P1-FORM-1050,CON-LB-P1-FORM-1050: FS 0,CON-LB-P1-CONC-1080
+LMD-Bridge-P.03-UP-26-Jun-26,CON-LB-P1-CONC-1080,Concrete casting after Pier P1 starter bars RFT (Pier-P1),CON-LB-P1-RFT-1060,CON-LB-P1-RFT-1060: FS 0,LB-MS-1040
+LMD-Bridge-P.03-UP-26-Jun-26,CON-LB-P2-FORM-1060,Formwork readiness before Pier P2 shaft RFT (Pier-P2),E-APP-LB-P2-1040,E-APP-LB-P2-1040: FS 0,CON-LB-P2-RFT-1070
+LMD-Bridge-P.03-UP-26-Jun-26,CON-LB-P2-RFT-1070,RFT for Pier P2 shaft RFT (Pier-P2),CON-LB-P2-FORM-1060,CON-LB-P2-FORM-1060: FS 0,CON-LB-P2-CONC-1090
+LMD-Bridge-P.03-UP-26-Jun-26,CON-LB-P2-CONC-1090,Concrete casting after Pier P2 shaft RFT (Pier-P2),CON-LB-P2-RFT-1070,CON-LB-P2-RFT-1070: FS 0,LB-MS-1040
+LMD-Bridge-P.03-UP-26-Jun-26,CON-LB-DS-FORM-1070,Formwork readiness before Deck span diaphragm RFT (Deck-Span),E-APP-LB-DS-1050,E-APP-LB-DS-1050: FS 0,CON-LB-DS-RFT-1080
+LMD-Bridge-P.03-UP-26-Jun-26,CON-LB-DS-RFT-1080,RFT for Deck span diaphragm RFT (Deck-Span),CON-LB-DS-FORM-1070,CON-LB-DS-FORM-1070: FS 0,CON-LB-DS-CONC-1100
+LMD-Bridge-P.03-UP-26-Jun-26,CON-LB-DS-CONC-1100,Concrete casting after Deck span diaphragm RFT (Deck-Span),CON-LB-DS-RFT-1080,CON-LB-DS-RFT-1080: FS 0,LB-MS-1040
+LMD-Bridge-P.03-UP-26-Jun-26,CON-LB-AB-FORM-1080,Formwork readiness before Abutment B wing wall RFT (Abutment-B),E-APP-LB-AB-1060,E-APP-LB-AB-1060: FS 0,CON-LB-AB-RFT-1090
+LMD-Bridge-P.03-UP-26-Jun-26,CON-LB-AB-RFT-1090,RFT for Abutment B wing wall RFT (Abutment-B),CON-LB-AB-FORM-1080,CON-LB-AB-FORM-1080: FS 0,CON-LB-AB-CONC-1110
+LMD-Bridge-P.03-UP-26-Jun-26,CON-LB-AB-CONC-1110,Concrete casting after Abutment B wing wall RFT (Abutment-B),CON-LB-AB-RFT-1090,CON-LB-AB-RFT-1090: FS 0,LB-MS-1040

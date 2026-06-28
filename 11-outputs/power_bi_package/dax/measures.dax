@@ -1,0 +1,12 @@
+// Project Intelligence Hub - Power BI Measures
+Total Projects = DISTINCTCOUNT(Projects[project_id])
+Total Contract Value = SUM(Projects[contract_value])
+Total Contract Clauses = SUM('Claims Summary'[contract_clauses])
+Total Evidence Documents = SUM('Claims Summary'[evidence_documents])
+Total Draft Claims = SUM('Claims Summary'[claim_drafts])
+High Risk Clauses = CALCULATE(COUNTROWS('Contract Clauses'), 'Contract Clauses'[risk_level] IN {"High", "Critical"})
+Strong Claim Items = CALCULATE(COUNTROWS('Contract Clauses'), 'Contract Clauses'[claim_strength] IN {"Strong", "Very Strong"})
+Schedule Impact Clauses = CALCULATE(COUNTROWS('Contract Clauses'), 'Contract Clauses'[time_impact] IN {"Yes", "Possible"})
+Cost Impact Clauses = CALCULATE(COUNTROWS('Contract Clauses'), 'Contract Clauses'[cost_impact] IN {"Yes", "Possible"})
+Files Loaded = COUNTROWS('Source Files')
+Projects With Contracts = CALCULATE(DISTINCTCOUNT('Claims Summary'[project_id]), 'Claims Summary'[contract_documents] > 0)

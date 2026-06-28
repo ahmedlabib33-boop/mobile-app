@@ -1,0 +1,6 @@
+﻿project_id,activity_id,activity_name,predecessor_details,successor_details,activity_status,total_float,original_duration,bl_project_start,bl_project_finish,start,finish,schedule_%_complete,activity_%_complete,performance_%_complete,budgeted_total_cost,earned_value_cost
+LMD-Bridge,con-lb-pil-1010,bored_piles_and_pile_caps,p-mdel-1000:_fs,con-lb-rft-1020:_fs,in_progress,-37,95,10-Jan-26,15-Apr-26,6-Feb-26,12-May-26,0.85,0.70,0.70,102409638.55,71379518.07
+LMD-Bridge,con-lb-rft-1020,rft_for_piers_and_abutments,con-lb-pil-1010:_fs,con-lb-con-1030:_fs,in_progress,-39,38,17-Mar-26,24-Apr-26,7-Apr-26,21-May-26,0.58,0.48,0.48,102409638.55,48706024.10
+LMD-Bridge,con-lb-con-1030,concrete_works_for_piers_and_abutments,con-lb-rft-1020:_fs,con-lb-deck-1040:_fs,in_progress,-41,35,24-Apr-26,29-May-26,18-May-26,25-Jun-26,0.36,0.30,0.30,102409638.55,30231325.30
+LMD-Bridge,con-lb-deck-1040,deck_formwork_reinforcement_and_casting,con-lb-con-1030:_fs,con-lb-road-1050:_fs,in_progress,-43,80,13-Jun-26,1-Sep-26,10-Jul-26,28-Sep-26,0.08,0.07,0.07,102409638.55,6718072.29
+LMD-Bridge,con-lb-road-1050,approach_road_embankment_and_pavement,con-lb-deck-1040:_fs,,in_progress,17,95,27-Aug-26,30-Nov-26,17-Sep-26,27-Dec-26,0.02,0.02,0.02,102409638.55,1679518.07

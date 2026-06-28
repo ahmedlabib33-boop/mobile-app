@@ -1,0 +1,2 @@
+﻿project_id,project_name,client_name,contractor,planned_start,planned_finish,forecast_finish,contract_value,currency,status,planned_progress_percent,actual_progress_percent,planned_value,earned_value
+LMD-Bridge,LMD Bridge & Road Interchange,LMD Infrastructure Company,Prime Roads & Bridges,5-Nov-25,20-Mar-27,9-Jun-27,850000000,EGP,Delayed,38.00,31.00,323000000,263500000

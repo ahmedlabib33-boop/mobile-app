@@ -1,0 +1,6 @@
+﻿project_id,Primary Event ID,Activity ID,Activity Name,BL Start,BL Finish,Start,Finish,Delayed duration,Overlap Start,Overlap Finish,BL Critical Path,Current Critical Path,Delayed duration after overlap
+Sophia-Mall,Delay in employer free issue steel supply,CON-SM-EXC-1010,Bulk excavation and dewatering,9-Dec-25,19-Mar-26,14-Dec-25,3-Apr-26,-15,14-Dec-25,3-Apr-26,Yes,Yes,15
+Sophia-Mall,Late IFC / design clarification,CON-SM-RFT-1020,RFT for raft foundation,22-Feb-26,30-Mar-26,4-Mar-26,20-Apr-26,-21,4-Mar-26,20-Apr-26,Yes,No,21
+Sophia-Mall,Delayed RFI response,CON-SM-CON-1030,Raft foundation concrete works,30-Mar-26,29-Apr-26,14-Apr-26,26-May-26,-27,14-Apr-26,26-May-26,Yes,Yes,27
+Sophia-Mall,Access constraint and traffic diversion,CON-SM-B1-1040,Basement B1 columns and walls,29-Apr-26,26-Jun-26,19-May-26,29-Jul-26,-33,19-May-26,29-Jul-26,No,No,33
+Sophia-Mall,MEP sleeve coordination delay,CON-SM-GF-1050,Ground floor slab and beams,26-Jun-26,4-Sep-26,21-Jul-26,13-Oct-26,-39,21-Jul-26,13-Oct-26,No,Yes,32

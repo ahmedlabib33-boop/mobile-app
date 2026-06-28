@@ -1,0 +1,20 @@
+﻿project_id,task_code,status_code,wbs_id,task_name,target_start_date,target_end_date
+LMD-Bridge,LB-MS-1000,Completed,LMD-Bridge.BL.MI,Project Start Milestone,10-Mar-26,
+LMD-Bridge,LB-MOB-1010,Completed,LMD-Bridge.BL.MOB,Site mobilization and temporary facilities,13-Mar-26,27-Mar-26
+LMD-Bridge,LB-ENG-1010,Completed,LMD-Bridge.BL.ENG.SUB,Structural shop drawing submittal and baseline approvals,20-Mar-26,7-Apr-26
+LMD-Bridge,LB-PROC-1020,In Progress,LMD-Bridge.BL.PROC,Long lead procurement and material approval cycle,4-Apr-26,24-Apr-26
+LMD-Bridge,LB-Z01-EXC-1010,In Progress,LMD-Bridge.BL.CW.Z01.EARTH,Excavation and formation works - North Abutment,29-Apr-26,17-May-26
+LMD-Bridge,LB-Z01-RFT-1020,Not Started,LMD-Bridge.BL.CW.Z01.STR,Reinforcement and embedded item release - North Abutment,17-May-26,29-May-26
+LMD-Bridge,LB-Z01-CON-1030,Not Started,LMD-Bridge.BL.CW.Z01.STR,Concrete casting and curing - North Abutment,30-May-26,7-Jun-26
+LMD-Bridge,LB-Z02-EXC-1010,Not Started,LMD-Bridge.BL.CW.Z02.EARTH,Excavation and formation works - Pier Zone,13-Jun-26,1-Jul-26
+LMD-Bridge,LB-Z02-RFT-1020,Not Started,LMD-Bridge.BL.CW.Z02.STR,Reinforcement and embedded item release - Pier Zone,1-Jul-26,13-Jul-26
+LMD-Bridge,LB-Z02-CON-1030,Not Started,LMD-Bridge.BL.CW.Z02.STR,Concrete casting and curing - Pier Zone,14-Jul-26,22-Jul-26
+LMD-Bridge,LB-Z03-EXC-1010,Not Started,LMD-Bridge.BL.CW.Z03.EARTH,Excavation and formation works - Deck Segment,28-Jul-26,15-Aug-26
+LMD-Bridge,LB-Z03-RFT-1020,Not Started,LMD-Bridge.BL.CW.Z03.STR,Reinforcement and embedded item release - Deck Segment,15-Aug-26,27-Aug-26
+LMD-Bridge,LB-Z03-CON-1030,Not Started,LMD-Bridge.BL.CW.Z03.STR,Concrete casting and curing - Deck Segment,28-Aug-26,5-Sep-26
+LMD-Bridge,LB-Z04-EXC-1010,Not Started,LMD-Bridge.BL.CW.Z04.EARTH,Excavation and formation works - South Abutment,11-Sep-26,29-Sep-26
+LMD-Bridge,LB-Z04-RFT-1020,Not Started,LMD-Bridge.BL.CW.Z04.STR,Reinforcement and embedded item release - South Abutment,29-Sep-26,11-Oct-26
+LMD-Bridge,LB-Z04-CON-1030,Not Started,LMD-Bridge.BL.CW.Z04.STR,Concrete casting and curing - South Abutment,12-Oct-26,20-Oct-26
+LMD-Bridge,LB-MEP-2010,Not Started,LMD-Bridge.BL.MEP.COR,MEP first-fix coordination and embedded systems clearance,5-Nov-26,5-Dec-26
+LMD-Bridge,LB-FIN-3010,Not Started,LMD-Bridge.BL.T&C,"Testing, commissioning and handover preparation",10-Dec-26,30-Dec-26
+LMD-Bridge,LB-MS-9000,Not Started,LMD-Bridge.BL.MI,Project Finish Milestone,30-Sep-27,

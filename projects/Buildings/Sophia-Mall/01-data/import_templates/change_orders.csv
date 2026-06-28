@@ -1,0 +1,4 @@
+﻿change_order_id,contract_id,project_id,title,submitted_date,approved_date,status,claimed_amount,approved_amount,cost_impact,time_impact_days,owner_response_due
+CO-001,SM-PH-01,Sophia-Mall,Additional dewatering and temporary works,29-Dec-25,16-Feb-26,Approved,37800000,31500000,Yes,0,26-Jan-26
+CO-002,SM-PH-01,Sophia-Mall,Revised structural details and access sequence,2-Mar-26,,Under Review,25200000,0,Yes,17,30-Mar-26
+CO-003,SM-PH-02,Sophia-Mall,Additional night shift and traffic control measures,18-Apr-26,,Submitted,12600000,0,Yes,7,16-May-26

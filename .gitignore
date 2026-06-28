@@ -1,0 +1,44 @@
+﻿# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+env/
+ENV/
+.streamlit/secrets.toml
+
+# Local databases / auth
+users.db
+runtime/
+.pih_mobile_app_sync_state/
+auth.db
+*.sqlite
+*.sqlite3
+
+# Build outputs
+dist/
+build/
+.gradle/
+android_app/.gradle/
+android_app/app/build/
+
+# Signing secrets
+*.jks
+*.keystore
+key.properties
+android_signing/
+
+# Backup / temp
+backup_before_mobile_conversion_*/
+backup_*/
+*.tmp
+*.bak
+*.log
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

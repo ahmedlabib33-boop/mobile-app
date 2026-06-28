@@ -1,0 +1,4 @@
+﻿change_order_id,contract_id,project_id,title,submitted_date,approved_date,status,claimed_amount,approved_amount,cost_impact,time_impact_days,owner_response_due
+CO-001,LB-PH-01,LMD-Bridge,Additional dewatering and temporary works,19-Jan-26,9-Mar-26,Approved,15300000,12750000,Yes,0,16-Feb-26
+CO-002,LB-PH-01,LMD-Bridge,Revised structural details and access sequence,23-Mar-26,,Under Review,10200000,0,Yes,33,20-Apr-26
+CO-003,LB-PH-02,LMD-Bridge,Additional night shift and traffic control measures,9-May-26,,Submitted,5100000,0,Yes,7,6-Jun-26

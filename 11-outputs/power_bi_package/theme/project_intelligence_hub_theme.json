@@ -1,0 +1,34 @@
+{
+  "name": "Project Intelligence Hub Executive Theme",
+  "dataColors": [
+    "#173B63",
+    "#168F8B",
+    "#D4A017",
+    "#D9544D",
+    "#667085",
+    "#8B6BD9",
+    "#50D5B7",
+    "#245F95"
+  ],
+  "background": "#F8FBFD",
+  "foreground": "#172033",
+  "tableAccent": "#168F8B",
+  "visualStyles": {
+    "*": {
+      "*": {
+        "fontFamily": [
+          {
+            "fontFamily": "Segoe UI"
+          }
+        ],
+        "color": [
+          {
+            "solid": {
+              "color": "#172033"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

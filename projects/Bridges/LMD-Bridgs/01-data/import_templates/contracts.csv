@@ -1,0 +1,3 @@
+﻿contract_id,project_id,package,contractor,contract_type,original_value,approved_variations,pending_variations,paid_to_date,retention_percent,status
+LB-PH-01,LMD-Bridge,1,Prime Roads & Bridges,Unit rate,850000000,29750000,10200000,197625000,5%,Active
+LB-PH-02,LMD-Bridge,2,Prime Roads & Bridges,Lump sum,153000000,1530000,3060000,16600500,5%,Active

@@ -1,0 +1,7 @@
+﻿{
+    "app_name":  "Project Intelligence Hub",
+    "streamlit_url":  "https://mobile-app.streamlit.app",
+    "android_apk_output":  "dist/Project_Intelligence_Hub.apk",
+    "ios_status":  "iOS project prepared; signed IPA requires macOS/Xcode and Apple developer signing",
+    "git_policy":  "No Git required. GitHub sync is optional and uses PIH_MOBILE_APP_GITHUB_TOKEN/PIH_MOBILE_APP_GH_TOKEN only when the owner creates a token and runs the sync script."
+}

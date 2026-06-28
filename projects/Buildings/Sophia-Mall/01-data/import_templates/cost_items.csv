@@ -1,0 +1,18 @@
+﻿project_id,wbs_id,cost_code,activity_name,budget_cost,committed_cost,actual_cost,forecast_cost
+Sophia-Mall,Sophia-Mall.MILESTONE,M-MS-1000,Project Start Date,25301204.82,25301204.82,24795180.72,25554216.87
+Sophia-Mall,Sophia-Mall.MILESTONE,M-MS-1010,Contract Agreement,25301204.82,25301204.82,24795180.72,25554216.87
+Sophia-Mall,Sophia-Mall.MILESTONE,M-MS-1020,IFC Drawing Package,25301204.82,25301204.82,24795180.72,25554216.87
+Sophia-Mall,Sophia-Mall.MOBILIZATION,M-MOB-1000,Mobilization and site logistics setup,50602409.64,50602409.64,49590361.45,51108433.73
+Sophia-Mall,Sophia-Mall.SURVEY,SUR-SM-1010,Surveying and benchmark establishment,50602409.64,50602409.64,49590361.45,51108433.73
+Sophia-Mall,Sophia-Mall.ENGINEERING,E-SUB-SM-1020,Structural and architectural shop drawings,75903614.46,72412048.19,70963807.23,76662650.60
+Sophia-Mall,Sophia-Mall.ENGINEERING,E-APP-SM-1020,Approval of podium and basement drawings,75903614.46,62757108.43,61501966.27,76662650.60
+Sophia-Mall,Sophia-Mall.PROCUREMENT,P-MDEL-SM-1000,Long lead procurement for steel and MEP sleeves,126506024.10,89844578.31,88047686.75,127771084.34
+Sophia-Mall,Sophia-Mall.CONSTRUCTION,C-SM-EXC-1010,Bulk excavation and dewatering,253012048.19,253012048.19,247951807.23,255542168.67
+Sophia-Mall,Sophia-Mall.CONSTRUCTION,C-SM-RFT-1020,RFT for raft foundation,253012048.19,219918072.29,215519710.84,255542168.67
+Sophia-Mall,Sophia-Mall.CONSTRUCTION,C-SM-C-1030,Raft foundation concrete works,253012048.19,166279518.07,162953927.71,255542168.67
+Sophia-Mall,Sophia-Mall.CONSTRUCTION,C-SM-B1-1040,Basement B1 columns and walls,253012048.19,93867469.88,91990120.48,255542168.67
+Sophia-Mall,Sophia-Mall.CONSTRUCTION,C-SM-GF-1050,Ground floor slab and beams,253012048.19,37951807.23,26282891.57,255542168.67
+Sophia-Mall,Sophia-Mall.MEP,MEP-SM-1060,"MEP sleeves, embeds and risers coordination",151807228.92,22771084.34,4730920.48,153325301.20
+Sophia-Mall,Sophia-Mall.FINISHING,FIN-SM-1070,Façade and retail shell finishing,151807228.92,22771084.34,0.00,153325301.20
+Sophia-Mall,Sophia-Mall.TESTING,TST-SM-1080,"Testing, commissioning and authorities handover",50602409.64,7590361.45,0.00,51108433.73
+Sophia-Mall,Sophia-Mall.MILESTONE,M-MS-9000,Substantial Completion,25301204.82,3795180.72,0.00,25554216.87

@@ -1,0 +1,18 @@
+﻿project_id,wbs_id,activity_id,activity_name,planned_start,planned_finish,actual_start,actual_finish,forecast_start,forecast_finish,planned_weight,planned_progress,actual_progress,total_float_days,is_critical,responsible_party
+Sophia-Mall,Sophia-Mall.MILESTONE,KD-MS-1000,Project Start Date,15-Oct-25,,15-Oct-25 A,15-Oct-25 A,15-Oct-25,,0.0120,1.00,1.00,5,No,Project Controls
+Sophia-Mall,Sophia-Mall.MILESTONE,KD-MS-1010,Contract Agreement,15-Oct-25,,15-Oct-25 A,15-Oct-25 A,15-Oct-25,,0.0120,1.00,1.00,6,No,Commercial
+Sophia-Mall,Sophia-Mall.MILESTONE,KD-MS-1020,IFC Drawing Package,25-Oct-25,,25-Oct-25 A,25-Oct-25 A,25-Oct-25,,0.0120,1.00,1.00,,Yes,Engineering
+Sophia-Mall,Sophia-Mall.MOBILIZATION,KD-MOB-1000,Mobilization and site logistics setup,17-Oct-25,18-Nov-25,22-Oct-25 A,24-Nov-25 A,22-Oct-25,20-Nov-25,0.0241,1.00,1.00,8,No,Construction
+Sophia-Mall,Sophia-Mall.SURVEY,SUR-SM-1010,Surveying and benchmark establishment,5-Nov-25,23-Nov-25,13-Nov-25 A,2-Dec-25 A,13-Nov-25,25-Nov-25,0.0241,1.00,1.00,9,No,Survey Team
+Sophia-Mall,Sophia-Mall.ENGINEERING,E-SUB-SM-1020,Structural and architectural shop drawings,22-Nov-25,6-Jan-26,3-Dec-25 A,,3-Dec-25,8-Jan-26,0.0361,0.90,0.95,-15,Yes,Engineering
+Sophia-Mall,Sophia-Mall.ENGINEERING,E-APP-SM-1020,Approval of podium and basement drawings,5-Jan-26,10-Feb-26,10-Jan-26 A,,10-Jan-26,12-Feb-26,0.0361,0.78,0.83,-17,Yes,Engineer
+Sophia-Mall,Sophia-Mall.PROCUREMENT,P-MDEL-SM-1000,Long lead procurement for steel and MEP sleeves,24-Dec-25,2-Mar-26,1-Jan-26 A,,1-Jan-26,4-Mar-26,0.0602,0.67,0.71,-19,Yes,Procurement
+Sophia-Mall,Sophia-Mall.CONSTRUCTION,CON-SM-EXC-1010,Bulk excavation and dewatering,9-Dec-25,19-Mar-26,20-Dec-25 A,1-Apr-26 A,20-Dec-25,21-Mar-26,0.1205,0.95,1.00,,Yes,Construction
+Sophia-Mall,Sophia-Mall.CONSTRUCTION,CON-SM-RFT-1020,RFT for raft foundation,22-Feb-26,30-Mar-26,27-Feb-26 A,,27-Feb-26,1-Apr-26,0.1205,0.82,0.87,-23,Yes,Construction
+Sophia-Mall,Sophia-Mall.CONSTRUCTION,CON-SM-CON-1030,Raft foundation concrete works,30-Mar-26,29-Apr-26,7-Apr-26 A,,7-Apr-26,1-May-26,0.1205,0.62,0.66,-25,Yes,Construction
+Sophia-Mall,Sophia-Mall.CONSTRUCTION,CON-SM-B1-1040,Basement B1 columns and walls,29-Apr-26,26-Jun-26,10-May-26 A,,10-May-26,28-Jun-26,0.1205,0.35,0.37,-27,Yes,Construction
+Sophia-Mall,Sophia-Mall.CONSTRUCTION,CON-SM-GF-1050,Ground floor slab and beams,26-Jun-26,4-Sep-26,1-Jul-26 A,,1-Jul-26,6-Sep-26,0.1205,0.10,0.11,-29,Yes,Construction
+Sophia-Mall,Sophia-Mall.MEP,MEP-SM-1060,"MEP sleeves, embeds and risers coordination",27-Jul-26,15-Oct-26,4-Aug-26 A,,4-Aug-26,17-Oct-26,0.0723,0.03,0.03,18,No,MEP
+Sophia-Mall,Sophia-Mall.FINISHING,FIN-SM-1070,Façade and retail shell finishing,9-Nov-26,9-Mar-27,,,14-Nov-26,11-Mar-27,0.0723,0.00,0.00,19,No,Finishing
+Sophia-Mall,Sophia-Mall.TESTING,TST-SM-1080,"Testing, commissioning and authorities handover",28-May-27,12-Jul-27,,,2-Jun-27,14-Jul-27,0.0241,0.00,0.00,-35,Yes,QA/QC
+Sophia-Mall,Sophia-Mall.MILESTONE,KD-MS-9000,Substantial Completion,1-Aug-27,,,,6-Aug-27,,0.0120,0.00,0.00,-37,Yes,Project Controls

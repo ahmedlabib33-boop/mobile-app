@@ -1,0 +1,40 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "PIH: Configure sync credentials securely",
+      "type": "shell",
+      "command": "powershell.exe",
+      "args": [
+        "-NoProfile",
+        "-ExecutionPolicy",
+        "Bypass",
+        "-File",
+        "${workspaceFolder}\\tools\\configure_github_sync_credentials.ps1"
+      ],
+      "problemMatcher": []
+    },
+    {
+      "label": "PIH: Sync repository now",
+      "type": "shell",
+      "command": "${workspaceFolder}\\RUN_MOBILE_APP_SYNC.bat",
+      "args": ["Once", "30"],
+      "problemMatcher": []
+    },
+    {
+      "label": "PIH: Watch repository every 30 seconds",
+      "type": "shell",
+      "command": "${workspaceFolder}\\RUN_MOBILE_APP_SYNC.bat",
+      "args": ["Watch", "30"],
+      "isBackground": true,
+      "problemMatcher": []
+    },
+    {
+      "label": "PIH: Preview repository sync",
+      "type": "shell",
+      "command": "${workspaceFolder}\\RUN_MOBILE_APP_SYNC.bat",
+      "args": ["DryRun", "30"],
+      "problemMatcher": []
+    }
+  ]
+}

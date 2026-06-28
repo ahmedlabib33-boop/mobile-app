@@ -1,0 +1,18 @@
+﻿Actual Duration,Activity ID,Activity Name,WBS,project_id,Original Duration,Remaining Duration,BL Project Start,BL Project Finish,Start,Finish,Free Float,Total Float,Variance - BL1 Nonlabor Units,Variance - BL Project Nonlabor Units,Actual Nonlabor Units,Remaining Nonlabor Units,Predecessors,Successors,Budgeted Nonlabor Units,Activity % Complete,Critical,Longest Path
+0,LB-MS-1000,Project Start Milestone,LMD-Bridge.BL.MI,LMD-Bridge,0,0,10-Mar-26,30-Sep-27,10-Mar-26 A,10-Mar-26 A,0,0,0,0,0,0,,"LB-MOB-1010, LB-ENG-1010",0,100%,Yes,Yes
+14,LB-MOB-1010,Site mobilization and temporary facilities,LMD-Bridge.BL.MOB,LMD-Bridge,14,0,10-Mar-26,30-Sep-27,13-Mar-26 A,27-Mar-26 A,0,0,0,0,0,0,LB-MS-1000,LB-Z01-EXC-1010,0,100%,Yes,Yes
+7,LB-PROC-1020,Long lead procurement and material approval cycle,LMD-Bridge.BL.PROC,LMD-Bridge,20,13,10-Mar-26,30-Sep-27,4-Apr-26,24-Apr-26,0,0,-5,-8,0.0,0.0,LB-ENG-1010,,0,65%,Yes,Yes
+6,LB-Z01-EXC-1010,Excavation and formation works - North Abutment,LMD-Bridge.BL.CW.Z01.EARTH,LMD-Bridge,18,12,10-Mar-26,30-Sep-27,29-Apr-26,17-May-26,0,0,-5,-8,0.0,0.0,LB-MOB-1010,LB-Z01-RFT-1020,0,35%,Yes,Yes
+0,LB-Z01-RFT-1020,Reinforcement and embedded item release - North Abutment,LMD-Bridge.BL.CW.Z01.STR,LMD-Bridge,12,12,10-Mar-26,30-Sep-27,17-May-26,29-May-26,0,0,0,0,0,138,LB-Z01-EXC-1010,LB-Z01-CON-1030,138,15%,Yes,Yes
+0,LB-Z01-CON-1030,Concrete casting and curing - North Abutment,LMD-Bridge.BL.CW.Z01.STR,LMD-Bridge,8,8,10-Mar-26,30-Sep-27,30-May-26,7-Jun-26,0,0,0,0,0,55,LB-Z01-RFT-1020,LB-Z02-EXC-1010,55,0%,Yes,Yes
+0,LB-Z02-EXC-1010,Excavation and formation works - Pier Zone,LMD-Bridge.BL.CW.Z02.EARTH,LMD-Bridge,18,18,10-Mar-26,30-Sep-27,13-Jun-26,1-Jul-26,0,0,0,0,0,0,LB-Z01-CON-1030,LB-Z02-RFT-1020,0,0%,Yes,Yes
+0,LB-Z02-RFT-1020,Reinforcement and embedded item release - Pier Zone,LMD-Bridge.BL.CW.Z02.STR,LMD-Bridge,12,12,10-Mar-26,30-Sep-27,1-Jul-26,13-Jul-26,0,0,0,0,0,156,LB-Z02-EXC-1010,LB-Z02-CON-1030,156,0%,Yes,Yes
+0,LB-Z02-CON-1030,Concrete casting and curing - Pier Zone,LMD-Bridge.BL.CW.Z02.STR,LMD-Bridge,8,8,10-Mar-26,30-Sep-27,14-Jul-26,22-Jul-26,0,0,0,0,0,65,LB-Z02-RFT-1020,LB-Z03-EXC-1010,65,0%,Yes,Yes
+0,LB-Z03-EXC-1010,Excavation and formation works - Deck Segment,LMD-Bridge.BL.CW.Z03.EARTH,LMD-Bridge,18,18,10-Mar-26,30-Sep-27,28-Jul-26,15-Aug-26,0,0,0,0,0,0,LB-Z02-CON-1030,LB-Z03-RFT-1020,0,0%,Yes,Yes
+0,LB-Z03-RFT-1020,Reinforcement and embedded item release - Deck Segment,LMD-Bridge.BL.CW.Z03.STR,LMD-Bridge,12,12,10-Mar-26,30-Sep-27,15-Aug-26,27-Aug-26,0,0,0,0,0,174,LB-Z03-EXC-1010,LB-Z03-CON-1030,174,0%,Yes,Yes
+0,LB-Z03-CON-1030,Concrete casting and curing - Deck Segment,LMD-Bridge.BL.CW.Z03.STR,LMD-Bridge,8,8,10-Mar-26,30-Sep-27,28-Aug-26,5-Sep-26,0,0,0,0,0,75,LB-Z03-RFT-1020,LB-Z04-EXC-1010,75,0%,Yes,Yes
+0,LB-Z04-RFT-1020,Reinforcement and embedded item release - South Abutment,LMD-Bridge.BL.CW.Z04.STR,LMD-Bridge,12,12,10-Mar-26,30-Sep-27,29-Sep-26,11-Oct-26,0,0,0,0,0,192,LB-Z04-EXC-1010,LB-Z04-CON-1030,192,0%,Yes,Yes
+0,LB-Z04-CON-1030,Concrete casting and curing - South Abutment,LMD-Bridge.BL.CW.Z04.STR,LMD-Bridge,8,8,10-Mar-26,30-Sep-27,12-Oct-26,20-Oct-26,0,0,0,0,0,85,LB-Z04-RFT-1020,LB-MEP-2010,85,0%,Yes,Yes
+0,LB-MEP-2010,MEP first-fix coordination and embedded systems clearance,LMD-Bridge.BL.MEP.COR,LMD-Bridge,30,30,10-Mar-26,30-Sep-27,5-Nov-26,5-Dec-26,0,0,0,0,0,0,LB-Z04-CON-1030,LB-FIN-3010,0,0%,Yes,Yes
+0,LB-FIN-3010,"Testing, commissioning and handover preparation",LMD-Bridge.BL.T&C,LMD-Bridge,20,20,10-Mar-26,30-Sep-27,10-Dec-26,30-Dec-26,0,0,0,0,0,0,LB-MEP-2010,LB-MS-9000,0,0%,Yes,Yes
+0,LB-MS-9000,Project Finish Milestone,LMD-Bridge.BL.MI,LMD-Bridge,0,0,10-Mar-26,30-Sep-27,30-Sep-27,30-Sep-27,0,0,0,0,0,0,LB-FIN-3010,,0,0%,Yes,Yes

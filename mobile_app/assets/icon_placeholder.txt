@@ -1,0 +1,3 @@
+Project Intelligence Hub app icon placeholder.
+
+Replace this placeholder with production app icon artwork before publishing. Flutter platform icon generation can be done with free local tooling after final branding is approved.

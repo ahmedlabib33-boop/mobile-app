@@ -1,0 +1,4 @@
+storeFile=release-key.jks
+storePassword=CHANGE_THIS_SECURE_STORE_PASSWORD
+keyAlias=project_intelligence_hub
+keyPassword=CHANGE_THIS_SECURE_KEY_PASSWORD

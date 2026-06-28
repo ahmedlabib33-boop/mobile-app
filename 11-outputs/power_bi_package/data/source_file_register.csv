@@ -1,0 +1,271 @@
+project_id,project_name,sector_name,relative_path,file_name,suffix,size_bytes,modified_utc
+LMD-Bridge,LMD Bridge & Road Interchange,Bridges,project.json,project.json,.json,224,2026-06-27T00:30:18.420596
+LMD-Bridge,LMD Bridge & Road Interchange,Bridges,project_manifest.json,project_manifest.json,.json,387,2026-06-27T00:30:18.420596
+LMD-Bridge,LMD Bridge & Road Interchange,Bridges,README.md,README.md,.md,798,2026-06-15T19:54:55.407983
+LMD-Bridge,LMD Bridge & Road Interchange,Bridges,03-schedule/BL critical path.csv,BL critical path.csv,.csv,3746,2026-06-26T17:52:10
+LMD-Bridge,LMD Bridge & Road Interchange,Bridges,03-schedule/BL float bath.csv,BL float bath.csv,.csv,2494,2026-06-26T17:52:10
+LMD-Bridge,LMD Bridge & Road Interchange,Bridges,03-schedule/Bl Longest bath.csv,Bl Longest bath.csv,.csv,3746,2026-06-26T17:52:10
+LMD-Bridge,LMD Bridge & Road Interchange,Bridges,03-schedule/BL Schedule.csv,BL Schedule.csv,.csv,4158,2026-06-26T17:52:10
+LMD-Bridge,LMD Bridge & Road Interchange,Bridges,03-schedule/MEP Activities.csv,MEP Activities.csv,.csv,2753,2026-06-26T17:52:10
+LMD-Bridge,LMD Bridge & Road Interchange,Bridges,03-schedule/MEP Civil Logic.csv,MEP Civil Logic.csv,.csv,1806,2026-06-26T17:52:10
+LMD-Bridge,LMD Bridge & Road Interchange,Bridges,03-schedule/MEP Schedule.csv,MEP Schedule.csv,.csv,8615,2026-06-26T17:52:10
+LMD-Bridge,LMD Bridge & Road Interchange,Bridges,05-contracts/contract_claims.db,contract_claims.db,.db,294912,2026-06-27T02:23:53.241665
+LMD-Bridge,LMD Bridge & Road Interchange,Bridges,06-evidence/clause_reference_template.csv,clause_reference_template.csv,.csv,83,2026-06-26T21:08:34.891791
+LMD-Bridge,LMD Bridge & Road Interchange,Bridges,06-evidence/contract_evidence_register_template.csv,contract_evidence_register_template.csv,.csv,87,2026-06-26T21:08:34.890793
+LMD-Bridge,LMD Bridge & Road Interchange,Bridges,06-evidence/correspondence_reference_template.csv,correspondence_reference_template.csv,.csv,88,2026-06-26T21:08:34.892548
+LMD-Bridge,LMD Bridge & Road Interchange,Bridges,06-evidence/document_reference_template.csv,document_reference_template.csv,.csv,88,2026-06-26T21:08:34.894718
+LMD-Bridge,LMD Bridge & Road Interchange,Bridges,06-evidence/evidence_register_template.csv,evidence_register_template.csv,.csv,104,2026-06-26T21:08:34.893056
+LMD-Bridge,LMD Bridge & Road Interchange,Bridges,06-evidence/photo_log_template.csv,photo_log_template.csv,.csv,83,2026-06-26T21:08:34.894100
+LMD-Bridge,LMD Bridge & Road Interchange,Bridges,08-branding/color_palette_template.csv,color_palette_template.csv,.csv,210,2026-06-19T11:45:06.028115
+LMD-Bridge,LMD Bridge & Road Interchange,Bridges,08-branding/logo_placeholder.txt,logo_placeholder.txt,.txt,51,2026-06-19T06:24:12.168633
+LMD-Bridge,LMD Bridge & Road Interchange,Bridges,08-branding/project_identity_template.json,project_identity_template.json,.json,152,2026-06-19T06:24:12.165633
+LMD-Bridge,LMD Bridge & Road Interchange,Bridges,08-branding/README.md,README.md,.md,111,2026-06-19T06:24:12.164634
+LMD-Bridge,LMD Bridge & Road Interchange,Bridges,08-branding/report_branding_template.json,report_branding_template.json,.json,104,2026-06-19T06:24:12.167636
+LMD-Bridge,LMD Bridge & Road Interchange,Bridges,09-notes/claims_notes_template.md,claims_notes_template.md,.md,121,2026-06-19T06:24:12.172634
+LMD-Bridge,LMD Bridge & Road Interchange,Bridges,09-notes/engineering_notes_template.md,engineering_notes_template.md,.md,110,2026-06-19T06:24:12.172634
+LMD-Bridge,LMD Bridge & Road Interchange,Bridges,09-notes/meeting_notes_template.md,meeting_notes_template.md,.md,98,2026-06-19T06:24:12.171633
+LMD-Bridge,LMD Bridge & Road Interchange,Bridges,05-contracts/source/Overall Contract.pdf,Overall Contract.pdf,.pdf,12040,2026-06-26T18:03:24
+LMD-Bridge,LMD Bridge & Road Interchange,Bridges,05-contracts/source/Overall_Contract_clause_library.xlsx,Overall_Contract_clause_library.xlsx,.xlsx,10722,2026-06-27T02:23:52.244973
+LMD-Bridge,LMD Bridge & Road Interchange,Bridges,05-contracts/source/README.md,README.md,.md,235,2026-06-06T01:50:20.252863
+LMD-Bridge,LMD Bridge & Road Interchange,Bridges,02-delay_analysis/methodology/TIA methodology.docx,TIA methodology.docx,.docx,3699219,2026-05-20T16:13:03.964431
+LMD-Bridge,LMD Bridge & Road Interchange,Bridges,02-delay_analysis/steel_delay_tia_templates/01-project_metadata_template.csv,01-project_metadata_template.csv,.csv,711,2026-06-26T17:39:36
+LMD-Bridge,LMD Bridge & Road Interchange,Bridges,02-delay_analysis/steel_delay_tia_templates/02-master_activity_steel_analysis.csv,02-master_activity_steel_analysis.csv,.csv,2904,2026-06-26T17:39:36
+LMD-Bridge,LMD Bridge & Road Interchange,Bridges,02-delay_analysis/steel_delay_tia_templates/03-employer_steel_supply_at_site.csv,03-employer_steel_supply_at_site.csv,.csv,633,2026-06-26T17:39:36
+LMD-Bridge,LMD Bridge & Road Interchange,Bridges,02-delay_analysis/steel_delay_tia_templates/04-p6_activity_export.csv,04-p6_activity_export.csv,.csv,4722,2026-06-26T17:39:36
+LMD-Bridge,LMD Bridge & Road Interchange,Bridges,02-delay_analysis/steel_delay_tia_templates/05-relationship_file.csv,05-relationship_file.csv,.csv,2537,2026-06-26T17:39:36
+LMD-Bridge,LMD Bridge & Road Interchange,Bridges,02-delay_analysis/steel_delay_tia_templates/06-contract_library.csv,06-contract_library.csv,.csv,2935,2026-06-26T17:39:36
+LMD-Bridge,LMD Bridge & Road Interchange,Bridges,02-delay_analysis/steel_delay_tia_templates/07-ifc_conflict.csv,07-ifc_conflict.csv,.csv,1572,2026-06-26T17:39:36
+LMD-Bridge,LMD Bridge & Road Interchange,Bridges,02-delay_analysis/steel_delay_tia_templates/08-payments.csv,08-payments.csv,.csv,1116,2026-06-26T17:39:36
+LMD-Bridge,LMD Bridge & Road Interchange,Bridges,02-delay_analysis/steel_delay_tia_templates/09-rfi_status.csv,09-rfi_status.csv,.csv,1101,2026-06-26T17:39:36
+LMD-Bridge,LMD Bridge & Road Interchange,Bridges,02-delay_analysis/steel_delay_tia_templates/10-contractor_steel_supplied_at_site.csv,10-contractor_steel_supplied_at_site.csv,.csv,628,2026-06-26T17:39:36
+LMD-Bridge,LMD Bridge & Road Interchange,Bridges,02-delay_analysis/steel_delay_tia_templates/11-concurrency_matrix_template.updated.csv,11-concurrency_matrix_template.updated.csv,.csv,2196,2026-06-26T17:39:36
+LMD-Bridge,LMD Bridge & Road Interchange,Bridges,02-delay_analysis/steel_delay_tia_templates/12-client_steel_demand_by_dia_wide.csv,12-client_steel_demand_by_dia_wide.csv,.csv,1246,2026-06-26T17:39:36
+LMD-Bridge,LMD Bridge & Road Interchange,Bridges,02-delay_analysis/steel_delay_tia_templates/13-client_steel_supply_by_dia_wide.csv,13-client_steel_supply_by_dia_wide.csv,.csv,395,2026-06-26T17:39:36
+LMD-Bridge,LMD Bridge & Road Interchange,Bridges,01-data/import_templates/activities.csv,activities.csv,.csv,3032,2026-06-26T17:26:44
+LMD-Bridge,LMD Bridge & Road Interchange,Bridges,01-data/import_templates/change_orders.csv,change_orders.csv,.csv,548,2026-06-26T17:26:44
+LMD-Bridge,LMD Bridge & Road Interchange,Bridges,01-data/import_templates/claims.csv,claims.csv,.csv,464,2026-06-26T17:26:44
+LMD-Bridge,LMD Bridge & Road Interchange,Bridges,01-data/import_templates/contracts.csv,contracts.csv,.csv,354,2026-06-26T17:26:44
+LMD-Bridge,LMD Bridge & Road Interchange,Bridges,01-data/import_templates/cost_items.csv,cost_items.csv,.csv,2256,2026-06-26T17:26:44
+LMD-Bridge,LMD Bridge & Road Interchange,Bridges,01-data/import_templates/delay_events.csv,delay_events.csv,.csv,1052,2026-06-26T17:26:44
+LMD-Bridge,LMD Bridge & Road Interchange,Bridges,01-data/import_templates/Delivered_steel_site.csv,Delivered_steel_site.csv,.csv,582,2026-06-26T17:26:44
+LMD-Bridge,LMD Bridge & Road Interchange,Bridges,01-data/import_templates/engineering_log.csv,engineering_log.csv,.csv,329,2026-06-26T17:26:44
+LMD-Bridge,LMD Bridge & Road Interchange,Bridges,01-data/import_templates/evm.csv,evm.csv,.csv,2420,2026-06-26T17:26:44
+LMD-Bridge,LMD Bridge & Road Interchange,Bridges,01-data/import_templates/ifc_conflict.csv,ifc_conflict.csv,.csv,1160,2026-06-26T17:26:44
+LMD-Bridge,LMD Bridge & Road Interchange,Bridges,01-data/import_templates/milestones.csv,milestones.csv,.csv,535,2026-06-26T17:26:44
+LMD-Bridge,LMD Bridge & Road Interchange,Bridges,01-data/import_templates/payments.csv,payments.csv,.csv,1048,2026-06-26T17:26:44
+LMD-Bridge,LMD Bridge & Road Interchange,Bridges,01-data/import_templates/progress_updates.csv,progress_updates.csv,.csv,2079,2026-06-26T17:26:44
+LMD-Bridge,LMD Bridge & Road Interchange,Bridges,01-data/import_templates/projects.csv,projects.csv,.csv,376,2026-06-26T17:26:44
+LMD-Bridge,LMD Bridge & Road Interchange,Bridges,01-data/import_templates/rfi_ status.csv,rfi_ status.csv,.csv,796,2026-06-26T17:26:44
+LMD-Bridge,LMD Bridge & Road Interchange,Bridges,01-data/import_templates/rft_qtys.csv,rft_qtys.csv,.csv,1395,2026-06-26T17:26:44
+LMD-Bridge,LMD Bridge & Road Interchange,Bridges,01-data/import_templates/risks.csv,risks.csv,.csv,507,2026-06-26T17:26:44
+LMD-Bridge,LMD Bridge & Road Interchange,Bridges,01-data/import_templates/steel_activities_relationship.csv,steel_activities_relationship.csv,.csv,1256,2026-06-26T17:26:44
+LMD-Bridge,LMD Bridge & Road Interchange,Bridges,01-data/import_templates/steel_delay_status_mployer_free_issue_material.csv,steel_delay_status_mployer_free_issue_material.csv,.csv,5038,2026-06-26T17:26:44
+LMD-Bridge,LMD Bridge & Road Interchange,Bridges,01-data/import_templates/s_curve.csv,s_curve.csv,.csv,1060,2026-06-26T17:26:44
+LMD-Bridge,LMD Bridge & Road Interchange,Bridges,01-data/import_templates/wbs.csv,wbs.csv,.csv,2816,2026-06-26T17:33:44
+The Big -P.01-UP-20-April-26,ROYA-BIG PROJECT PHASE01 (B1-4),Buildings,project.json,project.json,.json,205,2026-06-27T00:30:18.415052
+The Big -P.01-UP-20-April-26,ROYA-BIG PROJECT PHASE01 (B1-4),Buildings,project_manifest.json,project_manifest.json,.json,416,2026-06-27T00:30:18.414067
+The Big -P.01-UP-20-April-26,ROYA-BIG PROJECT PHASE01 (B1-4),Buildings,README.md,README.md,.md,798,2026-06-15T19:54:55.407983
+The Big -P.01-UP-20-April-26,ROYA-BIG PROJECT PHASE01 (B1-4),Buildings,03-schedule/BL critical path.csv,BL critical path.csv,.csv,115547,2026-06-15T19:54:56.133692
+The Big -P.01-UP-20-April-26,ROYA-BIG PROJECT PHASE01 (B1-4),Buildings,03-schedule/BL float bath.csv,BL float bath.csv,.csv,239156,2026-06-15T19:54:56.187196
+The Big -P.01-UP-20-April-26,ROYA-BIG PROJECT PHASE01 (B1-4),Buildings,03-schedule/Bl Longest bath.csv,Bl Longest bath.csv,.csv,164426,2026-06-15T19:54:56.233150
+The Big -P.01-UP-20-April-26,ROYA-BIG PROJECT PHASE01 (B1-4),Buildings,03-schedule/BL Schedule.csv,BL Schedule.csv,.csv,441638,2026-06-15T19:54:56.312957
+The Big -P.01-UP-20-April-26,ROYA-BIG PROJECT PHASE01 (B1-4),Buildings,03-schedule/MEP Activities.csv,MEP Activities.csv,.csv,10675,2026-06-15T19:54:56.366461
+The Big -P.01-UP-20-April-26,ROYA-BIG PROJECT PHASE01 (B1-4),Buildings,03-schedule/MEP Civil Logic.csv,MEP Civil Logic.csv,.csv,8674,2026-06-15T19:54:56.385967
+The Big -P.01-UP-20-April-26,ROYA-BIG PROJECT PHASE01 (B1-4),Buildings,03-schedule/MEP Schedule.csv,MEP Schedule.csv,.csv,45453,2026-06-15T19:54:56.408967
+The Big -P.01-UP-20-April-26,ROYA-BIG PROJECT PHASE01 (B1-4),Buildings,05-contracts/contract_claims.db,contract_claims.db,.db,258048,2026-06-27T02:23:53.866975
+The Big -P.01-UP-20-April-26,ROYA-BIG PROJECT PHASE01 (B1-4),Buildings,06-evidence/clause_reference_template.csv,clause_reference_template.csv,.csv,83,2026-06-19T06:24:12.169634
+The Big -P.01-UP-20-April-26,ROYA-BIG PROJECT PHASE01 (B1-4),Buildings,06-evidence/contract_evidence_register_template.csv,contract_evidence_register_template.csv,.csv,87,2026-06-19T06:24:12.168633
+The Big -P.01-UP-20-April-26,ROYA-BIG PROJECT PHASE01 (B1-4),Buildings,06-evidence/correspondence_reference_template.csv,correspondence_reference_template.csv,.csv,88,2026-06-19T06:24:12.169634
+The Big -P.01-UP-20-April-26,ROYA-BIG PROJECT PHASE01 (B1-4),Buildings,06-evidence/document_reference_template.csv,document_reference_template.csv,.csv,88,2026-06-19T06:24:12.171633
+The Big -P.01-UP-20-April-26,ROYA-BIG PROJECT PHASE01 (B1-4),Buildings,06-evidence/evidence_register_template.csv,evidence_register_template.csv,.csv,104,2026-06-19T06:24:12.170635
+The Big -P.01-UP-20-April-26,ROYA-BIG PROJECT PHASE01 (B1-4),Buildings,06-evidence/photo_log_template.csv,photo_log_template.csv,.csv,83,2026-06-19T06:24:12.170635
+The Big -P.01-UP-20-April-26,ROYA-BIG PROJECT PHASE01 (B1-4),Buildings,07-letters_intelligence/letters_intelligence.xlsx,letters_intelligence.xlsx,.xlsx,54699,2026-06-18T20:09:41.982339
+The Big -P.01-UP-20-April-26,ROYA-BIG PROJECT PHASE01 (B1-4),Buildings,08-branding/color_palette_template.csv,color_palette_template.csv,.csv,210,2026-06-19T11:45:06.028115
+The Big -P.01-UP-20-April-26,ROYA-BIG PROJECT PHASE01 (B1-4),Buildings,08-branding/logo_placeholder.txt,logo_placeholder.txt,.txt,51,2026-06-19T06:24:12.168633
+The Big -P.01-UP-20-April-26,ROYA-BIG PROJECT PHASE01 (B1-4),Buildings,08-branding/project_identity_template.json,project_identity_template.json,.json,152,2026-06-19T06:24:12.165633
+The Big -P.01-UP-20-April-26,ROYA-BIG PROJECT PHASE01 (B1-4),Buildings,08-branding/README.md,README.md,.md,111,2026-06-19T06:24:12.164634
+The Big -P.01-UP-20-April-26,ROYA-BIG PROJECT PHASE01 (B1-4),Buildings,08-branding/report_branding_template.json,report_branding_template.json,.json,104,2026-06-19T06:24:12.167636
+The Big -P.01-UP-20-April-26,ROYA-BIG PROJECT PHASE01 (B1-4),Buildings,09-notes/claims_notes_template.md,claims_notes_template.md,.md,121,2026-06-19T06:24:12.172634
+The Big -P.01-UP-20-April-26,ROYA-BIG PROJECT PHASE01 (B1-4),Buildings,09-notes/engineering_notes_template.md,engineering_notes_template.md,.md,110,2026-06-19T06:24:12.172634
+The Big -P.01-UP-20-April-26,ROYA-BIG PROJECT PHASE01 (B1-4),Buildings,09-notes/meeting_notes_template.md,meeting_notes_template.md,.md,98,2026-06-19T06:24:12.171633
+The Big -P.01-UP-20-April-26,ROYA-BIG PROJECT PHASE01 (B1-4),Buildings,07-letters_intelligence/inbox/From ACE/032.pdf,032.pdf,.pdf,129324,2026-05-05T08:31:44
+The Big -P.01-UP-20-April-26,ROYA-BIG PROJECT PHASE01 (B1-4),Buildings,07-letters_intelligence/inbox/From ACE/033.pdf,033.pdf,.pdf,129324,2026-05-05T08:31:44
+The Big -P.01-UP-20-April-26,ROYA-BIG PROJECT PHASE01 (B1-4),Buildings,07-letters_intelligence/inbox/From ACE/034-Submission of proof of payment for engineering stamps due on contractual works..pdf,034-Submission of proof of payment for engineering stamps due on contractual works..pdf,.pdf,121049,2026-05-06T07:30:56
+The Big -P.01-UP-20-April-26,ROYA-BIG PROJECT PHASE01 (B1-4),Buildings,07-letters_intelligence/inbox/From ACE/035-Re Notification of Reinforcement Steel Supply Status and Entitlement to Tim Extensions.pdf,035-Re Notification of Reinforcement Steel Supply Status and Entitlement to Tim Extensions.pdf,.pdf,89278,2026-05-11T06:20:14
+The Big -P.01-UP-20-April-26,ROYA-BIG PROJECT PHASE01 (B1-4),Buildings,07-letters_intelligence/inbox/From ACE/036-Failure to Achieve Section (1) Milestone within the contractual Due Date.pdf,036-Failure to Achieve Section (1) Milestone within the contractual Due Date.pdf,.pdf,79347,2026-05-11T08:28:22
+The Big -P.01-UP-20-April-26,ROYA-BIG PROJECT PHASE01 (B1-4),Buildings,07-letters_intelligence/inbox/From ACE/037-Notice of Slow Progress Rate and Comments on Monthly Progress Report - April 2026.pdf,037-Notice of Slow Progress Rate and Comments on Monthly Progress Report - April 2026.pdf,.pdf,260226,2026-05-17T09:22:30
+The Big -P.01-UP-20-April-26,ROYA-BIG PROJECT PHASE01 (B1-4),Buildings,07-letters_intelligence/inbox/From SAMCO/BD-CW-SAMCO-ACE-LET-STR-072.pdf,BD-CW-SAMCO-ACE-LET-STR-072.pdf,.pdf,1514612,2026-04-28T08:09:41.064230
+The Big -P.01-UP-20-April-26,ROYA-BIG PROJECT PHASE01 (B1-4),Buildings,07-letters_intelligence/inbox/From SAMCO/BD-CW-SAMCO-ACE-LET-STR-073.pdf,BD-CW-SAMCO-ACE-LET-STR-073.pdf,.pdf,183472,2026-04-30T06:14:46
+The Big -P.01-UP-20-April-26,ROYA-BIG PROJECT PHASE01 (B1-4),Buildings,07-letters_intelligence/inbox/From SAMCO/BD-CW-SAMCO-ACE-LET-STR-074.pdf,BD-CW-SAMCO-ACE-LET-STR-074.pdf,.pdf,202575,2026-04-29T13:21:58.359714
+The Big -P.01-UP-20-April-26,ROYA-BIG PROJECT PHASE01 (B1-4),Buildings,07-letters_intelligence/inbox/From SAMCO/BD-CW-SAMCO-ACE-LET-STR-075.pdf,BD-CW-SAMCO-ACE-LET-STR-075.pdf,.pdf,117145,2026-04-30T06:14:28
+The Big -P.01-UP-20-April-26,ROYA-BIG PROJECT PHASE01 (B1-4),Buildings,07-letters_intelligence/inbox/From SAMCO/BD-CW-SAMCO-ACE-LET-STR-076.pdf,BD-CW-SAMCO-ACE-LET-STR-076.pdf,.pdf,165633,2026-05-11T02:20:32
+The Big -P.01-UP-20-April-26,ROYA-BIG PROJECT PHASE01 (B1-4),Buildings,07-letters_intelligence/inbox/From SAMCO/BD-CW-SAMCO-ACE-LET-STR-077.pdf,BD-CW-SAMCO-ACE-LET-STR-077.pdf,.pdf,293286,2026-05-11T12:08:33.781229
+The Big -P.01-UP-20-April-26,ROYA-BIG PROJECT PHASE01 (B1-4),Buildings,07-letters_intelligence/inbox/From SAMCO/BD-CW-SAMCO-ACE-LET-STR-078.pdf,BD-CW-SAMCO-ACE-LET-STR-078.pdf,.pdf,230803,2026-05-12T07:42:26
+The Big -P.01-UP-20-April-26,ROYA-BIG PROJECT PHASE01 (B1-4),Buildings,07-letters_intelligence/inbox/From SAMCO/BD-CW-SAMCO-ACE-LET-STR-079.pdf,BD-CW-SAMCO-ACE-LET-STR-079.pdf,.pdf,122399,2026-05-24T12:56:39.776745
+The Big -P.01-UP-20-April-26,ROYA-BIG PROJECT PHASE01 (B1-4),Buildings,07-letters_intelligence/inbox/From SAMCO/BD-CW-SAMCO-ACE-LET-STR-080.pdf,BD-CW-SAMCO-ACE-LET-STR-080.pdf,.pdf,130631,2026-05-24T12:56:58.716547
+The Big -P.01-UP-20-April-26,ROYA-BIG PROJECT PHASE01 (B1-4),Buildings,07-letters_intelligence/inbox/From SAMCO/BD-CW-SAMCO-ACE-LET-STR-081.pdf,BD-CW-SAMCO-ACE-LET-STR-081.pdf,.pdf,42665,2026-05-24T07:04:56
+The Big -P.01-UP-20-April-26,ROYA-BIG PROJECT PHASE01 (B1-4),Buildings,07-letters_intelligence/inbox/From SAMCO/BD-CW-SAMCO-ACE-LET-STR-082.pdf,BD-CW-SAMCO-ACE-LET-STR-082.pdf,.pdf,399536,2026-06-01T08:33:03.622787
+The Big -P.01-UP-20-April-26,ROYA-BIG PROJECT PHASE01 (B1-4),Buildings,05-contracts/source/Overall Contract.pdf,Overall Contract.pdf,.pdf,4269534,2026-04-20T11:33:50.131282
+The Big -P.01-UP-20-April-26,ROYA-BIG PROJECT PHASE01 (B1-4),Buildings,05-contracts/source/Overall_Contract_clause_library.xlsx,Overall_Contract_clause_library.xlsx,.xlsx,27181,2026-05-06T12:31:15.467699
+The Big -P.01-UP-20-April-26,ROYA-BIG PROJECT PHASE01 (B1-4),Buildings,05-contracts/source/README.md,README.md,.md,235,2026-06-06T01:50:20.252863
+The Big -P.01-UP-20-April-26,ROYA-BIG PROJECT PHASE01 (B1-4),Buildings,02-delay_analysis/methodology/TIA methodology.docx,TIA methodology.docx,.docx,3699219,2026-05-20T16:13:03.964431
+The Big -P.01-UP-20-April-26,ROYA-BIG PROJECT PHASE01 (B1-4),Buildings,02-delay_analysis/steel_delay_tia_templates/01-project_metadata_template.csv,01-project_metadata_template.csv,.csv,680,2026-06-15T19:54:55.784523
+The Big -P.01-UP-20-April-26,ROYA-BIG PROJECT PHASE01 (B1-4),Buildings,02-delay_analysis/steel_delay_tia_templates/02- master_activity_steel_analysis.csv,02- master_activity_steel_analysis.csv,.csv,3789,2026-06-15T19:54:55.801568
+The Big -P.01-UP-20-April-26,ROYA-BIG PROJECT PHASE01 (B1-4),Buildings,02-delay_analysis/steel_delay_tia_templates/03- employer_steel_supply_at_site.csv,03- employer_steel_supply_at_site.csv,.csv,687,2026-06-15T19:54:55.820540
+The Big -P.01-UP-20-April-26,ROYA-BIG PROJECT PHASE01 (B1-4),Buildings,02-delay_analysis/steel_delay_tia_templates/04- p6_activity_export.csv,04- p6_activity_export.csv,.csv,421459,2026-06-15T19:54:55.851540
+The Big -P.01-UP-20-April-26,ROYA-BIG PROJECT PHASE01 (B1-4),Buildings,02-delay_analysis/steel_delay_tia_templates/05- relationship_file.csv,05- relationship_file.csv,.csv,187884,2026-06-15T19:54:55.899664
+The Big -P.01-UP-20-April-26,ROYA-BIG PROJECT PHASE01 (B1-4),Buildings,02-delay_analysis/steel_delay_tia_templates/06- contract_library.csv,06- contract_library.csv,.csv,48181,2026-06-15T19:54:55.935664
+The Big -P.01-UP-20-April-26,ROYA-BIG PROJECT PHASE01 (B1-4),Buildings,02-delay_analysis/steel_delay_tia_templates/07- ifc_conflict.csv,07- ifc_conflict.csv,.csv,6048,2026-06-15T19:54:55.961663
+The Big -P.01-UP-20-April-26,ROYA-BIG PROJECT PHASE01 (B1-4),Buildings,02-delay_analysis/steel_delay_tia_templates/08- payments.csv,08- payments.csv,.csv,1325,2026-06-15T19:54:55.987664
+The Big -P.01-UP-20-April-26,ROYA-BIG PROJECT PHASE01 (B1-4),Buildings,02-delay_analysis/steel_delay_tia_templates/09- rfi_status.csv,09- rfi_status.csv,.csv,1040,2026-06-15T19:54:56.028183
+The Big -P.01-UP-20-April-26,ROYA-BIG PROJECT PHASE01 (B1-4),Buildings,02-delay_analysis/steel_delay_tia_templates/10- contractor_steel_supplied_at_site.csv,10- contractor_steel_supplied_at_site.csv,.csv,1739,2026-06-15T19:54:56.045184
+The Big -P.01-UP-20-April-26,ROYA-BIG PROJECT PHASE01 (B1-4),Buildings,02-delay_analysis/steel_delay_tia_templates/11-concurrency_matrix_template.updated.csv,11-concurrency_matrix_template.updated.csv,.csv,9064,2026-06-15T19:54:56.066184
+The Big -P.01-UP-20-April-26,ROYA-BIG PROJECT PHASE01 (B1-4),Buildings,02-delay_analysis/steel_delay_tia_templates/12-client_steel_demand_by_dia_wide.csv,12-client_steel_demand_by_dia_wide.csv,.csv,1178,2026-06-15T19:54:56.090691
+The Big -P.01-UP-20-April-26,ROYA-BIG PROJECT PHASE01 (B1-4),Buildings,02-delay_analysis/steel_delay_tia_templates/13-client_steel_supply_by_dia_wide.csv,13-client_steel_supply_by_dia_wide.csv,.csv,419,2026-06-15T19:54:56.106691
+The Big -P.01-UP-20-April-26,ROYA-BIG PROJECT PHASE01 (B1-4),Buildings,01-data/import_templates/activities.csv,activities.csv,.csv,318917,2026-06-15T19:54:55.447065
+The Big -P.01-UP-20-April-26,ROYA-BIG PROJECT PHASE01 (B1-4),Buildings,01-data/import_templates/change_orders.csv,change_orders.csv,.csv,298,2026-06-15T19:54:55.476377
+The Big -P.01-UP-20-April-26,ROYA-BIG PROJECT PHASE01 (B1-4),Buildings,01-data/import_templates/claims.csv,claims.csv,.csv,270,2026-06-15T19:54:55.488005
+The Big -P.01-UP-20-April-26,ROYA-BIG PROJECT PHASE01 (B1-4),Buildings,01-data/import_templates/contracts.csv,contracts.csv,.csv,331,2026-06-15T19:54:55.498870
+The Big -P.01-UP-20-April-26,ROYA-BIG PROJECT PHASE01 (B1-4),Buildings,01-data/import_templates/cost_items.csv,cost_items.csv,.csv,237431,2026-06-15T19:54:55.517617
+The Big -P.01-UP-20-April-26,ROYA-BIG PROJECT PHASE01 (B1-4),Buildings,01-data/import_templates/delay_events.csv,delay_events.csv,.csv,5016,2026-06-15T19:54:55.536644
+The Big -P.01-UP-20-April-26,ROYA-BIG PROJECT PHASE01 (B1-4),Buildings,01-data/import_templates/Delivered_steel_site.csv,Delivered_steel_site.csv,.csv,2230,2026-06-15T19:54:55.546631
+The Big -P.01-UP-20-April-26,ROYA-BIG PROJECT PHASE01 (B1-4),Buildings,01-data/import_templates/engineering_log.csv,engineering_log.csv,.csv,413,2026-06-15T19:54:55.555631
+The Big -P.01-UP-20-April-26,ROYA-BIG PROJECT PHASE01 (B1-4),Buildings,01-data/import_templates/evm.csv,evm.csv,.csv,198689,2026-06-15T19:54:55.575179
+The Big -P.01-UP-20-April-26,ROYA-BIG PROJECT PHASE01 (B1-4),Buildings,01-data/import_templates/ifc_conflict.csv,ifc_conflict.csv,.csv,6048,2026-06-15T19:54:55.592203
+The Big -P.01-UP-20-April-26,ROYA-BIG PROJECT PHASE01 (B1-4),Buildings,01-data/import_templates/milestones.csv,milestones.csv,.csv,531,2026-06-19T11:45:06.840025
+The Big -P.01-UP-20-April-26,ROYA-BIG PROJECT PHASE01 (B1-4),Buildings,01-data/import_templates/payments.csv,payments.csv,.csv,1285,2026-06-15T19:54:55.615714
+The Big -P.01-UP-20-April-26,ROYA-BIG PROJECT PHASE01 (B1-4),Buildings,01-data/import_templates/progress_updates.csv,progress_updates.csv,.csv,126830,2026-06-15T19:54:55.636754
+The Big -P.01-UP-20-April-26,ROYA-BIG PROJECT PHASE01 (B1-4),Buildings,01-data/import_templates/projects.csv,projects.csv,.csv,369,2026-06-15T19:54:55.654080
+The Big -P.01-UP-20-April-26,ROYA-BIG PROJECT PHASE01 (B1-4),Buildings,01-data/import_templates/rfi_ status.csv,rfi_ status.csv,.csv,1122,2026-06-15T19:54:55.667014
+The Big -P.01-UP-20-April-26,ROYA-BIG PROJECT PHASE01 (B1-4),Buildings,01-data/import_templates/rft_qtys.csv,rft_qtys.csv,.csv,25690,2026-06-15T19:54:55.680940
+The Big -P.01-UP-20-April-26,ROYA-BIG PROJECT PHASE01 (B1-4),Buildings,01-data/import_templates/risks.csv,risks.csv,.csv,365,2026-06-15T19:54:55.698425
+The Big -P.01-UP-20-April-26,ROYA-BIG PROJECT PHASE01 (B1-4),Buildings,01-data/import_templates/steel_activities_relationship.csv,steel_activities_relationship.csv,.csv,35087,2026-06-15T19:54:55.721475
+The Big -P.01-UP-20-April-26,ROYA-BIG PROJECT PHASE01 (B1-4),Buildings,01-data/import_templates/steel_delay_status_mployer_free_issue_material.csv,steel_delay_status_mployer_free_issue_material.csv,.csv,5524,2026-06-15T19:54:55.741440
+The Big -P.01-UP-20-April-26,ROYA-BIG PROJECT PHASE01 (B1-4),Buildings,01-data/import_templates/s_curve.csv,s_curve.csv,.csv,1730,2026-06-15T19:54:55.708428
+The Big -P.01-UP-20-April-26,ROYA-BIG PROJECT PHASE01 (B1-4),Buildings,01-data/import_templates/wbs.csv,wbs.csv,.csv,2584,2026-06-26T20:31:11.140990
+Sophia-Mall,Sophia Mall Mixed-Use Development,Buildings,project.json,project.json,.json,230,2026-06-27T00:30:18.411899
+Sophia-Mall,Sophia Mall Mixed-Use Development,Buildings,project_manifest.json,project_manifest.json,.json,397,2026-06-27T00:30:18.410910
+Sophia-Mall,Sophia Mall Mixed-Use Development,Buildings,README.md,README.md,.md,798,2026-06-15T19:54:55.407983
+Sophia-Mall,Sophia Mall Mixed-Use Development,Buildings,03-schedule/BL critical path.csv,BL critical path.csv,.csv,3766,2026-06-26T17:52:10
+Sophia-Mall,Sophia Mall Mixed-Use Development,Buildings,03-schedule/BL float bath.csv,BL float bath.csv,.csv,2515,2026-06-26T17:52:10
+Sophia-Mall,Sophia Mall Mixed-Use Development,Buildings,03-schedule/Bl Longest bath.csv,Bl Longest bath.csv,.csv,3766,2026-06-26T17:52:10
+Sophia-Mall,Sophia Mall Mixed-Use Development,Buildings,03-schedule/BL Schedule.csv,BL Schedule.csv,.csv,4179,2026-06-26T17:52:10
+Sophia-Mall,Sophia Mall Mixed-Use Development,Buildings,03-schedule/MEP Activities.csv,MEP Activities.csv,.csv,2727,2026-06-26T17:52:10
+Sophia-Mall,Sophia Mall Mixed-Use Development,Buildings,03-schedule/MEP Civil Logic.csv,MEP Civil Logic.csv,.csv,1787,2026-06-26T17:52:10
+Sophia-Mall,Sophia Mall Mixed-Use Development,Buildings,03-schedule/MEP Schedule.csv,MEP Schedule.csv,.csv,8532,2026-06-26T17:52:10
+Sophia-Mall,Sophia Mall Mixed-Use Development,Buildings,05-contracts/contract_claims.db,contract_claims.db,.db,258048,2026-06-27T02:23:54.422926
+Sophia-Mall,Sophia Mall Mixed-Use Development,Buildings,06-evidence/clause_reference_template.csv,clause_reference_template.csv,.csv,83,2026-06-26T21:08:34.920486
+Sophia-Mall,Sophia Mall Mixed-Use Development,Buildings,06-evidence/contract_evidence_register_template.csv,contract_evidence_register_template.csv,.csv,87,2026-06-26T21:08:34.919325
+Sophia-Mall,Sophia Mall Mixed-Use Development,Buildings,06-evidence/correspondence_reference_template.csv,correspondence_reference_template.csv,.csv,88,2026-06-26T21:08:34.922166
+Sophia-Mall,Sophia Mall Mixed-Use Development,Buildings,06-evidence/document_reference_template.csv,document_reference_template.csv,.csv,88,2026-06-26T21:08:34.923893
+Sophia-Mall,Sophia Mall Mixed-Use Development,Buildings,06-evidence/evidence_register_template.csv,evidence_register_template.csv,.csv,104,2026-06-26T21:08:34.923148
+Sophia-Mall,Sophia Mall Mixed-Use Development,Buildings,06-evidence/photo_log_template.csv,photo_log_template.csv,.csv,83,2026-06-26T21:08:34.923893
+Sophia-Mall,Sophia Mall Mixed-Use Development,Buildings,08-branding/color_palette_template.csv,color_palette_template.csv,.csv,210,2026-06-19T11:45:06.028115
+Sophia-Mall,Sophia Mall Mixed-Use Development,Buildings,08-branding/logo_placeholder.txt,logo_placeholder.txt,.txt,51,2026-06-19T06:24:12.168633
+Sophia-Mall,Sophia Mall Mixed-Use Development,Buildings,08-branding/project_identity_template.json,project_identity_template.json,.json,152,2026-06-19T06:24:12.165633
+Sophia-Mall,Sophia Mall Mixed-Use Development,Buildings,08-branding/README.md,README.md,.md,111,2026-06-19T06:24:12.164634
+Sophia-Mall,Sophia Mall Mixed-Use Development,Buildings,08-branding/report_branding_template.json,report_branding_template.json,.json,104,2026-06-19T06:24:12.167636
+Sophia-Mall,Sophia Mall Mixed-Use Development,Buildings,09-notes/claims_notes_template.md,claims_notes_template.md,.md,121,2026-06-19T06:24:12.172634
+Sophia-Mall,Sophia Mall Mixed-Use Development,Buildings,09-notes/engineering_notes_template.md,engineering_notes_template.md,.md,110,2026-06-19T06:24:12.172634
+Sophia-Mall,Sophia Mall Mixed-Use Development,Buildings,09-notes/meeting_notes_template.md,meeting_notes_template.md,.md,98,2026-06-19T06:24:12.171633
+Sophia-Mall,Sophia Mall Mixed-Use Development,Buildings,05-contracts/source/Overall Contract.pdf,Overall Contract.pdf,.pdf,12046,2026-06-26T18:03:24
+Sophia-Mall,Sophia Mall Mixed-Use Development,Buildings,05-contracts/source/Overall_Contract_clause_library.xlsx,Overall_Contract_clause_library.xlsx,.xlsx,10823,2026-06-27T02:23:54.212781
+Sophia-Mall,Sophia Mall Mixed-Use Development,Buildings,05-contracts/source/README.md,README.md,.md,235,2026-06-06T01:50:20.252863
+Sophia-Mall,Sophia Mall Mixed-Use Development,Buildings,02-delay_analysis/methodology/TIA methodology.docx,TIA methodology.docx,.docx,3699219,2026-05-20T16:13:03.964431
+Sophia-Mall,Sophia Mall Mixed-Use Development,Buildings,02-delay_analysis/steel_delay_tia_templates/01-project_metadata_template.csv,01-project_metadata_template.csv,.csv,688,2026-06-26T17:39:36
+Sophia-Mall,Sophia Mall Mixed-Use Development,Buildings,02-delay_analysis/steel_delay_tia_templates/02-master_activity_steel_analysis.csv,02-master_activity_steel_analysis.csv,.csv,2810,2026-06-26T17:39:36
+Sophia-Mall,Sophia Mall Mixed-Use Development,Buildings,02-delay_analysis/steel_delay_tia_templates/03-employer_steel_supply_at_site.csv,03-employer_steel_supply_at_site.csv,.csv,693,2026-06-26T17:39:36
+Sophia-Mall,Sophia Mall Mixed-Use Development,Buildings,02-delay_analysis/steel_delay_tia_templates/04-p6_activity_export.csv,04-p6_activity_export.csv,.csv,4816,2026-06-26T17:39:36
+Sophia-Mall,Sophia Mall Mixed-Use Development,Buildings,02-delay_analysis/steel_delay_tia_templates/05-relationship_file.csv,05-relationship_file.csv,.csv,2591,2026-06-26T17:39:36
+Sophia-Mall,Sophia Mall Mixed-Use Development,Buildings,02-delay_analysis/steel_delay_tia_templates/06-contract_library.csv,06-contract_library.csv,.csv,2938,2026-06-26T17:39:36
+Sophia-Mall,Sophia Mall Mixed-Use Development,Buildings,02-delay_analysis/steel_delay_tia_templates/07-ifc_conflict.csv,07-ifc_conflict.csv,.csv,1594,2026-06-26T17:39:36
+Sophia-Mall,Sophia Mall Mixed-Use Development,Buildings,02-delay_analysis/steel_delay_tia_templates/08-payments.csv,08-payments.csv,.csv,1126,2026-06-26T17:39:36
+Sophia-Mall,Sophia Mall Mixed-Use Development,Buildings,02-delay_analysis/steel_delay_tia_templates/09-rfi_status.csv,09-rfi_status.csv,.csv,1122,2026-06-26T17:39:36
+Sophia-Mall,Sophia Mall Mixed-Use Development,Buildings,02-delay_analysis/steel_delay_tia_templates/10-contractor_steel_supplied_at_site.csv,10-contractor_steel_supplied_at_site.csv,.csv,681,2026-06-26T17:39:36
+Sophia-Mall,Sophia Mall Mixed-Use Development,Buildings,02-delay_analysis/steel_delay_tia_templates/11-concurrency_matrix_template.updated.csv,11-concurrency_matrix_template.updated.csv,.csv,2236,2026-06-26T17:39:36
+Sophia-Mall,Sophia Mall Mixed-Use Development,Buildings,02-delay_analysis/steel_delay_tia_templates/12-client_steel_demand_by_dia_wide.csv,12-client_steel_demand_by_dia_wide.csv,.csv,1250,2026-06-26T17:39:36
+Sophia-Mall,Sophia Mall Mixed-Use Development,Buildings,02-delay_analysis/steel_delay_tia_templates/13-client_steel_supply_by_dia_wide.csv,13-client_steel_supply_by_dia_wide.csv,.csv,393,2026-06-26T17:39:36
+Sophia-Mall,Sophia Mall Mixed-Use Development,Buildings,01-data/import_templates/activities.csv,activities.csv,.csv,3064,2026-06-26T17:26:44
+Sophia-Mall,Sophia Mall Mixed-Use Development,Buildings,01-data/import_templates/change_orders.csv,change_orders.csv,.csv,554,2026-06-26T17:26:44
+Sophia-Mall,Sophia Mall Mixed-Use Development,Buildings,01-data/import_templates/claims.csv,claims.csv,.csv,468,2026-06-26T17:26:44
+Sophia-Mall,Sophia Mall Mixed-Use Development,Buildings,01-data/import_templates/contracts.csv,contracts.csv,.csv,361,2026-06-26T17:26:44
+Sophia-Mall,Sophia Mall Mixed-Use Development,Buildings,01-data/import_templates/cost_items.csv,cost_items.csv,.csv,2293,2026-06-26T17:26:44
+Sophia-Mall,Sophia Mall Mixed-Use Development,Buildings,01-data/import_templates/delay_events.csv,delay_events.csv,.csv,1023,2026-06-26T17:26:44
+Sophia-Mall,Sophia Mall Mixed-Use Development,Buildings,01-data/import_templates/Delivered_steel_site.csv,Delivered_steel_site.csv,.csv,608,2026-06-26T17:26:44
+Sophia-Mall,Sophia Mall Mixed-Use Development,Buildings,01-data/import_templates/engineering_log.csv,engineering_log.csv,.csv,341,2026-06-26T17:26:44
+Sophia-Mall,Sophia Mall Mixed-Use Development,Buildings,01-data/import_templates/evm.csv,evm.csv,.csv,2438,2026-06-26T17:26:44
+Sophia-Mall,Sophia Mall Mixed-Use Development,Buildings,01-data/import_templates/ifc_conflict.csv,ifc_conflict.csv,.csv,1164,2026-06-26T17:26:44
+Sophia-Mall,Sophia Mall Mixed-Use Development,Buildings,01-data/import_templates/milestones.csv,milestones.csv,.csv,550,2026-06-26T17:26:44
+Sophia-Mall,Sophia Mall Mixed-Use Development,Buildings,01-data/import_templates/payments.csv,payments.csv,.csv,1040,2026-06-26T17:26:44
+Sophia-Mall,Sophia Mall Mixed-Use Development,Buildings,01-data/import_templates/progress_updates.csv,progress_updates.csv,.csv,2103,2026-06-26T17:26:44
+Sophia-Mall,Sophia Mall Mixed-Use Development,Buildings,01-data/import_templates/projects.csv,projects.csv,.csv,385,2026-06-26T17:26:44
+Sophia-Mall,Sophia Mall Mixed-Use Development,Buildings,01-data/import_templates/rfi_ status.csv,rfi_ status.csv,.csv,725,2026-06-26T17:26:44
+Sophia-Mall,Sophia Mall Mixed-Use Development,Buildings,01-data/import_templates/rft_qtys.csv,rft_qtys.csv,.csv,1370,2026-06-26T17:26:44
+Sophia-Mall,Sophia Mall Mixed-Use Development,Buildings,01-data/import_templates/risks.csv,risks.csv,.csv,512,2026-06-26T17:26:44
+Sophia-Mall,Sophia Mall Mixed-Use Development,Buildings,01-data/import_templates/steel_activities_relationship.csv,steel_activities_relationship.csv,.csv,1221,2026-06-26T17:26:44
+Sophia-Mall,Sophia Mall Mixed-Use Development,Buildings,01-data/import_templates/steel_delay_status_mployer_free_issue_material.csv,steel_delay_status_mployer_free_issue_material.csv,.csv,5039,2026-06-26T17:26:44
+Sophia-Mall,Sophia Mall Mixed-Use Development,Buildings,01-data/import_templates/s_curve.csv,s_curve.csv,.csv,1107,2026-06-26T17:26:44
+Sophia-Mall,Sophia Mall Mixed-Use Development,Buildings,01-data/import_templates/wbs.csv,wbs.csv,.csv,2862,2026-06-26T17:33:44
+Suez-Tunnel,Suez Tunnel Civil & MEP Works,Tunnels,project.json,project.json,.json,223,2026-06-27T00:30:18.407911
+Suez-Tunnel,Suez Tunnel Civil & MEP Works,Tunnels,project_manifest.json,project_manifest.json,.json,390,2026-06-27T00:30:18.406898
+Suez-Tunnel,Suez Tunnel Civil & MEP Works,Tunnels,README.md,README.md,.md,798,2026-06-15T19:54:55.407983
+Suez-Tunnel,Suez Tunnel Civil & MEP Works,Tunnels,03-schedule/BL critical path.csv,BL critical path.csv,.csv,3748,2026-06-26T17:52:10
+Suez-Tunnel,Suez Tunnel Civil & MEP Works,Tunnels,03-schedule/BL float bath.csv,BL float bath.csv,.csv,2514,2026-06-26T17:52:10
+Suez-Tunnel,Suez Tunnel Civil & MEP Works,Tunnels,03-schedule/Bl Longest bath.csv,Bl Longest bath.csv,.csv,3748,2026-06-26T17:52:10
+Suez-Tunnel,Suez Tunnel Civil & MEP Works,Tunnels,03-schedule/BL Schedule.csv,BL Schedule.csv,.csv,4158,2026-06-26T17:52:10
+Suez-Tunnel,Suez Tunnel Civil & MEP Works,Tunnels,03-schedule/MEP Activities.csv,MEP Activities.csv,.csv,2734,2026-06-26T17:52:10
+Suez-Tunnel,Suez Tunnel Civil & MEP Works,Tunnels,03-schedule/MEP Civil Logic.csv,MEP Civil Logic.csv,.csv,1789,2026-06-26T17:52:10
+Suez-Tunnel,Suez Tunnel Civil & MEP Works,Tunnels,03-schedule/MEP Schedule.csv,MEP Schedule.csv,.csv,8562,2026-06-26T17:52:10
+Suez-Tunnel,Suez Tunnel Civil & MEP Works,Tunnels,05-contracts/contract_claims.db,contract_claims.db,.db,258048,2026-06-27T02:23:55.125989
+Suez-Tunnel,Suez Tunnel Civil & MEP Works,Tunnels,06-evidence/clause_reference_template.csv,clause_reference_template.csv,.csv,83,2026-06-26T21:08:34.947086
+Suez-Tunnel,Suez Tunnel Civil & MEP Works,Tunnels,06-evidence/contract_evidence_register_template.csv,contract_evidence_register_template.csv,.csv,87,2026-06-26T21:08:34.945421
+Suez-Tunnel,Suez Tunnel Civil & MEP Works,Tunnels,06-evidence/correspondence_reference_template.csv,correspondence_reference_template.csv,.csv,88,2026-06-26T21:08:34.949086
+Suez-Tunnel,Suez Tunnel Civil & MEP Works,Tunnels,06-evidence/document_reference_template.csv,document_reference_template.csv,.csv,88,2026-06-26T21:08:34.950571
+Suez-Tunnel,Suez Tunnel Civil & MEP Works,Tunnels,06-evidence/evidence_register_template.csv,evidence_register_template.csv,.csv,104,2026-06-26T21:08:34.950093
+Suez-Tunnel,Suez Tunnel Civil & MEP Works,Tunnels,06-evidence/photo_log_template.csv,photo_log_template.csv,.csv,83,2026-06-26T21:08:34.950571
+Suez-Tunnel,Suez Tunnel Civil & MEP Works,Tunnels,08-branding/color_palette_template.csv,color_palette_template.csv,.csv,210,2026-06-19T11:45:06.028115
+Suez-Tunnel,Suez Tunnel Civil & MEP Works,Tunnels,08-branding/logo_placeholder.txt,logo_placeholder.txt,.txt,51,2026-06-19T06:24:12.168633
+Suez-Tunnel,Suez Tunnel Civil & MEP Works,Tunnels,08-branding/project_identity_template.json,project_identity_template.json,.json,152,2026-06-19T06:24:12.165633
+Suez-Tunnel,Suez Tunnel Civil & MEP Works,Tunnels,08-branding/README.md,README.md,.md,111,2026-06-19T06:24:12.164634
+Suez-Tunnel,Suez Tunnel Civil & MEP Works,Tunnels,08-branding/report_branding_template.json,report_branding_template.json,.json,104,2026-06-19T06:24:12.167636
+Suez-Tunnel,Suez Tunnel Civil & MEP Works,Tunnels,09-notes/claims_notes_template.md,claims_notes_template.md,.md,121,2026-06-19T06:24:12.172634
+Suez-Tunnel,Suez Tunnel Civil & MEP Works,Tunnels,09-notes/engineering_notes_template.md,engineering_notes_template.md,.md,110,2026-06-19T06:24:12.172634
+Suez-Tunnel,Suez Tunnel Civil & MEP Works,Tunnels,09-notes/meeting_notes_template.md,meeting_notes_template.md,.md,98,2026-06-19T06:24:12.171633
+Suez-Tunnel,Suez Tunnel Civil & MEP Works,Tunnels,05-contracts/source/Overall Contract.pdf,Overall Contract.pdf,.pdf,12042,2026-06-26T18:03:24
+Suez-Tunnel,Suez Tunnel Civil & MEP Works,Tunnels,05-contracts/source/Overall_Contract_clause_library.xlsx,Overall_Contract_clause_library.xlsx,.xlsx,10735,2026-06-27T02:23:54.905609
+Suez-Tunnel,Suez Tunnel Civil & MEP Works,Tunnels,05-contracts/source/README.md,README.md,.md,235,2026-06-06T01:50:20.252863
+Suez-Tunnel,Suez Tunnel Civil & MEP Works,Tunnels,02-delay_analysis/methodology/TIA methodology.docx,TIA methodology.docx,.docx,3699219,2026-05-20T16:13:03.964431
+Suez-Tunnel,Suez Tunnel Civil & MEP Works,Tunnels,02-delay_analysis/steel_delay_tia_templates/01-project_metadata_template.csv,01-project_metadata_template.csv,.csv,705,2026-06-26T17:39:36
+Suez-Tunnel,Suez Tunnel Civil & MEP Works,Tunnels,02-delay_analysis/steel_delay_tia_templates/02-master_activity_steel_analysis.csv,02-master_activity_steel_analysis.csv,.csv,2769,2026-06-26T17:39:36
+Suez-Tunnel,Suez Tunnel Civil & MEP Works,Tunnels,02-delay_analysis/steel_delay_tia_templates/03-employer_steel_supply_at_site.csv,03-employer_steel_supply_at_site.csv,.csv,717,2026-06-26T17:39:36
+Suez-Tunnel,Suez Tunnel Civil & MEP Works,Tunnels,02-delay_analysis/steel_delay_tia_templates/04-p6_activity_export.csv,04-p6_activity_export.csv,.csv,4829,2026-06-26T17:39:36
+Suez-Tunnel,Suez Tunnel Civil & MEP Works,Tunnels,02-delay_analysis/steel_delay_tia_templates/05-relationship_file.csv,05-relationship_file.csv,.csv,2597,2026-06-26T17:39:36
+Suez-Tunnel,Suez Tunnel Civil & MEP Works,Tunnels,02-delay_analysis/steel_delay_tia_templates/06-contract_library.csv,06-contract_library.csv,.csv,2938,2026-06-26T17:39:36
+Suez-Tunnel,Suez Tunnel Civil & MEP Works,Tunnels,02-delay_analysis/steel_delay_tia_templates/07-ifc_conflict.csv,07-ifc_conflict.csv,.csv,1592,2026-06-26T17:39:36
+Suez-Tunnel,Suez Tunnel Civil & MEP Works,Tunnels,02-delay_analysis/steel_delay_tia_templates/08-payments.csv,08-payments.csv,.csv,1132,2026-06-26T17:39:36
+Suez-Tunnel,Suez Tunnel Civil & MEP Works,Tunnels,02-delay_analysis/steel_delay_tia_templates/09-rfi_status.csv,09-rfi_status.csv,.csv,1124,2026-06-26T17:39:36
+Suez-Tunnel,Suez Tunnel Civil & MEP Works,Tunnels,02-delay_analysis/steel_delay_tia_templates/10-contractor_steel_supplied_at_site.csv,10-contractor_steel_supplied_at_site.csv,.csv,615,2026-06-26T17:39:36
+Suez-Tunnel,Suez Tunnel Civil & MEP Works,Tunnels,02-delay_analysis/steel_delay_tia_templates/11-concurrency_matrix_template.updated.csv,11-concurrency_matrix_template.updated.csv,.csv,2240,2026-06-26T17:39:36
+Suez-Tunnel,Suez Tunnel Civil & MEP Works,Tunnels,02-delay_analysis/steel_delay_tia_templates/12-client_steel_demand_by_dia_wide.csv,12-client_steel_demand_by_dia_wide.csv,.csv,1258,2026-06-26T17:39:36
+Suez-Tunnel,Suez Tunnel Civil & MEP Works,Tunnels,02-delay_analysis/steel_delay_tia_templates/13-client_steel_supply_by_dia_wide.csv,13-client_steel_supply_by_dia_wide.csv,.csv,394,2026-06-26T17:39:36
+Suez-Tunnel,Suez Tunnel Civil & MEP Works,Tunnels,01-data/import_templates/activities.csv,activities.csv,.csv,3065,2026-06-26T17:26:44
+Suez-Tunnel,Suez Tunnel Civil & MEP Works,Tunnels,01-data/import_templates/change_orders.csv,change_orders.csv,.csv,551,2026-06-26T17:26:44
+Suez-Tunnel,Suez Tunnel Civil & MEP Works,Tunnels,01-data/import_templates/claims.csv,claims.csv,.csv,466,2026-06-26T17:26:44
+Suez-Tunnel,Suez Tunnel Civil & MEP Works,Tunnels,01-data/import_templates/contracts.csv,contracts.csv,.csv,341,2026-06-26T17:26:44
+Suez-Tunnel,Suez Tunnel Civil & MEP Works,Tunnels,01-data/import_templates/cost_items.csv,cost_items.csv,.csv,2282,2026-06-26T17:26:44
+Suez-Tunnel,Suez Tunnel Civil & MEP Works,Tunnels,01-data/import_templates/delay_events.csv,delay_events.csv,.csv,1057,2026-06-26T17:26:44
+Suez-Tunnel,Suez Tunnel Civil & MEP Works,Tunnels,01-data/import_templates/Delivered_steel_site.csv,Delivered_steel_site.csv,.csv,557,2026-06-26T17:26:44
+Suez-Tunnel,Suez Tunnel Civil & MEP Works,Tunnels,01-data/import_templates/engineering_log.csv,engineering_log.csv,.csv,345,2026-06-26T17:26:44
+Suez-Tunnel,Suez Tunnel Civil & MEP Works,Tunnels,01-data/import_templates/evm.csv,evm.csv,.csv,2433,2026-06-26T17:26:44
+Suez-Tunnel,Suez Tunnel Civil & MEP Works,Tunnels,01-data/import_templates/ifc_conflict.csv,ifc_conflict.csv,.csv,1176,2026-06-26T17:26:44
+Suez-Tunnel,Suez Tunnel Civil & MEP Works,Tunnels,01-data/import_templates/milestones.csv,milestones.csv,.csv,541,2026-06-26T17:26:44
+Suez-Tunnel,Suez Tunnel Civil & MEP Works,Tunnels,01-data/import_templates/payments.csv,payments.csv,.csv,1064,2026-06-26T17:26:44
+Suez-Tunnel,Suez Tunnel Civil & MEP Works,Tunnels,01-data/import_templates/progress_updates.csv,progress_updates.csv,.csv,2105,2026-06-26T17:26:44
+Suez-Tunnel,Suez Tunnel Civil & MEP Works,Tunnels,01-data/import_templates/projects.csv,projects.csv,.csv,377,2026-06-26T17:26:44
+Suez-Tunnel,Suez Tunnel Civil & MEP Works,Tunnels,01-data/import_templates/rfi_ status.csv,rfi_ status.csv,.csv,802,2026-06-26T17:26:44
+Suez-Tunnel,Suez Tunnel Civil & MEP Works,Tunnels,01-data/import_templates/rft_qtys.csv,rft_qtys.csv,.csv,1404,2026-06-26T17:26:44
+Suez-Tunnel,Suez Tunnel Civil & MEP Works,Tunnels,01-data/import_templates/risks.csv,risks.csv,.csv,510,2026-06-26T17:26:44
+Suez-Tunnel,Suez Tunnel Civil & MEP Works,Tunnels,01-data/import_templates/steel_activities_relationship.csv,steel_activities_relationship.csv,.csv,1266,2026-06-26T17:26:44
+Suez-Tunnel,Suez Tunnel Civil & MEP Works,Tunnels,01-data/import_templates/steel_delay_status_mployer_free_issue_material.csv,steel_delay_status_mployer_free_issue_material.csv,.csv,5045,2026-06-26T17:26:44
+Suez-Tunnel,Suez Tunnel Civil & MEP Works,Tunnels,01-data/import_templates/s_curve.csv,s_curve.csv,.csv,1084,2026-06-26T17:26:44
+Suez-Tunnel,Suez Tunnel Civil & MEP Works,Tunnels,01-data/import_templates/wbs.csv,wbs.csv,.csv,2848,2026-06-26T17:33:44

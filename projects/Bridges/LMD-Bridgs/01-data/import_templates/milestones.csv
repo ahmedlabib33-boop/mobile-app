@@ -1,0 +1,6 @@
+﻿milestone_id,project_id,activity_name,planned_date,forecast_date,actual_date,milestone_contractual_type
+KD-MS-1000,LMD-Bridge,Project Start Date,5-Nov-25,5-Nov-25,5-Nov-25,Start milestone
+KD-MS-1010,LMD-Bridge,Contract Agreement,5-Nov-25,5-Nov-25,5-Nov-25,Start milestone
+KD-MS-1020,LMD-Bridge,IFC Drawing Package,12-Nov-25,3-Dec-25,12-Nov-25,Key milestone
+KD-MS-5000,LMD-Bridge,Structural Works Completion,5-Nov-26,7-Jan-27,,Interim milestone
+KD-MS-9000,LMD-Bridge,Substantial Completion,20-Mar-27,9-Jun-27,,Finish milestone

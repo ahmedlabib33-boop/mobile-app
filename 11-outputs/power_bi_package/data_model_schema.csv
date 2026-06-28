@@ -1,0 +1,5 @@
+table,source,grain,key
+Projects,data/projects_registry.csv,one row per discovered project,project_id
+Source Files,data/source_file_register.csv,one row per project file,project_id + relative_path
+Claims Summary,data/claims_intelligence_summary.csv,one row per project claims database,project_id
+Contract Clauses,data/contract_clauses.csv,one row per extracted clause,project_id + id

@@ -1,0 +1,3 @@
+Project Intelligence Hub splash/loading placeholder.
+
+The Flutter shell includes an in-app loading screen. Native platform launch images can be replaced after running flutter create and finalizing app branding.
