@@ -1,0 +1,7 @@
+﻿project_id,payment,contract,project,invoice no,invoice date,certified amount,paid amount,payment status,Contractual interest due,Date of Cash Cheque Receipt,Period for payment release,Period in which interest is applied,Amount of interest claimed (EGP),delayed duration(Days) ,Unnamed: 14,Unnamed: 15,Unnamed: 16
+Suez-Tunnel,1.0,ST-PH-01,Suez-Tunnel,1.0,15-Dec-25,58750000.00,58750000.00,Paid,45.0,3-Feb-26,50.0,5.0,35250.0000,5.0,,,
+Suez-Tunnel,2.0,ST-PH-01,Suez-Tunnel,2.0,14-Jan-26,73750000.00,73750000.00,Paid,45.0,10-Mar-26,55.0,10.0,88500.0000,10.0,,,
+Suez-Tunnel,3.0,ST-PH-01,Suez-Tunnel,3.0,13-Feb-26,88750000.00,88750000.00,Paid,45.0,14-Apr-26,60.0,15.0,159750.0000,15.0,,,
+Suez-Tunnel,4.0,ST-PH-01,Suez-Tunnel,4.0,15-Mar-26,103750000.00,103750000.00,Paid,45.0,19-May-26,65.0,20.0,249000.0000,20.0,,,
+Suez-Tunnel,5.0,ST-PH-01,Suez-Tunnel,5.0,14-Apr-26,118750000.00,73625000.00,Partially Paid,45.0,23-Jun-26,70.0,25.0,356250.0000,25.0,,,
+Suez-Tunnel,6.0,ST-PH-01,Suez-Tunnel,6.0,14-May-26,133750000.00,82925000.00,Certified,45.0,,,0.0,0.0000,,,,

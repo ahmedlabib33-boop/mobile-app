@@ -1,0 +1,5 @@
+﻿project_id,Activity ID,Activity Name,Original Duration,Start,Finish,Approved structural slab shop drawings,Re-Start,Finish.1,Delayed days,Note
+Sophia-Mall,E-SUB-SM-1020,Structural and architectural shop drawings,18,22-Nov-25,11-Jan-26,12-Apr-26,13-Apr-26,1-May-26,-115,Mock record: revised IFC/design clarification affected mall sequence; restart allowed after approved drawings and coordination closure.
+Sophia-Mall,E-APP-SM-1020,Approval of podium and basement drawings,18,5-Jan-26,19-Feb-26,12-Apr-26,15-Apr-26,3-May-26,-82,Mock record: revised IFC/design clarification affected mall sequence; restart allowed after approved drawings and coordination closure.
+Sophia-Mall,CON-SM-EXC-1010,Bulk excavation and dewatering,18,9-Dec-25,1-Apr-26,12-Apr-26,17-Apr-26,5-May-26,-47,Mock record: revised IFC/design clarification affected mall sequence; restart allowed after approved drawings and coordination closure.
+Sophia-Mall,CON-SM-RFT-1020,RFT for raft foundation,18,22-Feb-26,16-Apr-26,12-Apr-26,19-Apr-26,7-May-26,-38,Mock record: revised IFC/design clarification affected mall sequence; restart allowed after approved drawings and coordination closure.

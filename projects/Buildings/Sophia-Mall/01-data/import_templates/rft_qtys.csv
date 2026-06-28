@@ -1,0 +1,6 @@
+﻿project_id,Resource ID,Activity ID,Activity Name,Original Duration,Planned Start,Planned Finish,Start,Finish,Budgeted Units,Actual Units,Remaining Units,Units % Complete,Budgeted Units / Time,Drive Activity Dates,Default Units / Time,Price / Unit,Remaining Units / Time,Max Units/Time,Calculate costs from units,Budgeted Cost ,Spreadsheet Field
+Sophia-Mall,  BIG.Q.Rft,CON-SM-EXC-1010,Bulk excavation and dewatering,100,9-Dec-25,19-Mar-26,20-Dec-25,1-Apr-26,186.00,186.00,0.00,100%,1.86/d,Yes,8.00/d,$1.00/unit,0.00/d,8.00/d,Yes,$0.00 ,Budgeted Units
+Sophia-Mall,  BIG.Q.Rft,CON-SM-RFT-1020,RFT for raft foundation,36,22-Feb-26,30-Mar-26,27-Feb-26,1-Apr-26,228.00,198.18,29.82,87%,6.33/d,Yes,8.00/d,$1.00/unit,0.83/d,8.00/d,Yes,$0.00 ,Budgeted Units
+Sophia-Mall,  BIG.Q.Rft,CON-SM-CON-1030,Raft foundation concrete works,30,30-Mar-26,29-Apr-26,7-Apr-26,1-May-26,270.00,177.44,92.56,66%,9.00/d,Yes,8.00/d,$1.00/unit,3.09/d,8.00/d,Yes,$0.00 ,Budgeted Units
+Sophia-Mall,  BIG.Q.Rft,CON-SM-B1-1040,Basement B1 columns and walls,58,29-Apr-26,26-Jun-26,10-May-26,28-Jun-26,312.00,115.75,196.25,37%,5.38/d,Yes,8.00/d,$1.00/unit,3.38/d,8.00/d,Yes,$0.00 ,Budgeted Units
+Sophia-Mall,  BIG.Q.Rft,CON-SM-GF-1050,Ground floor slab and beams,70,26-Jun-26,4-Sep-26,1-Jul-26,6-Sep-26,354.00,37.52,316.48,11%,5.06/d,Yes,8.00/d,$1.00/unit,4.52/d,8.00/d,Yes,$0.00 ,Budgeted Units

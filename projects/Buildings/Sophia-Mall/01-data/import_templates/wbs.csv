@@ -1,0 +1,17 @@
+﻿project_id,wbs_code,wbs_name,total_activities,bl_project_duration,remaining_duration,total_float,bl_project_start,bl_project_finish,actual_start,actual_finish,schedule_%_complete,performance_%_complete,budget_at_completion,earned_value_cost,planned_value_cost
+Sophia-Mall-P.01-UP-20-April-26,No Priority,,1064,543,376,0,25-Aug-25,18-Feb-27,28-Aug-25,,0.623,0.354,382400000,135369600,238235200
+Sophia-Mall-P.01-UP-20-April-26,Sophia-Mall - P.01 - UP-20-April-26,SOPHIA MALL MIXED-USE DEVELOPMENT,1064,543,376,-38,25-Aug-25,18-Feb-27,28-Aug-25,,0.623,0.354,382400000,135369600,238235200
+Sophia-Mall-P.01-UP-20-April-26,Sophia-Mall - P.01 - UP-20-April-26.KD,Key Dates,8,543,376,-38,25-Aug-25,18-Feb-27,28-Aug-25,,0,0,0,0,0
+Sophia-Mall-P.01-UP-20-April-26,Sophia-Mall - P.01 - UP-20-April-26.KD.MI,Milestone,5,543,376,-38,25-Aug-25,18-Feb-27,28-Aug-25,,0,0,0,0,0
+Sophia-Mall-P.01-UP-20-April-26,Sophia-Mall - P.01 - UP-20-April-26.KD.MO,Mobilization,10,16,0,,25-Aug-25,10-Sep-25,29-Aug-25,15-Sep-25,0,0,0,0,0
+Sophia-Mall-P.01-UP-20-April-26,Sophia-Mall - P.01 - UP-20-April-26.EN,Engineering,241,248,32,144,25-Aug-25,30-Apr-26,28-Aug-25,,0,0,0,0,0
+Sophia-Mall-P.01-UP-20-April-26,Sophia-Mall - P.01 - UP-20-April-26.P,Procurement,86,440,212,88,25-Aug-25,8-Nov-26,28-Aug-25,,0,0,0,0,0
+Sophia-Mall-P.01-UP-20-April-26,Sophia-Mall - P.01 - UP-20-April-26.CON,Construction,552,492,348,-26,29-Sep-25,10-Dec-26,28-Aug-25,,0.623,0.354,382400000,135369600,238235200
+Sophia-Mall-P.01-UP-20-April-26,Sophia-Mall - P.01 - UP-20-April-26.CON.EW,Earth Works,31,62,0,,24-Sep-25,25-Nov-25,22-Sep-25,11-Nov-25,1,1,21850000,21850000,21850000
+Sophia-Mall-P.01-UP-20-April-26,Sophia-Mall - P.01 - UP-20-April-26.CON.B1,Basement & Substructure,122,310,188,-45,14-Oct-25,20-Aug-26,28-Aug-25,,0.68,0.41,97300000,39893000,66164000
+Sophia-Mall-P.01-UP-20-April-26,Sophia-Mall - P.01 - UP-20-April-26.CON.PD,Podium Structure,115,362,276,-54,3-Dec-25,30-Nov-26,28-Aug-25,,0.59,0.33,83450000,27538500,49235500
+Sophia-Mall-P.01-UP-20-April-26,Sophia-Mall - P.01 - UP-20-April-26.CON.TR,Retail Floors,124,390,302,-39,14-Jan-26,8-Feb-27,28-Aug-25,,0.55,0.3,91600000,27480000,50380000
+Sophia-Mall-P.01-UP-20-April-26,Sophia-Mall - P.01 - UP-20-April-26.CON.FA,Facade & Skylight,64,314,258,24,1-Mar-26,9-Jan-27,28-Aug-25,,0.36,0.18,47850000,8613000,17226000
+Sophia-Mall-P.01-UP-20-April-26,Sophia-Mall - P.01 - UP-20-April-26.CON.MEP,MEP & Life Safety Systems,67,360,318,16,12-Apr-26,7-Apr-27,28-Aug-25,,0.28,0.14,52400000,7336000,14672000
+Sophia-Mall-P.01-UP-20-April-26,Sophia-Mall - P.01 - UP-20-April-26.CON.FIN,Finishing & Tenant Interface,29,286,252,8,2-Apr-26,13-Jan-27,28-Aug-25,,0.22,0.11,39950000,4394500,8789000
+Sophia-Mall-P.01-UP-20-April-26,Sophia-Mall - P.01 - UP-20-April-26.HO,"Testing, Commissioning & Handover",128,505,376,-38,3-Nov-25,18-Feb-27,,,0,0,0,0,0

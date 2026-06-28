@@ -1,0 +1,17 @@
+﻿project_id,wbs_code,wbs_name,total_activities,bl_project_duration,remaining_duration,total_float,bl_project_start,bl_project_finish,actual_start,actual_finish,schedule_%_complete,performance_%_complete,budget_at_completion,earned_value_cost,planned_value_cost
+Suez-Tunnel-P.01-UP-20-April-26,No Priority,,1218,614,492,0,15-Sep-25,22-May-27,17-Sep-25,,0.545,0.287,495750000,142280250,270183750
+Suez-Tunnel-P.01-UP-20-April-26,Suez-Tunnel - P.01 - UP-20-April-26,SUEZ TUNNEL INFRASTRUCTURE PROJECT,1218,614,492,-86,15-Sep-25,22-May-27,17-Sep-25,,0.545,0.287,495750000,142280250,270183750
+Suez-Tunnel-P.01-UP-20-April-26,Suez-Tunnel - P.01 - UP-20-April-26.KD,Key Dates,9,614,492,-86,15-Sep-25,22-May-27,17-Sep-25,,0,0,0,0,0
+Suez-Tunnel-P.01-UP-20-April-26,Suez-Tunnel - P.01 - UP-20-April-26.KD.MI,Milestone,6,614,492,-86,15-Sep-25,22-May-27,17-Sep-25,,0,0,0,0,0
+Suez-Tunnel-P.01-UP-20-April-26,Suez-Tunnel - P.01 - UP-20-April-26.KD.MO,Mobilization,12,18,0,,15-Sep-25,3-Oct-25,18-Sep-25,7-Oct-25,0,0,0,0,0
+Suez-Tunnel-P.01-UP-20-April-26,Suez-Tunnel - P.01 - UP-20-April-26.EN,Engineering,286,292,66,112,15-Sep-25,4-Jul-26,17-Sep-25,,0,0,0,0,0
+Suez-Tunnel-P.01-UP-20-April-26,Suez-Tunnel - P.01 - UP-20-April-26.P,Procurement,119,520,286,76,15-Sep-25,17-Feb-27,17-Sep-25,,0,0,0,0,0
+Suez-Tunnel-P.01-UP-20-April-26,Suez-Tunnel - P.01 - UP-20-April-26.CON,Construction,623,548,452,-52,20-Oct-25,13-Mar-27,17-Sep-25,,0.545,0.287,495750000,142280250,270183750
+Suez-Tunnel-P.01-UP-20-April-26,Suez-Tunnel - P.01 - UP-20-April-26.CON.EW,Earth Works,46,102,8,-14,15-Oct-25,25-Jan-26,13-Oct-25,4-Jan-26,0.92,0.84,38450000,32298000,35374000
+Suez-Tunnel-P.01-UP-20-April-26,Suez-Tunnel - P.01 - UP-20-April-26.CON.PA,Portal A,132,418,330,-75,24-Nov-25,16-Jan-27,17-Sep-25,,0.57,0.31,86300000,26753000,49191000
+Suez-Tunnel-P.01-UP-20-April-26,Suez-Tunnel - P.01 - UP-20-April-26.CON.PB,Portal B,128,424,342,-64,2-Dec-25,30-Jan-27,17-Sep-25,,0.53,0.28,82900000,23212000,43937000
+Suez-Tunnel-P.01-UP-20-April-26,Suez-Tunnel - P.01 - UP-20-April-26.CON.TE,Tunnel Excavation,164,488,418,-92,13-Jan-26,16-May-27,17-Sep-25,,0.49,0.22,148600000,32692000,72814000
+Suez-Tunnel-P.01-UP-20-April-26,Suez-Tunnel - P.01 - UP-20-April-26.CON.LI,Lining & Waterproofing,96,442,388,-70,4-Mar-26,20-May-27,17-Sep-25,,0.38,0.19,95850000,18211500,36423000
+Suez-Tunnel-P.01-UP-20-April-26,Suez-Tunnel - P.01 - UP-20-April-26.CON.MEP,MEP & Ventilation Systems,57,365,338,34,3-May-26,3-May-27,17-Sep-25,,0.21,0.09,43650000,3928500,9166500
+Suez-Tunnel-P.01-UP-20-April-26,Suez-Tunnel - P.01 - UP-20-April-26.CON.RD,Approach Roads,41,230,190,18,2-Jun-26,18-Jan-27,17-Sep-25,,0.32,0.16,28950000,4632000,9264000
+Suez-Tunnel-P.01-UP-20-April-26,Suez-Tunnel - P.01 - UP-20-April-26.HO,"Testing, Commissioning & Handover",124,578,492,-86,24-Nov-25,22-May-27,,,0,0,0,0,0

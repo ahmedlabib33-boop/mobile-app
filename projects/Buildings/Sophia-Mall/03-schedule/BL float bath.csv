@@ -1,0 +1,20 @@
+﻿project_id,task_code,status_code,wbs_id,task_name,target_start_date,target_end_date
+Sophia-Mall,SM-MS-1000,Completed,Sophia-Mall.BL.MI,Project Start Milestone,15-Feb-26,
+Sophia-Mall,SM-MOB-1010,Completed,Sophia-Mall.BL.MOB,Site mobilization and temporary facilities,18-Feb-26,4-Mar-26
+Sophia-Mall,SM-ENG-1010,Completed,Sophia-Mall.BL.ENG.SUB,Structural shop drawing submittal and baseline approvals,25-Feb-26,15-Mar-26
+Sophia-Mall,SM-PROC-1020,In Progress,Sophia-Mall.BL.PROC,Long lead procurement and material approval cycle,12-Mar-26,1-Apr-26
+Sophia-Mall,SM-Z01-EXC-1010,In Progress,Sophia-Mall.BL.CW.Z01.EARTH,Excavation and formation works - Podium,6-Apr-26,24-Apr-26
+Sophia-Mall,SM-Z01-RFT-1020,Not Started,Sophia-Mall.BL.CW.Z01.STR,Reinforcement and embedded item release - Podium,24-Apr-26,6-May-26
+Sophia-Mall,SM-Z01-CON-1030,Not Started,Sophia-Mall.BL.CW.Z01.STR,Concrete casting and curing - Podium,7-May-26,15-May-26
+Sophia-Mall,SM-Z02-EXC-1010,Not Started,Sophia-Mall.BL.CW.Z02.EARTH,Excavation and formation works - Retail Block A,21-May-26,8-Jun-26
+Sophia-Mall,SM-Z02-RFT-1020,Not Started,Sophia-Mall.BL.CW.Z02.STR,Reinforcement and embedded item release - Retail Block A,8-Jun-26,20-Jun-26
+Sophia-Mall,SM-Z02-CON-1030,Not Started,Sophia-Mall.BL.CW.Z02.STR,Concrete casting and curing - Retail Block A,21-Jun-26,29-Jun-26
+Sophia-Mall,SM-Z03-EXC-1010,Not Started,Sophia-Mall.BL.CW.Z03.EARTH,Excavation and formation works - Retail Block B,5-Jul-26,23-Jul-26
+Sophia-Mall,SM-Z03-RFT-1020,Not Started,Sophia-Mall.BL.CW.Z03.STR,Reinforcement and embedded item release - Retail Block B,23-Jul-26,4-Aug-26
+Sophia-Mall,SM-Z03-CON-1030,Not Started,Sophia-Mall.BL.CW.Z03.STR,Concrete casting and curing - Retail Block B,5-Aug-26,13-Aug-26
+Sophia-Mall,SM-Z04-EXC-1010,Not Started,Sophia-Mall.BL.CW.Z04.EARTH,Excavation and formation works - Cinema Zone,19-Aug-26,6-Sep-26
+Sophia-Mall,SM-Z04-RFT-1020,Not Started,Sophia-Mall.BL.CW.Z04.STR,Reinforcement and embedded item release - Cinema Zone,6-Sep-26,18-Sep-26
+Sophia-Mall,SM-Z04-CON-1030,Not Started,Sophia-Mall.BL.CW.Z04.STR,Concrete casting and curing - Cinema Zone,19-Sep-26,27-Sep-26
+Sophia-Mall,SM-MEP-2010,Not Started,Sophia-Mall.BL.MEP.COR,MEP first-fix coordination and embedded systems clearance,13-Oct-26,12-Nov-26
+Sophia-Mall,SM-FIN-3010,Not Started,Sophia-Mall.BL.T&C,"Testing, commissioning and handover preparation",17-Nov-26,7-Dec-26
+Sophia-Mall,SM-MS-9000,Not Started,Sophia-Mall.BL.MI,Project Finish Milestone,20-Aug-27,

@@ -1,0 +1,3 @@
+﻿contract_id,project_id,package,contractor,contract_type,original_value,approved_variations,pending_variations,paid_to_date,retention_percent,status
+PH-01,The Big -P.01-UP-20-April-26,1,SAMCO,Unite rate,367286025,17671310,0,17671310,5%,Active
+PH-02,The Big -P.01-UP-20-April-26,2,SAMCO,Unite rate,900000000,0,0,0,5%,In-Active

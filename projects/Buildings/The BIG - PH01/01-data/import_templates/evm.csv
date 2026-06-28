@@ -1,0 +1,1364 @@
+﻿project_id,activity_id,activity_name,period,BAC,AC,EV,PV,CPI,SPI,CV,SV
+The Big -P.01-UP-20-April-26,KD-MS-1000,Project Start Date,May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,KD-MS-1010,Contract Agreement,May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,KD-MS-1020,IFC Drawing Package,May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,P-MS-1000,Submittal for RFT Rebar,May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-DR-1000,Design Review,May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-SUB-B01-REP-1000,Submittal for General Replacement Plan & Typical Sections for Replacement / Backfilling DWGs  (B01),May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-SUB-B02-REP-1000,Submittal for General Replacement Plan & Typical Sections for Replacement / Backfilling DWGs (B02),May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,KD-MOB-1000,Surveying Works,17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,KD-MOB-1010,Equipment Mobilization,17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,KD-MOB-1020,Site Preparation,17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,P-MS-1020,Submittal for Soil Replacement,17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,P-MS-1010,Submittal for Plain Concrete,17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-SUB-B01-FOOT-1000,Submittal for PC Raft Conc. Dim. DWGs (B01) (footing),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,P-MS-1030,Submittal for Rc Concrete,17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-SUB-B04-FOOT-1000,Submittal for  Waterproofing Layout Plan (B04),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-APP-B01-FOOT-1000,Approval for PC Raft Conc. Dim. DWGs (B01) (footing),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-APP-B01-FOOT-1020,Approval for RC Raft & Footings RFT DWGs (B01),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,P-MS-1060,Submittal for cold Crystalline waterproofing for Water tank,17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,P-MS-1040,Submittal for Waterproofing,17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,P-MS-1050,Submittal for cold applied damp-proofing,17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-APP-B02-REP-1000,Approval for General Replacement Plan & Typical Sections for Replacement / Backfilling DWGs (B02),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,P-MPOS-1000,P.O for Rebar Patch#1 (Footing & Water tank),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-SUB-B03-REP-1000,Submittal for General Replacement Plan & Typical Sections for Replacement / Backfilling DWGs (B03),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-SUB-B01-FOOT-1020,Submittal for RC Raft & Footings RFT DWGs (B01) (footing),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-SUB-B01-FOOT-1030,Submittal for  Waterproofing Layout Plan (B01),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,P-MA-1000,Approval for RFT Rebar,17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-APP-B01-REP-1000,Approval for General Replacement Plan & Typical Sections for Replacement / Backfilling DWGs (B01),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B04-WT-1000,Excavation for Water Tank (+198.15) (B04) (Water Tank),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-SUB-B01-FOOT-1010,Submittal for RC Raft & Footings Conc. Dim. DWGs (B01) (footing),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,P-MA-1010,Approval for Soil Replacement,17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,P-MA-1020,Approval for Plain Concrete,17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-APP-B01-FOOT-1030,Approval for  Waterproofing Layout Plan (B01),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-APP-B04-WT-1000,Approval for PC Raft Conc. Dim. DWGs (B04) (Water Tank),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-SUB-B02-FOOT-1000,Submittal for PC Raft Conc. Dim. DWGs (B02) (footing),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-APP-B03-REP-1000,Approval for General Replacement Plan & Typical Sections for Replacement / Backfilling DWGs (B03),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-SUB-B04-FOOT-1010,Submittal for PC Raft Conc. Dim. DWGs (B04) (footing),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-SUB-B02-FOOT-1030,Submittal for  Waterproofing Layout Plan (B02),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B04-WT-1010,Compaction of Soil (B04) (Water Tank),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-EW-B03-1000,Soil Replacement & Leveling & Compaction (B03),17-May-26,1375892.03,1375892.03,1375892.03,1375892.03,1,1.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-EW-B04-1000,Soil Replacement & Leveling & Compaction (B04),17-May-26,1812701.4,1812701.4,1812701.4,1812701.4,1,1.0,0,0.0
+The Big -P.01-UP-20-April-26,E-SUB-B02-FOOT-1010,Submittal for RC Raft & Footings Conc. Dim. DWGs (B02) (footing),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-SUB-B03-FOOT-1010,Submittal for PC Raft Conc. Dim. DWGs (B03) (footing),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B04-WT-1020,Shuttering for PC Raft (B04) (Water Tank),17-May-26,138612.75,138612.75,138612.75,138612.75,1,1.0,0,0.0
+The Big -P.01-UP-20-April-26,E-SUB-B04-FOOT-1020,Submittal for RC Raft & Footings Conc. Dim. DWGs (B04) (footing),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-SUB-B03-FOOT-1000,Submittal for  Waterproofing Layout Plan (B03),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,P-MA-1030,Approval for Rc Concrete,17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-APP-B01-FOOT-1010,Approval for RC Raft & Footings Conc. Dim. DWGs (B01),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-SUB-B02-FOOT-1020,Submittal for RC Raft & Footings RFT DWGs (B02) (footing),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-SUB-B03-FOOT-1020,Submittal for RC Raft & Footings Conc. Dim. DWGs (B03) (footing),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B04-WT-1030,Pouring for PC Raft (B04) (Water Tank),17-May-26,323429.75,323429.75,323429.75,323429.75,1,1.0,0,0.0
+The Big -P.01-UP-20-April-26,P-MA-1060,Approval for cold Crystalline waterproofing for Water tank,17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-SUB-B02-BAS02-1000,Submittal for Col. & Walls Conc. Dim.& RFT DWGs (B02) (Bas 02),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,P-MA-1040,Approval for Waterproofing,17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,P-MA-1050,Approval for cold applied damp-proofing,17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,P-MDEL-1020,Delivery for Plain Concrete,17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-SUB-B04-FOOT-1030,Submittal for RC Raft & Footings RFT DWGs (B04) (footing),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,P-MDEL-1010,Delivery for Soil Replacement,17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B04-WT-1040,Curing for PC Raft (B04) (Water Tank),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-SUB-B03-FOOT-1030,Submittal for RC Raft & Footings RFT DWGs (B03) (footing),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,P-MPOS-1010,P.O for  Soil Replacement,17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,P-MPOS-1020,P.O for  Plain Concrete,17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-SUB-B02-BAS02-1010,Submittal for Stairs Conc. Dim.& RFT DWGs (B02) (Bas 02),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-SUB-B02-BAS01-1010,Submittal for Stairs Conc. Dim.  & RFT DWGs (B02) (Bas 01),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-SUB-B02-GR-1010,Submittal for Stairs Conc. Dim.  & RFT DWGs (B02) (GF),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-SUB-B02-1ST-1010,Submittal for Stairs Conc. Dim.  & RFT DWGs (B02) (1st),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-SUB-B02-2ND-1010,Submittal for Stairs Conc. Dim.  & RFT DWGs (B02) (2nd),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-SUB-B02-3RD-1010,Submittal for Stairs Conc. Dim.  & RFT DWGs (B02) (3rd),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-SUB-B02-4TH-1010,Submittal for Stairs Conc. Dim.  & RFT DWGs (B02) (4th),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-SUB-B04-REP-1000,Submittal for General Replacement Plan & Typical Sections for Replacement / Backfilling DWGs (B04),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-SUB-B02-BAS02-1020,Submittal for Beams Conc. Dim.& RFT DWGs (B02) (Bas 02),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-SUB-B01-BAS01-1000,Submittal for Col. & Walls Conc. Dim.  & RFT DWGs (B01) (Bas 01),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-SUB-B02-BAS01-1000,Submittal for Col. & Walls Conc. Dim.  & RFT DWGs (B02) (Bas 01),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-SUB-B02-GR-1000,Submittal for Col. & Walls Conc. Dim.  & RFT DWGs (B02) (GF),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-SUB-B02-1ST-1000,Submittal for Col. & Walls Conc. Dim.  & RFT DWGs (B02) (1st),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-SUB-B02-2ND-1000,Submittal for Col. & Walls Conc. Dim.  & RFT DWGs (B02) (2nd),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-SUB-B02-3RD-1000,Submittal for Col. & Walls Conc. Dim.  & RFT DWGs (B02) (3rd),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-SUB-B02-4TH-1000,Submittal for Col. & Walls Conc. Dim.  & RFT DWGs (B02) (4th),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-SUB-B02-RF-1000,Submittal for Col. & Walls Conc. Dim.  & RFT DWGs (B02) (RF),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,P-MPOS-1030,P.O for  Rc Concrete,17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-SUB-B01-GR-1000,Submittal for Col. & Walls Conc. Dim.  & RFT DWGs (B01),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-SUB-B01-1ST-1010,Submittal for Stairs Conc. Dim.  & RFT DWGs (B01) (1st),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-SUB-B02-BAS02-1030,Submittal for Slabs Conc. Dim.& RFT DWGs (B02) (Bas 02),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-SUB-B01-BAS01-1010,Submittal for Stairs Conc. Dim.  & RFT DWGs (B01) (Bas 01),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,P-MPOS-1040,P.O for  Waterproofing,17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,P-MPOS-1050,P.O for cold applied damp-proofing,17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,P-MDEL-1000,Delivery for Rebar Patch#1 (Footing & Water tank),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-SUB-B01-BAS01-1020,Submittal for Ramps Conc. Dim.  & RFT DWGs (B01) (Bas 01),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-EW-B01-1000,Soil Replacement & Leveling & Compaction (B01),17-May-26,2379405.49,2379405.49,2379405.49,2379405.49,1,1.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-EW-B02-1000,Soil Replacement & Leveling & Compaction (B02),17-May-26,1268401.09,1268401.09,1268401.09,1268401.09,1,1.0,0,0.0
+The Big -P.01-UP-20-April-26,E-SUB-B01-2ND-1010,Submittal for Stairs Conc. Dim.  & RFT DWGs (B01) (2nd),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-SUB-B01-3RD-1010,Submittal for Stairs Conc. Dim.  & RFT DWGs (B01) (3rd),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-SUB-B01-4TH-1010,Submittal for Stairs Conc. Dim.  & RFT DWGs (B01) (4th),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-SUB-B01-5TH-1010,Submittal for Stairs Conc. Dim.  & RFT DWGs (B01) (5th),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-SUB-B01-6TH-1010,Submittal for Stairs Conc. Dim.  & RFT DWGs (B01) (6th),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-SUB-B01-7TH-1010,Submittal for Stairs Conc. Dim.  & RFT DWGs (B01) (7th),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-SUB-B01-8TH-1010,Submittal for Stairs Conc. Dim.  & RFT DWGs (B01) (8th),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-SUB-B01-RF-1020,Submittal for Beams Conc. Dim.  & RFT DWGs (B01) (RF),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-SUB-B04-WT-1000,Submittal for PC Raft Conc. Dim. DWGs (B04) (Water Tank),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-SUB-B02-BAS01-1020,Submittal for Beams Conc. Dim.  & RFT DWGs (B02) (Bas 01),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-SUB-B01-BAS01-1030,Submittal for Beams Conc. Dim.  & RFT DWGs (B01) (Bas 01),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-SUB-B04-WT-1010,Submittal for RC Raft Conc. Dim. DWGs (B04) (Water Tank),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-SUB-B02-BAS01-1030,Submittal for Slabs Conc. Dim.  & RFT DWGs (B02) (Bas 01),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-SUB-B01-BAS01-1040,Submittal for Slabs Conc. Dim.  & RFT DWGs (B01) (Bas 01),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-SUB-B04-WT-1020,Submittal for RC Raft RFT DWGs (B04) (Water Tank),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-SUB-B01-BAS02-1000,Submittal for Col. & Walls Conc. Dim.  & RFT DWGs (B01) (Bas 02),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-APP-B04-REP-1000,Approval for General Replacement Plan & Typical Sections for Replacement / Backfilling DWGs (B04),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-SUB-B04-WT-1030,Submittal for Col. & Walls DWGs (B04) (Water Tank),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-SUB-B01-BAS02-1010,Submittal for Stairs Conc. Dim.  & RFT DWGs (B01) (Bas 02),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-SUB-B04-WT-1040,Submittal for Slabs DWGs (B04) (Water Tank),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-EW-B01-1010,Soil Compaction Test (B01),17-May-26,264378.39,264378.39,264378.39,264378.39,1,1.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-EW-B02-1010,Soil Compaction Test (B02),17-May-26,140933.45,140933.45,140933.45,140933.45,1,1.0,0,0.0
+The Big -P.01-UP-20-April-26,E-SUB-B01-BAS02-1020,Submittal for Ramps Conc. Dim.  & RFT DWGs (B01) (Bas 02),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-APP-B04-WT-1010,Approval for RC Raft Conc. Dim. DWGs (B04) (Water Tank),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-EW-B03-1010,Soil Compaction Test (B03),17-May-26,152876.89,152876.89,152876.89,152876.89,1,1.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-EW-B04-1010,Soil Compaction Test (B04),17-May-26,201411.27,201411.27,201411.27,201411.27,1,1.0,0,0.0
+The Big -P.01-UP-20-April-26,E-SUB-B01-BAS02-1030,Submittal for Beams Conc. Dim.  & RFT DWGs (B01) (Bas 02),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-APP-B04-WT-1020,Approval for RC Raft RFT DWGs (B04) (Water Tank),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,P-MPOS-1070,P.O for Rebar Patch#2  (Basement 2),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B01-FOOT-1000,Shuttering for PC Raft (B01) (footing),17-May-26,796713.38,796713.38,796713.38,796713.38,1,1.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B02-FOOT-1000,Shuttering for PC Raft (B02) (footing),17-May-26,424288.13,424288.13,424288.13,424288.13,1,1.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B01-FOOT-1010,Pouring for PC Raft (B01) (footing),17-May-26,1858997.88,1858997.88,1858997.88,1858997.88,1,1.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B02-FOOT-1010,Pouring for PC Raft (B02) (footing),17-May-26,990005.63,990005.63,990005.63,990005.63,1,1.0,0,0.0
+The Big -P.01-UP-20-April-26,P-MDEL-1030,Delivery for Rc Concrete,17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-SUB-B01-BAS02-1040,Submittal for Slabs Conc. Dim.  & RFT DWGs (B01) (Bas 02),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-APP-B03-FOOT-1010,Approval for PC Raft Conc. Dim. DWGs (B03) (footing),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-APP-B03-FOOT-1020,Approval for RC Raft & Footings Conc. Dim. DWGs  (B03) (footing),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-APP-B03-FOOT-1030,Approval for RC Raft & Footings RFT DWGs  (B03) (footing),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-APP-B04-FOOT-1010,Approval for PC Raft Conc. Dim. DWGs (B04) (footing),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-APP-B04-FOOT-1020,Approval for RC Raft & Footings Conc. Dim. DWGs (B04) (footing),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-APP-B04-FOOT-1030,Approval for RC Raft & Footings RFT DWGs (B04) (footing),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,P-MDEL-1040,Delivery for Waterproofing,17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-APP-B03-FOOT-1000,Approval for  Waterproofing Layout Plan (B03),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-APP-B04-FOOT-1000,Approval for  Waterproofing Layout Plan (B04),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B04-FOOT-1000,Shuttering for PC Raft (B04) (footing),17-May-26,606042.0,606042.0,606042.0,606042.0,1,1.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B03-FOOT-1000,Shuttering for PC Raft (B03) (footing),17-May-26,459468.75,459468.75,459468.75,459468.75,1,1.0,0,0.0
+The Big -P.01-UP-20-April-26,E-APP-B02-FOOT-1000,Approval for PC Raft Conc. Dim. DWGs (B02) (footing),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-APP-B02-FOOT-1010,Approval for RC Raft & Footings Conc. Dim. DWGs (B02) (footing),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-APP-B02-FOOT-1020,Approval for RC Raft & Footings RFT DWGs (B02) (footing),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-APP-B04-WT-1030,Approval for Col. & Walls DWGs (B04) (Water Tank),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-APP-B04-WT-1040,Approval for Slabs DWGs (B04) (Water Tank),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-APP-B02-FOOT-1030,Approval for  Waterproofing Layout Plan (B02),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B01-FOOT-1020,Curing for PC Raft (B01) (footing),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B02-FOOT-1020,Curing for PC Raft (B02) (footing),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B01-FOOT-1030,Waterproofing & Ins. Protection works (B01) (footing),17-May-26,1487911.54,1487911.54,1487911.54,1487911.54,1,1.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B04-WT-1050,Waterproofing & Ins. Protection works (B04) (Water Tank),17-May-26,630000.0,630000.0,630000.0,630000.0,1,1.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B02-FOOT-1030,Waterproofing & Ins. Protection works (B02) (footing),17-May-26,793168.14,793168.14,793168.14,793168.14,1,1.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B04-FOOT-1010,Pouring for PC Raft (B04) (footing),17-May-26,1414098.0,1414098.0,1414098.0,1414098.0,1,1.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B03-FOOT-1010,Pouring for PC Raft (B03) (footing),17-May-26,1072093.75,1072093.75,1072093.75,1072093.75,1,1.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B04-FOOT-1020,Curing for PC Raft (B04) (footing),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B03-FOOT-1020,Curing for PC Raft (B03) (footing),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B04-FOOT-1030,Waterproofing & Ins. Protection works (B04) (footing),17-May-26,1133534.97,1133534.97,1133534.97,1133534.97,1,1.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B03-FOOT-1030,Waterproofing & Ins. Protection works (B03) (footing),17-May-26,860385.35,860385.35,860385.35,860385.35,1,1.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B04-WT-1060,Shuttering for RC Raft (B04) (Water Tank),17-May-26,1423684.0,1423684.0,1423684.0,1423684.0,1,1.0,0,0.0
+The Big -P.01-UP-20-April-26,E-SUB-B03-BAS02-1000,Submittal for Col. & Walls Conc. Dim.  & RFT DWGs (B03) (Bas 02),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-SUB-B04-BAS02-1000,Submittal for Col. & Walls Conc. Dim.  & RFT DWGs (B04) (Bas 02),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-SUB-B03-BAS01-1000,Submittal for Col. & Walls Conc. Dim.  & RFT DWGs (B03) (Bas 01),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-SUB-B04-BAS01-1000,Submittal for Col. & Walls Conc. Dim.  & RFT DWGs (B04) (Bas 01),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-SUB-B04-GR-1000,Submittal for Col. & Walls Conc. Dim.  & RFT DWGs (B04) (GF),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-SUB-B03-GR-1000,Submittal for Col. & Walls Conc. Dim.  & RFT DWGs (B03) (GF),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-SUB-B04-1ST-1000,Submittal for Col. & Walls Conc. Dim.  & RFT DWGs (B04) (1st),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-SUB-B04-2ND-1000,Submittal for Col. & Walls Conc. Dim.  & RFT DWGs (B04) (2nd),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-SUB-B04-3RD-1000,Submittal for Col. & Walls Conc. Dim.  & RFT DWGs (B04) (3rd),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-SUB-B04-4TH-1000,Submittal for Col. & Walls Conc. Dim.  & RFT DWGs (B04) (4th),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-SUB-B04-5TH-1000,Submittal for Col. & Walls Conc. Dim.  & RFT DWGs (B04) (5th),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-SUB-B04-6TH-1000,Submittal for Col. & Walls Conc. Dim.  & RFT DWGs (B04) (6th),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-SUB-B04-7TH-1000,Submittal for Col. & Walls Conc. Dim.  & RFT DWGs (B04) (7th),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-SUB-B04-8TH-1000,Submittal for Col. & Walls Conc. Dim.  & RFT DWGs (B04) (8th),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-SUB-B03-1ST-1000,Submittal for Col. & Walls Conc. Dim.  & RFT DWGs (B03) (1st),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-SUB-B03-2ND-1000,Submittal for Col. & Walls Conc. Dim.  & RFT DWGs (B03) (2nd),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-SUB-B03-3RD-1000,Submittal for Col. & Walls Conc. Dim.  & RFT DWGs (B03) (3rd),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-SUB-B03-4TH-1000,Submittal for Col. & Walls Conc. Dim.  & RFT DWGs (B03) (4th),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-SUB-B04-RF-1000,Submittal for Col. & Walls Conc. Dim.  & RFT DWGs (B04) (RF),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-SUB-B03-RF-1000,Submittal for Col. & Walls Conc. Dim.  & RFT DWGs (B03) (RF),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-APP-B03-BAS01-1020,Approval for Beams Conc. Dim.  & RFT DWGs  (B03) (Bas 01),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-APP-B03-BAS02-1000,Approval for Col. & Walls Conc. Dim.  & RFT DWGs  (B03) (Bas 02),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-APP-B03-BAS01-1000,Approval for Col. & Walls Conc. Dim.  & RFT DWGs  (B03) (Bas 01),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-APP-B03-GR-1000,Approval for Col. & Walls Conc. Dim.  & RFT DWGs  (B03) (GF),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-APP-B03-1ST-1000,Approval for Col. & Walls Conc. Dim.  & RFT DWGs  (B03) (1st),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-APP-B03-2ND-1000,Approval for Col. & Walls Conc. Dim.  & RFT DWGs  (B03) (2nd),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-APP-B03-3RD-1000,Approval for Col. & Walls Conc. Dim.  & RFT DWGs  (B03) (3rd),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-APP-B03-4TH-1000,Approval for Col. & Walls Conc. Dim.  & RFT DWGs  (B03) (4th),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-APP-B03-RF-1000,Approval for Col. & Walls Conc. Dim.  & RFT DWGs  (B03) (RF),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B03-FOOT-1040,Shuttering for RC Raft & Footings (B03) (footing),17-May-26,2877739.56,2877739.56,2877739.56,2877739.56,1,1.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B02-FOOT-1040,Shuttering for RC Raft & Footings (B02) (footing),17-May-26,2271974.1,2271974.1,2271974.1,2271974.1,1,1.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B03-FOOT-1050,RFT for RC Raft & Footings (B03) (footing),17-May-26,7996512.12,7996512.12,7996512.12,7996512.12,1,1.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B04-WT-1070,RFT for RC Raft (B04) (Water Tank),17-May-26,1860691.06,1860691.06,1860691.06,1860691.06,1,1.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B02-FOOT-1050,RFT for RC Raft & Footings (B02) (footing),17-May-26,6313254.79,6313254.79,6313254.79,6313254.79,1,1.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B03-FOOT-1080,Pouring for RC Raft & Footings (B03) (footing),17-May-26,6714725.63,6714725.63,6714725.63,6714725.63,1,1.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B02-FOOT-1090,Pouring for RC Raft & Footings (B02) (footing),17-May-26,5301272.91,5301272.91,5301272.91,5301272.91,1,1.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B03-FOOT-1060,Shuttering for Columns & Walls Below SOG (B01) (footing),17-May-26,44307.9,44307.9,44307.9,44307.9,1,1.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B03-FOOT-1070,RFT for Columns & Walls Below SOG (B03) (footing),17-May-26,59377.83,59377.83,59377.83,59377.83,1,1.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B02-FOOT-1060,Shuttering for Columns & Walls Below SOG (B01) (footing),17-May-26,73546.2,73546.2,73546.2,73546.2,1,1.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B02-FOOT-1070,RFT for Columns & Walls Below SOG (B02) (footing),17-May-26,98560.62,98560.62,98560.62,98560.62,1,1.0,0,0.0
+The Big -P.01-UP-20-April-26,E-SUB-B03-BAS02-1010,Submittal for Stairs Conc. Dim.  & RFT DWGs (B03) (Bas 02),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-SUB-B04-BAS02-1010,Submittal for Stairs Conc. Dim.  & RFT DWGs (B04) (Bas 02),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-SUB-B01-1ST-1000,Submittal for Col. & Walls Conc. Dim.  & RFT DWGs (B01) (1st),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-SUB-B01-2ND-1000,Submittal for Col. & Walls Conc. Dim.  & RFT DWGs (B01) (2nd),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-SUB-B01-3RD-1000,Submittal for Col. & Walls Conc. Dim.  & RFT DWGs (B01) (3rd),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-SUB-B01-4TH-1000,Submittal for Col. & Walls Conc. Dim.  & RFT DWGs (B01) (4th),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-SUB-B01-5TH-1000,Submittal for Col. & Walls Conc. Dim.  & RFT DWGs (B01) (5th),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-SUB-B01-6TH-1000,Submittal for Col. & Walls Conc. Dim.  & RFT DWGs (B01) (6th),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-SUB-B01-7TH-1000,Submittal for Col. & Walls Conc. Dim.  & RFT DWGs (B01) (7th),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-SUB-B01-8TH-1000,Submittal for Col. & Walls Conc. Dim.  & RFT DWGs (B01) (8th),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-SUB-B01-RF-1000,Submittal for Col. & Walls Conc. Dim.  & RFT DWGs (B01) (RF),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-APP-B02-BAS02-1000,Approval for Col. & Walls Conc. Dim.  & RFT DWGs (B02) (Bas 02),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-APP-B02-BAS02-1020,Approval for Beams Conc. Dim.  & RFT DWGs (B02) (Bas 02),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-APP-B02-BAS02-1010,Approval for Stairs Conc. Dim.  & RFT DWGs (B02) (Bas 02),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-APP-B01-BAS02-1000,Approval for Col. & Walls Conc. Dim.  & RFT DWGs (B01) (Bas 02),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-APP-B01-BAS02-1030,Approval for Beams Conc. Dim.  & RFT DWGs (B01) (Bas 02),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-APP-B01-BAS02-1010,Approval for Stairs Conc. Dim.  & RFT DWGs (B01) (Bas 02),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-APP-B02-BAS01-1000,Approval for Col. & Walls Conc. Dim.  & RFT DWGs (B02) (Bas 01),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-APP-B02-BAS01-1010,Approval for Stairs Conc. Dim.  & RFT DWGs (B02) (Bas 01),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-APP-B01-BAS01-1010,Approval for Stairs Conc. Dim.  & RFT DWGs (B01) (Bas 01),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-APP-B02-GR-1000,Approval for Col. & Walls Conc. Dim.  & RFT DWGs (B02) (GF),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-APP-B02-GR-1010,Approval for Stairs Conc. Dim.  & RFT DWGs (B02) (GF),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-APP-B01-GR-1010,Approval for Stairs Conc. Dim.  & RFT DWGs (B01)  (GF),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-APP-B02-1ST-1000,Approval for Col. & Walls Conc. Dim.  & RFT DWGs (B02) (1st),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-APP-B02-1ST-1010,Approval for Stairs Conc. Dim.  & RFT DWGs (B02) (1st),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-APP-B02-2ND-1000,Approval for Col. & Walls Conc. Dim.  & RFT DWGs (B02) (2nd),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-APP-B02-2ND-1010,Approval for Stairs Conc. Dim.  & RFT DWGs (B02) (2nd),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-APP-B02-3RD-1000,Approval for Col. & Walls Conc. Dim.  & RFT DWGs (B02) (3rd),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-APP-B02-3RD-1010,Approval for Stairs Conc. Dim.  & RFT DWGs (B02) (3rd),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-APP-B02-4TH-1000,Approval for Col. & Walls Conc. Dim.  & RFT DWGs (B02) (4th),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-APP-B02-4TH-1010,Approval for Stairs Conc. Dim.  & RFT DWGs (B02) (4th),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-APP-B01-1ST-1010,Approval for Stairs Conc. Dim.  & RFT DWGs (B01) (1st),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-APP-B01-2ND-1010,Approval for Stairs Conc. Dim.  & RFT DWGs (B01) (2nd),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-APP-B01-3ED-1010,Approval for Stairs Conc. Dim.  & RFT DWGs (B01) (3rd),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-APP-B01-4TH-1010,Approval for Stairs Conc. Dim.  & RFT DWGs (B01) (4th),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-APP-B01-5TH-1010,Approval for Stairs Conc. Dim.  & RFT DWGs (B01) (5th),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-APP-B01-6TH-1010,Approval for Stairs Conc. Dim.  & RFT DWGs (B01) (6th),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-APP-B01-7TH-1010,Approval for Stairs Conc. Dim.  & RFT DWGs (B01) (7th),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-APP-B01-8TH-1010,Approval for Stairs Conc. Dim.  & RFT DWGs (B01) (8th),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-APP-B02-RF-1000,Approval for Col. & Walls Conc. Dim.  & RFT DWGs (B02) (RF),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-APP-B03-BAS02-1030,Approval for Slabs Conc. Dim.  & RFT DWGs  (B03) (Bas 02),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-APP-B04-BAS02-1000,Approval for Col. & Walls Conc. Dim.  & RFT DWGs (B04) (Bas 02),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-SUB-B03-BAS01-1010,Submittal for Stairs Conc. Dim.  & RFT DWGs (B03) (Bas 01),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-SUB-B04-BAS01-1010,Submittal for Stairs Conc. Dim.  & RFT DWGs (B04) (Bas 01),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-SUB-B04-GR-1010,Submittal for Stairs Conc. Dim.  & RFT DWGs (B04) (GF),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-SUB-B03-GR-1010,Submittal for Stairs Conc. Dim.  & RFT DWGs (B03) (GF),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-SUB-B04-1ST-1010,Submittal for Stairs Conc. Dim.  & RFT DWGs (B04) (1st),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-SUB-B04-2ND-1010,Submittal for Stairs Conc. Dim.  & RFT DWGs (B04) (2nd),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-SUB-B04-3RD-1010,Submittal for Stairs Conc. Dim.  & RFT DWGs (B04) (3rd),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-SUB-B04-4TH-1010,Submittal for Stairs Conc. Dim.  & RFT DWGs (B04) (4th),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-SUB-B04-5TH-1010,Submittal for Stairs Conc. Dim.  & RFT DWGs (B04) (5th),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-SUB-B04-6TH-1010,Submittal for Stairs Conc. Dim.  & RFT DWGs (B04) (6th),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-SUB-B04-7TH-1010,Submittal for Stairs Conc. Dim.  & RFT DWGs (B04) (7th),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-SUB-B04-8TH-1010,Submittal for Stairs Conc. Dim.  & RFT DWGs (B04) (8th),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-SUB-B03-1ST-1010,Submittal for Stairs Conc. Dim.  & RFT DWGs (B03) (1st),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-SUB-B03-2ND-1010,Submittal for Stairs Conc. Dim.  & RFT DWGs (B03) (2nd),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-SUB-B03-3RD-1010,Submittal for Stairs Conc. Dim.  & RFT DWGs (B03) (3rd),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-SUB-B03-4TH-1010,Submittal for Stairs Conc. Dim.  & RFT DWGs (B03) (4th),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-APP-B02-BAS02-1030,Approval for Slabs Conc. Dim.  & RFT DWGs (B02) (Bas 02),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-APP-B02-BAS01-1030,Approval for Slabs Conc. Dim.  & RFT DWGs (B02) (Bas 01),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-APP-B02-BAS01-1020,Approval for Beams Conc. Dim.  & RFT DWGs (B02) (Bas 01),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-APP-B01-BAS01-1000,Approval for Col. & Walls Conc. Dim.  & RFT DWGs (B01) (Bas 01),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-APP-B01-GR-1000,Approval for Col. & Walls Conc. Dim.  & RFT DWGs (B01)  (GF),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-APP-B01-1ST-1000,Approval for Col. & Walls Conc. Dim.  & RFT DWGs (B01) (1st),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-APP-B01-2ND-1000,Approval for Col. & Walls Conc. Dim.  & RFT DWGs (B01) (2nd),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-APP-B01-3ED-1000,Approval for Col. & Walls Conc. Dim.  & RFT DWGs (B01) (3rd),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-APP-B01-4TH-1000,Approval for Col. & Walls Conc. Dim.  & RFT DWGs (B01) (4th),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-APP-B01-5TH-1000,Approval for Col. & Walls Conc. Dim.  & RFT DWGs (B01) (5th),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-APP-B01-6TH-1000,Approval for Col. & Walls Conc. Dim.  & RFT DWGs (B01) (6th),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-APP-B01-7TH-1000,Approval for Col. & Walls Conc. Dim.  & RFT DWGs (B01) (7th),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-APP-B01-8TH-1000,Approval for Col. & Walls Conc. Dim.  & RFT DWGs (B01) (8th),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-APP-B01-RF-1000,Approval for Col. & Walls Conc. Dim.  & RFT DWGs (B01) (RF),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-APP-B03-BAS02-1020,Approval for Beams Conc. Dim.  & RFT DWGs  (B03) (Bas 02),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-APP-B03-BAS02-1010,Approval for Stairs Conc. Dim.  & RFT DWGs  (B03) (Bas 02),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-APP-B03-BAS01-1030,Approval for Slabs Conc. Dim.  & RFT DWGs  (B03) (Bas 01),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-APP-B03-BAS01-1010,Approval for Stairs Conc. Dim.  & RFT DWGs  (B03) (Bas 01),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-APP-B04-BAS01-1000,Approval for Col. & Walls Conc. Dim.  & RFT DWGs (B04) (Bas 01),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-APP-B04-GR-1000,Approval for Col. & Walls Conc. Dim.  & RFT DWGs (B04) (GF),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-APP-B03-GR-1010,Approval for Stairs Conc. Dim.  & RFT DWGs  (B03) (GF),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-APP-B04-1ST-1000,Approval for Col. & Walls Conc. Dim.  & RFT DWGs (B04) (1st),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-APP-B04-2ND-1000,Approval for Col. & Walls Conc. Dim.  & RFT DWGs (B04) (2nd),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-APP-B04-2RD-1000,Approval for Col. & Walls Conc. Dim.  & RFT DWGs (B04) (3rd),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-APP-B04-4TH-1000,Approval for Col. & Walls Conc. Dim.  & RFT DWGs (B04) (4th),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-APP-B04-5TH-1000,Approval for Col. & Walls Conc. Dim.  & RFT DWGs (B04) (5th),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-APP-B04-6TH-1000,Approval for Col. & Walls Conc. Dim.  & RFT DWGs (B04) (6th),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-APP-B04-7TH-1000,Approval for Col. & Walls Conc. Dim.  & RFT DWGs (B04) (7th),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-APP-B04-8TH-1000,Approval for Col. & Walls Conc. Dim.  & RFT DWGs (B04) (8th),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-APP-B03-1ST-1010,Approval for Stairs Conc. Dim.  & RFT DWGs  (B03) (1st),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-APP-B03-2ND-1010,Approval for Stairs Conc. Dim.  & RFT DWGs  (B03) (2nd),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-APP-B03-3RD-1010,Approval for Stairs Conc. Dim.  & RFT DWGs  (B03) (3rd),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-APP-B03-4TH-1010,Approval for Stairs Conc. Dim.  & RFT DWGs  (B03) (4th),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-APP-B04-RF-1000,Approval for Col. & Walls Conc. Dim.  & RFT DWGs (B04) (RF),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B01-FOOT-1040,Shuttering for RC Raft & Footings (B01) (footing),17-May-26,4684300.95,4684300.95,4684300.95,4684300.95,1,1.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B01-FOOT-1050,RFT for RC Raft & Footings (B01) (footing),17-May-26,13016490.4,13016490.4,13016490.4,13016490.4,1,1.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B02-FOOT-1080,Pouring Columns & Walls Below SOG (B01) (footing),17-May-26,171607.8,171607.8,171607.8,171607.8,1,1.0,0,0.0
+The Big -P.01-UP-20-April-26,E-APP-B04-BAS02-1010,Approval for Stairs Conc. Dim.  & RFT DWGs (B04) (Bas 02),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-APP-B04-BAS01-1010,Approval for Stairs Conc. Dim.  & RFT DWGs (B04) (Bas 01),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-APP-B04-GR-1010,Approval for Stairs Conc. Dim.  & RFT DWGs (B04) (GF),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-APP-B04-1ST-1010,Approval for Stairs Conc. Dim.  & RFT DWGs (B04) (1st),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-APP-B04-2ND-1010,Approval for Stairs Conc. Dim.  & RFT DWGs (B04) (2nd),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-APP-B04-2RD-1010,Approval for Stairs Conc. Dim.  & RFT DWGs (B04) (3rd),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-APP-B04-4TH-1010,Approval for Stairs Conc. Dim.  & RFT DWGs (B04) (4th),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-APP-B04-5TH-1010,Approval for Stairs Conc. Dim.  & RFT DWGs (B04) (5th),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-APP-B04-6TH-1010,Approval for Stairs Conc. Dim.  & RFT DWGs (B04) (6th),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-APP-B04-7TH-1010,Approval for Stairs Conc. Dim.  & RFT DWGs (B04) (7th),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-APP-B04-8TH-1010,Approval for Stairs Conc. Dim.  & RFT DWGs (B04) (8th),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-SUB-B04-BAS02-1040,Submittal for Slabs Conc. Dim.  & RFT DWGs (B04) (Bas 02),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-SUB-B04-BAS01-1040,Submittal for Slabs Conc. Dim.  & RFT DWGs (B04) (Bas 01),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-SUB-B01-SOG-1000,Submittal for S.O.G Conc. Dim. DWGs (B01) (Sog),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B03-BAS02-1000,"Scaffolding works for Walls, Col. & Cores (B03) (Bas 02)",17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-SUB-B04-BAS02-1020,Submittal for Ramps Conc. Dim.  & RFT DWGs (B04) (Bas 02),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-SUB-B04-BAS01-1020,Submittal for Ramps Conc. Dim.  & RFT DWGs (B04) (Bas 01),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-SUB-B01-SOG-1010,Submittal for S.O.G RFT DWGs (B01) (Sog),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-APP-B01-BAS02-1020,Approval for Ramps Conc. Dim.  & RFT DWGs (B01) (Bas 02),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-APP-B01-BAS01-1020,Approval for Ramps Conc. Dim.  & RFT DWGs (B01) (Bas 01),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-APP-B04-BAS02-1030,Approval for Beams Conc. Dim.  & RFT DWGs (B04) (Bas 02),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-APP-B04-BAS01-1030,Approval for Beams Conc. Dim.  & RFT DWGs (B04) (Bas 01),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B01-FOOT-1060,Shuttering for Columns & Walls Below SOG (B01) (footing),17-May-26,59896.2,50911.77,50911.77,59896.2,1,0.85,0,-8984.43
+The Big -P.01-UP-20-April-26,CON-B04-WT-1080,Pouring for RC Raft (B04) (Water Tank),17-May-26,2135526.01,2135526.01,2135526.01,2135526.01,1,1.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B01-FOOT-1070,RFT for Columns & Walls Below SOG (B01) (footing),17-May-26,80268.0,68227.8,68227.8,80268.0,1,0.85,0,-12040.2
+The Big -P.01-UP-20-April-26,E-SUB-B03-BAS02-1030,Submittal for Slabs Conc. Dim.  & RFT DWGs (B03) (Bas 02),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-SUB-B03-BAS02-1020,Submittal for Beams Conc. Dim.  & RFT DWGs (B03) (Bas 02),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-SUB-B04-BAS02-1030,Submittal for Beams Conc. Dim.  & RFT DWGs (B04) (Bas 02),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-APP-B01-BAS02-1040,Approval for Slabs Conc. Dim.  & RFT DWGs (B01) (Bas 02),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-APP-B01-BAS01-1030,Approval for Beams Conc. Dim.  & RFT DWGs (B01) (Bas 01),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-APP-B04-BAS02-1040,Approval for Slabs Conc. Dim.  & RFT DWGs (B04) (Bas 02),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-APP-B04-BAS02-1020,Approval for Ramps Conc. Dim.  & RFT DWGs (B04) (Bas 02),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-SUB-B03-BAS01-1020,Submittal for Beams Conc. Dim.  & RFT DWGs (B03) (Bas 01),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-SUB-B04-BAS01-1030,Submittal for Beams Conc. Dim.  & RFT DWGs (B04) (Bas 01),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-APP-B04-BAS01-1040,Approval for Slabs Conc. Dim.  & RFT DWGs (B04) (Bas 01),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-APP-B04-BAS01-1020,Approval for Ramps Conc. Dim.  & RFT DWGs (B04) (Bas 01),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B04-WT-1090,Curing & Deshuttering for RC Raft (B04) (Water Tank),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-SUB-B03-BAS01-1030,Submittal for Slabs Conc. Dim.  & RFT DWGs (B03) (Bas 01),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B03-FOOT-1090,Pouring Columns & Walls Below SOG (B01) (footing),17-May-26,103385.1,103385.1,103385.1,103385.1,1,1.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B03-BAS02-1010,"RFT for Walls, Col. & Cores (B03) (Bas 02)",17-May-26,1145012.81,1145012.81,1145012.81,1145012.81,1,1.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B02-FOOT-1100,Curing & Deshuttering for RC Raft & Footings (B02) (footing),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B01-FOOT-1090,Pouring for RC Raft & Footings (B01) (footing),17-May-26,10930035.55,10930035.55,10930035.55,10930035.55,1,1.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B03-BAS02-1020,"Shuttering for Walls, Col. & Cores (B03) (Bas 02)",17-May-26,928590.39,928590.39,928590.39,928590.39,1,1.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B04-WT-1100,Shuttering for Walls (B04) (Water Tank),17-May-26,1256386.72,1005109.37,1005109.37,1256386.72,1,0.8,0,-251277.34
+The Big -P.01-UP-20-April-26,CON-B04-WT-1110,RFT for Walls (B04) (Water Tank),17-May-26,1653461.47,1322769.18,1322769.18,1653461.47,1,0.8,0,-330692.29
+The Big -P.01-UP-20-April-26,CON-B04-FOOT-1040,Shuttering for RC Raft & Footings (B04) (footing),17-May-26,4333635.39,2816863.0,2816863.0,4333635.39,1,0.65,0,-1516772.39
+The Big -P.01-UP-20-April-26,CON-B04-FOOT-1050,RFT for RC Raft & Footings (B04) (footing),17-May-26,12042079.29,7827351.54,7827351.54,12042079.29,1,0.65,0,-4214727.75
+The Big -P.01-UP-20-April-26,CON-B04-FOOT-1060,Shuttering for Columns & Walls Below SOG (B01) (footing),17-May-26,95249.7,61912.31,61912.31,95249.7,1,0.65,0,-33337.39
+The Big -P.01-UP-20-April-26,CON-B04-FOOT-1070,RFT for Columns & Walls Below SOG (B04) (footing),17-May-26,127645.88,82969.82,82969.82,127645.88,1,0.65,0,-44676.06
+The Big -P.01-UP-20-April-26,CON-B04-FOOT-1080,Pouring for RC Raft & Footings (B04) (footing),17-May-26,10111815.91,6572680.34,6572680.34,10111815.91,1,0.65,0,-3539135.57
+The Big -P.01-UP-20-April-26,E-APP-B01-BAS01-1040,Approval for Slabs Conc. Dim.  & RFT DWGs (B01) (Bas 01),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B03-BAS02-1030,"Pouring for Walls, Col. & Cores (B03) (Bas 02)",17-May-26,1392885.58,1392885.58,1392885.58,1392885.58,1,1.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B04-WT-1120,Installation for Waterstop Insulation (B04) (Water Tank),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B04-WT-1130,Pouring for Walls (B04) (Water Tank),17-May-26,1884580.07,1507664.06,1507664.06,1884580.07,1,0.8,0,-376916.01
+The Big -P.01-UP-20-April-26,E-SUB-B01-GR-1010,Submittal for Stairs Conc. Dim.  & RFT DWGs (B01),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B02-BAS02-1000,"Scaffolding works for Walls, Col. & Cores (B02) (Bas 02)",17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B02-BAS02-1010,"RFT for Walls, Col. & Cores (B02) (Bas 02)",17-May-26,856371.15,856371.15,856371.15,856371.15,1,1.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B02-BAS02-1020,"Shuttering for Walls, Col. & Cores (B02) (Bas 02)",17-May-26,125115.8,125115.8,125115.8,125115.8,1,1.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B01-FOOT-1080,Pouring Columns & Walls Below SOG (B01) (footing),17-May-26,139757.8,76866.79,76866.79,139757.8,1,0.55,0,-62891.01
+The Big -P.01-UP-20-April-26,CON-B02-BAS02-1040,Shuttering for Slabs & Beams (B02) (Bas 02),17-May-26,1971584.22,394316.84,394316.84,1971584.22,1,0.2,0,-1577267.38
+The Big -P.01-UP-20-April-26,CON-B02-BAS02-1030,"Pouring for Walls, Col. & Cores (B02) (Bas 02)",17-May-26,187673.71,187673.71,187673.71,187673.71,1,1.0,0,0.0
+The Big -P.01-UP-20-April-26,E-SUB-B04-GR-1020,Submittal for Beams Conc. Dim.  & RFT DWGs (B04) (GF),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-SUB-B03-GR-1020,Submittal for Beams Conc. Dim.  & RFT DWGs (B03) (GF),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-SUB-B02-GR-1020,Submittal for Beams Conc. Dim.  & RFT DWGs (B02) (GF),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-SUB-B01-GR-1020,Submittal for Beams Conc. Dim.  & RFT DWGs (B01),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-SUB-B04-1ST-1020,Submittal for Beams Conc. Dim.  & RFT DWGs (B04) (1st),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-SUB-B04-2ND-1020,Submittal for Beams Conc. Dim.  & RFT DWGs (B04) (2nd),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-SUB-B04-3RD-1020,Submittal for Beams Conc. Dim.  & RFT DWGs (B04) (3rd),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-SUB-B04-4TH-1020,Submittal for Beams Conc. Dim.  & RFT DWGs (B04) (4th),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-SUB-B04-5TH-1020,Submittal for Beams Conc. Dim.  & RFT DWGs (B04) (5th),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-SUB-B04-6TH-1020,Submittal for Beams Conc. Dim.  & RFT DWGs (B04) (6th),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-SUB-B04-7TH-1020,Submittal for Beams Conc. Dim.  & RFT DWGs (B04) (7th),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-SUB-B04-8TH-1020,Submittal for Beams Conc. Dim.  & RFT DWGs (B04) (8th),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-SUB-B03-1ST-1020,Submittal for Beams Conc. Dim.  & RFT DWGs (B03) (1st),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-SUB-B03-2ND-1020,Submittal for Beams Conc. Dim.  & RFT DWGs (B03) (2nd),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-SUB-B03-3RD-1020,Submittal for Beams Conc. Dim.  & RFT DWGs (B03) (3rd),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-SUB-B03-4TH-1020,Submittal for Beams Conc. Dim.  & RFT DWGs (B03) (4th),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-SUB-B02-1ST-1020,Submittal for Beams Conc. Dim.  & RFT DWGs (B02) (1st),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-SUB-B02-2ND-1020,Submittal for Beams Conc. Dim.  & RFT DWGs (B02) (2nd),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-SUB-B02-3RD-1020,Submittal for Beams Conc. Dim.  & RFT DWGs (B02) (3rd),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-SUB-B02-4TH-1020,Submittal for Beams Conc. Dim.  & RFT DWGs (B02) (4th),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-SUB-B01-1ST-1020,Submittal for Beams Conc. Dim.  & RFT DWGs (B01) (1st),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-SUB-B01-2ND-1020,Submittal for Beams Conc. Dim.  & RFT DWGs (B01) (2nd),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-SUB-B01-3RD-1020,Submittal for Beams Conc. Dim.  & RFT DWGs (B01) (3rd),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-SUB-B01-4TH-1020,Submittal for Beams Conc. Dim.  & RFT DWGs (B01) (4th),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-SUB-B01-5TH-1020,Submittal for Beams Conc. Dim.  & RFT DWGs (B01) (5th),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-SUB-B01-6TH-1020,Submittal for Beams Conc. Dim.  & RFT DWGs (B01) (6th),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-SUB-B01-7TH-1020,Submittal for Beams Conc. Dim.  & RFT DWGs (B01) (7th),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-SUB-B01-8TH-1020,Submittal for Beams Conc. Dim.  & RFT DWGs (B01) (8th),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-SUB-B04-RF-1010,Submittal for Beams Conc. Dim.  & RFT DWGs (B04) (RF),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-SUB-B03-RF-1010,Submittal for Beams Conc. Dim.  & RFT DWGs (B03) (RF),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-SUB-B02-RF-1010,Submittal for Beams Conc. Dim.  & RFT DWGs (B02) (RF),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-SUB-B01-RF-1010,Submittal for Slabs Conc. Dim.  & RFT DWGs (B01) (RF),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-APP-B01-RF-1020,Approval for Beams Conc. Dim.  & RFT DWGs (B01) (RF),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-SUB-B04-SOG-1000,Submittal for S.O.G Conc. Dim. DWGs (B04) (Sog),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-SUB-B03-SOG-1000,Submittal for S.O.G Conc. Dim. DWGs (B03) (Sog),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-SUB-B02-SOG-1000,Submittal for S.O.G Conc. Dim. DWGs (B02) (Sog),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-APP-B01-SOG-1000,Approval for S.O.G Conc. Dim.DWGs (B01) (Sog),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-APP-B01-SOG-1010,Approval for S.O.G RFT DWGs (B01) (Sog),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,P-MDEL-1050,Delivery for cold applied damp-proofing,17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,P-MPOS-1060,P.O for cold Crystalline waterproofing for Water tank,17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-SUB-B01-FOOT-1000,Submittal for PC Raft Conc. Dim. DWGs As-Built Drawing (B01) (footing),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-SUB-B02-FOOT-1000,Submittal for PC Raft Conc. Dim. DWGs As-Built Drawing (B02) (footing),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-SUB-B02-FOOT-1010,Submittal for RC Raft & Footings Conc. Dim. DWGs As-Built Drawing  (B02) (footing),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-SUB-B03-FOOT-1000,Submittal for PC Raft Conc. Dim. DWGs As-Built Drawing (B03) (footing),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-SUB-B03-FOOT-1010,Submittal for RC Raft & Footings Conc. Dim. DWGs As-Built Drawing (B03) (footing),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-SUB-B04-FOOT-1000,Submittal for PC Raft Conc. Dim. DWGs As-Built Drawing (B04) (footing),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-SUB-B04-WT-1000,Submittal for PC Raft Conc. Dim. DWGs As-Built Drawing (B04) (Water Tank),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-SUB-B04-WT-1010,Submittal for RC Raft Conc. Dim. DWGs As-Built Drawing (B04) (Water Tank),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-SUB-B01-REP-1000,Submittal for General Replacement Plan & Typical Sections for Replacement / Backfilling DWGs As-Built Drawing (B01),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-SUB-B02-REP-1000,Submittal for General Replacement Plan & Typical Sections for Replacement / Backfilling DWGs As-Built Drawing (B02),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-SUB-B03-REP-1000,Submittal for General Replacement Plan & Typical Sections for Replacement / Backfilling DWGs As-Built Drawing (B03),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-SUB-B04-REP-1000,Submittal for General Replacement Plan & Typical Sections for Replacement / Backfilling DWGs As-Built Drawing (B04),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-SUB-B01-FOOT-1010,Submittal for  Waterproofing Layout Plan DWGs As-Built Drawing (B01),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,P-MDEL-1170,Delivery for Rebar Patch#2  (Basement 2),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,P-MPOS-1080,P.O for Rebar Patch#3  (Basement 1),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,P-MPOS-1090,P.O for Rebar Patch#4  (SOG),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,P-MPOS-1100,P.O for Rebar Patch#5  (Ground floor),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,P-MPOS-1110,P.O for Rebar Patch#6  (1st floor),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,P-MPOS-1120,P.O for Rebar Patch#7  (2nd floor),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B03-FOOT-1100,Curing & Deshuttering for RC Raft & Footings (B03) (footing),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-SUB-B01-FOOT-1020,Submittal for RC Raft & Footings Conc. Dim. DWGs As-Built Drawing (B01) (footing),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-SUB-B01-FOOT-1030,Submittal for RC Raft & Footings RFT DWGs As-Built Drawing (B01) (footing),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-SUB-B02-FOOT-1020,Submittal for RC Raft & Footings RFT DWGs As-Built Drawing (B02) (footing),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-SUB-B03-FOOT-1020,Submittal for RC Raft & Footings RFT DWGs As-Built Drawing (B03) (footing),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-SUB-B04-WT-1020,Submittal for RC Raft RFT DWGs As-Built Drawing (B04) (Water Tank),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B04-WT-1140,Curing & Deshuttering for Walls (B04) (Water Tank),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B01-FOOT-1100,Curing & Deshuttering for RC Raft & Footings (B01) (footing),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B04-FOOT-1090,Pouring Columns & Walls Below SOG (B01) (footing),17-May-26,222249.3,0.0,0.0,222249.3,0,0.0,0,-222249.3
+The Big -P.01-UP-20-April-26,P-MDEL-1120,Delivery for Rebar Patch#6  (1st floor),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,P-MDEL-1130,Delivery for Rebar Patch#5  (Ground floor),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,P-MDEL-1150,Delivery for Rebar Patch#4  (SOG),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B02-BAS02-1050,Shuttering for Stairs (B02) (Bas 02),17-May-26,16436.16,0.0,0.0,16436.16,0,0.0,0,-16436.16
+The Big -P.01-UP-20-April-26,CON-B02-BAS02-1060,RFT for Slabs & Beams (B02) (Bas 02),17-May-26,1930616.77,0.0,0.0,1930616.77,0,0.0,0,-1930616.77
+The Big -P.01-UP-20-April-26,E-SUB-B01-1ST-1030,Submittal for Slabs Conc. Dim.  & RFT DWGs (B01) (1st),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-SUB-B02-BAS2-1000,Submittal for Col. & Walls Conc. Dim.& RFT DWGs As-Built Drawing (B02) (Bas 02),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-SUB-B03-BAS2-1000,Submittal for Col. & Walls Conc. Dim.  & RFT DWGs As-Built Drawing (B03) (Bas 02),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-SUB-B04-WT-1030,Submittal for Col. & Walls DWGs As-Built Drawing (B04) (Water Tank),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-SUB-B04-FOOT-1010,Submittal for RC Raft & Footings Conc. Dim. DWGs As-Built Drawing (B04) (footing),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-SUB-B04-GR-1030,Submittal for Slabs Conc. Dim.  & RFT DWGs (B04) (GF),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-SUB-B03-GR-1030,Submittal for Slabs Conc. Dim.  & RFT DWGs (B03) (GF),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-SUB-B02-GR-1030,Submittal for Slabs Conc. Dim.  & RFT DWGs (B02) (GF),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-SUB-B01-GR-1030,Submittal for Slabs Conc. Dim.  & RFT DWGs (B01),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-SUB-B04-1ST-1030,Submittal for Slabs Conc. Dim.  & RFT DWGs (B04) (1st),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-SUB-B04-2ND-1030,Submittal for Slabs Conc. Dim.  & RFT DWGs (B04) (2nd),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-SUB-B04-3RD-1030,Submittal for Slabs Conc. Dim.  & RFT DWGs (B04) (3rd),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-SUB-B04-4TH-1030,Submittal for Slabs Conc. Dim.  & RFT DWGs (B04) (4th),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-SUB-B04-5TH-1030,Submittal for Slabs Conc. Dim.  & RFT DWGs (B04) (5th),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-SUB-B04-6TH-1030,Submittal for Slabs Conc. Dim.  & RFT DWGs (B04) (6th),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-SUB-B04-7TH-1030,Submittal for Slabs Conc. Dim.  & RFT DWGs  (B04) (7th),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-SUB-B04-8TH-1030,Submittal for Slabs Conc. Dim.  & RFT DWGs (B04) (8th),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-SUB-B03-1ST-1030,Submittal for Slabs Conc. Dim.  & RFT DWGs (B03) (1st),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-SUB-B03-2ND-1030,Submittal for Slabs Conc. Dim.  & RFT DWGs (B03) (2nd),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-SUB-B03-3RD-1030,Submittal for Slabs Conc. Dim.  & RFT DWGs (B03) (3rd),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-SUB-B03-4TH-1030,Submittal for Slabs Conc. Dim.  & RFT DWGs (B03) (4th),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-SUB-B02-1ST-1030,Submittal for Slabs Conc. Dim.  & RFT DWGs (B02) (1st),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-SUB-B02-2ND-1030,Submittal for Slabs Conc. Dim.  & RFT DWGs (B02) (2nd),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-SUB-B02-3RD-1030,Submittal for Slabs Conc. Dim.  & RFT DWGs (B02) (3rd),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-SUB-B02-4TH-1030,Submittal for Slabs Conc. Dim.  & RFT DWGs (B02) (4th),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-SUB-B01-2ND-1030,Submittal for Slabs Conc. Dim.  & RFT DWGs (B01) (2nd),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-SUB-B01-3RD-1030,Submittal for Slabs Conc. Dim.  & RFT DWGs (B01) (3rd),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-SUB-B01-4TH-1030,Submittal for Slabs Conc. Dim.  & RFT DWGs (B01) (4th),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-SUB-B01-5TH-1030,Submittal for Slabs Conc. Dim.  & RFT DWGs (B01) (5th),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-SUB-B01-6TH-1030,Submittal for Slabs Conc. Dim.  & RFT DWGs (B01) (6th),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-SUB-B01-7TH-1030,Submittal for Slabs Conc. Dim.  & RFT DWGs (B01) (7th),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-SUB-B01-8TH-1030,Submittal for Slabs Conc. Dim.  & RFT DWGs (B01) (8th),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-SUB-B04-RF-1020,Submittal for Slabs Conc. Dim.  & RFT DWGs (B04) (RF),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-SUB-B03-RF-1020,Submittal for Slabs Conc. Dim.  & RFT DWGs (B03) (RF),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-SUB-B02-RF-1020,Submittal for Slabs Conc. Dim.  & RFT DWGs (B02) (RF),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-SUB-B04-SOG-1010,Submittal for S.O.G RFT DWGs (B04) (Sog),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-SUB-B03-SOG-1010,Submittal for S.O.G RFT DWGs (B03) (Sog),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-SUB-B02-SOG-1010,Submittal for S.O.G RFT DWGs (B02) (Sog),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B04-FOOT-1100,Curing & Deshuttering for RC Raft & Footings (B04) (footing),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-SUB-B04-FOOT-1020,Submittal for RC Raft & Footings RFT DWGs As-Built Drawing (B04) (footing),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B04-WT-1150,Formwork for Top Slab (B04) (Water Tank),17-May-26,327929.28,0.0,0.0,327929.28,0,0.0,0,-327929.28
+The Big -P.01-UP-20-April-26,CON-B01-BAS02-1000,"Scaffolding works for Walls, Col. & Cores (B01) (Bas 02)",17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B01-BAS02-1010,"RFT for Walls, Col. & Cores (B01) (Bas 02)",17-May-26,1987012.6,0.0,0.0,1987012.6,0,0.0,0,-1987012.6
+The Big -P.01-UP-20-April-26,CON-B02-BAS02-1070,RFT for Stairs  (B02) (Bas 02),17-May-26,30854.95,0.0,0.0,30854.95,0,0.0,0,-30854.95
+The Big -P.01-UP-20-April-26,CON-B04-WT-1160,RFT for Top Slab (B04) (Water Tank),17-May-26,447258.67,0.0,0.0,447258.67,0,0.0,0,-447258.67
+The Big -P.01-UP-20-April-26,P-MDEL-1160,Delivery for Rebar Patch#3  (Basement 1),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B04-BAS02-1000,"Scaffolding works for Walls, Col. & Cores (B04) (Bas 02)",17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B04-BAS02-1010,"RFT for Walls, Col. & Cores (B04) (Bas 02)",17-May-26,1998244.03,0.0,0.0,1998244.03,0,0.0,0,-1998244.03
+The Big -P.01-UP-20-April-26,CON-B01-BAS02-1020,"Shuttering for Walls, Col. & Cores (B01) (Bas 02)",17-May-26,1629349.68,0.0,0.0,1629349.68,0,0.0,0,-1629349.68
+The Big -P.01-UP-20-April-26,E-APP-B04-SOG-1000,Approval for S.O.G Conc. Dim. DWGs (B04) (Sog),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B03-BAS02-1040,Shuttering for Slabs & Beams (B03) (Bas 02),17-May-26,1703595.99,0.0,0.0,1703595.99,0,0.0,0,-1703595.99
+The Big -P.01-UP-20-April-26,P-MDEL-1110,Delivery for Rebar Patch#7  (2nd floor),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B02-BAS02-1080,Pouring for Stairs  (B02) (Bas 02),17-May-26,24654.24,0.0,0.0,24654.24,0,0.0,0,-24654.24
+The Big -P.01-UP-20-April-26,AB-SUB-B02-BAS2-1010,Submittal for Stairs Conc. Dim.& RFT DWGs As-Built Drawing (B02) (Bas 02),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B03-BAS02-1050,Shuttering for Stairs (B03) (Bas 02),17-May-26,17372.16,0.0,0.0,17372.16,0,0.0,0,-17372.16
+The Big -P.01-UP-20-April-26,CON-B04-WT-1170,Pouring for Top Slab (B04) (Water Tank),17-May-26,491893.92,0.0,0.0,491893.92,0,0.0,0,-491893.92
+The Big -P.01-UP-20-April-26,E-APP-B04-SOG-1010,Approval for S.O.G RFT DWGs (B04) (Sog),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B04-WT-1180,Curing & Desmantling Formwork for Top Slab (B04) (Water Tank),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-SUB-B04-WT-1040,Submittal for Slabs DWGs As-Built Drawing (B04) (Water Tank),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B02-BAS02-1090,"Curing for Slabs, Beams & Stairs (B02) (Bas 02)",17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B02-BAS02-1100,Pouring for Slabs & Beams (B02) (Bas 02),17-May-26,1314389.48,0.0,0.0,1314389.48,0,0.0,0,-1314389.48
+The Big -P.01-UP-20-April-26,CON-B03-BAS02-1060,RFT for Slabs & Beams (B03) (Bas 02),17-May-26,1730165.79,0.0,0.0,1730165.79,0,0.0,0,-1730165.79
+The Big -P.01-UP-20-April-26,CON-B02-BAS01-1000,"Scaffolding works for Walls, Col. & Cores (B02) (Bas 01)",17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B02-BAS01-1010,"RFT for Walls, Col. & Cores (B02) (Bas 01)",17-May-26,660501.51,0.0,0.0,660501.51,0,0.0,0,-660501.51
+The Big -P.01-UP-20-April-26,AB-APP-B01-FOOT-1000,Approval for PC Raft Conc. Dim. DWGs As-Built Drawing (B01) (footing),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-APP-B02-FOOT-1000,Approval for PC Raft Conc. Dim. DWGs As-Built Drawing (B02) (footing),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-APP-B02-FOOT-1010,Approval for RC Raft & Footings Conc. Dim. DWGs As-Built Drawing (B02) (footing),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-APP-B03-FOOT-1000,Approval for PC Raft Conc. Dim. DWGs As-Built Drawing (B03) (footing),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-APP-B03-FOOT-1010,Approval for RC Raft & Footings Conc. Dim. DWGs  (B03) (footing),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-APP-B04-FOOT-1000,Approval for PC Raft Conc. Dim. Conc. Dim.  & RFT DWGs As-Built Drawing  (B04) (footing),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-APP-B04-WT-1000,Approval for PC Raft Conc. Dim. DWGs As-Built Drawing (B04) (Water Tank),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-APP-B04-WT-1010,Approval for RC Raft Conc. Dim. DWGs As-Built Drawing (B04) (Water Tank),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-APP-B01-REP-1000,Approval for General Replacement Plan & Typical Sections for Replacement / Backfilling DWGs As-Built Drawing (B01),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-APP-B02-REP-1000,Approval for General Replacement Plan & Typical Sections for Replacement / Backfilling DWGs As-Built Drawing (B02),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-APP-B03-REP-1000,Approval for General Replacement Plan & Typical Sections for Replacement / Backfilling DWGs As-Built Drawing (B03),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-APP-B04-REP-1000,Approval for General Replacement Plan & Typical Sections for Replacement / Backfilling DWGs As-Built Drawing (B04),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-APP-B01-FOOT-1010,Approval for  Waterproofing Layout Plan DWGs As-Built Drawing (B01),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-APP-B01-FOOT-1020,Approval for RC Raft & Footings Conc. Dim. DWGs As-Built Drawing (B01),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-APP-B01-FOOT-1030,Approval for RC Raft & Footings RFT DWGs As-Built Drawing (B01),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-APP-B02-FOOT-1020,Approval for RC Raft & Footings RFT DWGs As-Built Drawing (B02) (footing),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-APP-B03-FOOT-1020,Approval for RC Raft & Footings RFT DWGs As-Built Drawing  (B03) (footing),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-APP-B04-WT-1020,Approval for RC Raft RFT DWGs As-Built Drawing (B04) (Water Tank),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B03-BAS02-1070,RFT for Stairs  (B03) (Bas 02),17-May-26,32613.8,0.0,0.0,32613.8,0,0.0,0,-32613.8
+The Big -P.01-UP-20-April-26,CON-B04-BAS02-1020,"Shuttering for Walls, Col. & Cores (B04) (Bas 02)",17-May-26,1639957.83,0.0,0.0,1639957.83,0,0.0,0,-1639957.83
+The Big -P.01-UP-20-April-26,CON-B04-WT-1190,Clearing Surface & Insulation for Inner Side (B04) (Water Tank),17-May-26,283500.0,0.0,0.0,283500.0,0,0.0,0,-283500.0
+The Big -P.01-UP-20-April-26,CON-B04-WT-1200,Insulation for Outer Side (B04) (Water Tank),17-May-26,283500.0,0.0,0.0,283500.0,0,0.0,0,-283500.0
+The Big -P.01-UP-20-April-26,CON-B02-BAS01-1020,"Shuttering for Walls, Col. & Cores (B02) (Bas 01)",17-May-26,96472.91,0.0,0.0,96472.91,0,0.0,0,-96472.91
+The Big -P.01-UP-20-April-26,AB-SUB-B02-BAS2-1020,Submittal for Slabs Conc. Dim.& RFT DWGs As-Built Drawing (B02) (Bas 02),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-SUB-B02-BAS2-1030,Submittal for Beams Conc. Dim.& RFT DWGs As-Built Drawing (B02) (Bas 02),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-APP-B02-BAS2-1000,Approval for Col. & Walls Conc. Dim.  & RFT DWGs As-Built Drawing (B02) (Bas 02),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-APP-B03-BAS2-1000,Approval for Col. & Walls Conc. Dim.  & RFT DWGs As-Built Drawing  (B03) (Bas 02),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-APP-B04-WT-1030,Approval for Col. & Walls DWGs As-Built Drawing (B04) (Water Tank),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-APP-B04-FOOT-1010,Approval for RC Raft & Footings Conc. Dim. Conc. Dim.  & RFT DWGs As-Built Drawing (B04) (footing),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-APP-B04-FOOT-1020,Approval for RC Raft & Footings RFT Conc. Dim.  & RFT DWGs As-Built Drawing (B04) (footing),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-SUB-B04-BAS2-1000,Submittal for Col. & Walls Conc. Dim.  & RFT DWGs As-Built Drawing (B04) (Bas 02),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,P-MPOS-1130,P.O for Rebar Patch#8  (3rd floor),15-Apr-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-APP-B02-GR-1020,Approval for Beams Conc. Dim.  & RFT DWGs (B02) (GF),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-APP-B01-GR-1020,Approval for Beams Conc. Dim.  & RFT DWGs (B01)  (GF),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-APP-B02-1ST-1020,Approval for Beams Conc. Dim.  & RFT DWGs (B02) (1st),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-APP-B02-2ND-1020,Approval for Beams Conc. Dim.  & RFT DWGs (B02) (2nd),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-APP-B02-3RD-1020,Approval for Beams Conc. Dim.  & RFT DWGs (B02) (3rd),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-APP-B02-4TH-1020,Approval for Beams Conc. Dim.  & RFT DWGs (B02) (4th),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-APP-B01-1ST-1020,Approval for Beams Conc. Dim.  & RFT DWGs (B01) (1st),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-APP-B01-2ND-1020,Approval for Beams Conc. Dim.  & RFT DWGs (B01) (2nd),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-APP-B01-3ED-1020,Approval for Beams Conc. Dim.  & RFT DWGs (B01) (3rd),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-APP-B01-4TH-1020,Approval for Beams Conc. Dim.  & RFT DWGs (B01) (4th),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-APP-B01-5TH-1020,Approval for Beams Conc. Dim.  & RFT DWGs (B01) (5th),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-APP-B01-6TH-1020,Approval for Beams Conc. Dim.  & RFT DWGs (B01) (6th),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-APP-B01-7TH-1020,Approval for Beams Conc. Dim.  & RFT DWGs (B01) (7th),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-APP-B01-8TH-1020,Approval for Beams Conc. Dim.  & RFT DWGs (B01) (8th),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-APP-B02-RF-1010,Approval for Beams Conc. Dim.  & RFT DWGs (B02) (RF),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-APP-B01-RF-1010,Approval for Slabs Conc. Dim.  & RFT DWGs (B01) (RF),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-APP-B04-GR-1020,Approval for Beams Conc. Dim.  & RFT DWGs (B04) (GF),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-APP-B03-GR-1020,Approval for Beams Conc. Dim.  & RFT DWGs  (B03) (GF),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-APP-B04-1ST-1020,Approval for Beams Conc. Dim.  & RFT DWGs (B04) (1st),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-APP-B04-2ND-1020,Approval for Beams Conc. Dim.  & RFT DWGs (B04) (2nd),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-APP-B04-2RD-1020,Approval for Beams Conc. Dim.  & RFT DWGs (B04) (3rd),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-APP-B04-4TH-1020,Approval for Beams Conc. Dim.  & RFT DWGs (B04) (4th),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-APP-B04-5TH-1020,Approval for Beams Conc. Dim.  & RFT DWGs (B04) (5th),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-APP-B04-6TH-1020,Approval for Beams Conc. Dim.  & RFT DWGs (B04) (6th),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-APP-B04-7TH-1020,Approval for Beams Conc. Dim.  & RFT DWGs (B04) (7th),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-APP-B04-8TH-1020,Approval for Beams Conc. Dim.  & RFT DWGs (B04) (8th),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-APP-B03-1ST-1020,Approval for Beams Conc. Dim.  & RFT DWGs  (B03) (1st),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-APP-B03-2ND-1020,Approval for Beams Conc. Dim.  & RFT DWGs  (B03) (2nd),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-APP-B03-3RD-1020,Approval for Beams Conc. Dim.  & RFT DWGs  (B03) (3rd),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-APP-B03-4TH-1020,Approval for Beams Conc. Dim.  & RFT DWGs  (B03) (4th),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-APP-B04-RF-1010,Approval for  Beams Conc. Dim.  & RFT DWGs (B04) (RF),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-APP-B03-RF-1010,Approval for Beams Conc. Dim.  & RFT DWGs  (B03) (RF),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-APP-B02-SOG-1000,Approval for S.O.G Conc. Dim. DWGs (B02) (Sog),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-APP-B03-SOG-1000,Approval for S.O.G Conc. Dim. DWGs  (B03) (Sog),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B03-BAS02-1080,Pouring for Stairs  (B03) (Bas 02),17-May-26,26058.24,0.0,0.0,26058.24,0,0.0,0,-26058.24
+The Big -P.01-UP-20-April-26,CON-B04-WT-1210,Backfilling works (B04) (Water Tank),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-APP-B01-1ST-1030,Approval for Slabs Conc. Dim.  & RFT DWGs (B01) (1st),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B03-BAS02-1090,"Curing for Slabs, Beams & Stairs (B03) (Bas 02)",17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-SUB-B03-BAS2-1010,Submittal for Stairs Conc. Dim.  & RFT DWGs As-Built Drawing (B03) (Bas 02),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-APP-B02-GR-1030,Approval for Slabs Conc. Dim.  & RFT DWGs (B02) (GF),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-APP-B01-GR-1030,Approval for Slabs Conc. Dim.  & RFT DWGs (B01)  (GF),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-APP-B02-1ST-1030,Approval for Slabs Conc. Dim.  & RFT DWGs (B02) (1st),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-APP-B02-2ND-1030,Approval for Slabs Conc. Dim.  & RFT DWGs (B02) (2nd),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-APP-B02-3RD-1030,Approval for Slabs Conc. Dim.  & RFT DWGs (B02) (3rd),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-APP-B02-4TH-1030,Approval for Slabs Conc. Dim.  & RFT DWGs (B02) (4th),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-APP-B01-2ND-1030,Approval for Slabs Conc. Dim.  & RFT DWGs (B01) (2nd),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-APP-B01-3ED-1030,Approval for Slabs Conc. Dim.  & RFT DWGs (B01) (3rd),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-APP-B01-4TH-1030,Approval for Slabs Conc. Dim.  & RFT DWGs (B01) (4th),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-APP-B01-5TH-1030,Approval for Slabs Conc. Dim.  & RFT DWGs (B01) (5th),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-APP-B01-6TH-1030,Approval for Slabs Conc. Dim.  & RFT DWGs (B01) (6th),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-APP-B01-7TH-1030,Approval for Slabs Conc. Dim.  & RFT DWGs (B01) (7th),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-APP-B01-8TH-1030,Approval for Slabs Conc. Dim.  & RFT DWGs (B01) (8th),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-APP-B02-RF-1020,Approval for Slabs Conc. Dim.  & RFT DWGs (B02) (RF),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-APP-B04-GR-1030,Approval for Slabs Conc. Dim.  & RFT DWGs (B04) (GF),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-APP-B03-GR-1030,Approval for Slabs Conc. Dim.  & RFT DWGs  (B03) (GF),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-APP-B04-1ST-1030,Approval for Slabs Conc. Dim.  & RFT DWGs (B04) (1st),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-APP-B04-2ND-1030,Approval for Slabs Conc. Dim.  & RFT DWGs (B04) (2nd),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-APP-B04-2RD-1030,Approval for Slabs Conc. Dim.  & RFT DWGs (B04) (3rd),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-APP-B04-4TH-1030,Approval for Slabs Conc. Dim.  & RFT DWGs (B04) (4th),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-APP-B04-5TH-1030,Approval for Slabs Conc. Dim.  & RFT DWGs (B04) (5th),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-APP-B04-6TH-1030,Approval for Slabs Conc. Dim.  & RFT DWGs (B04) (6th),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-APP-B04-7TH-1030,Approval for Slabs Conc. Dim.  & RFT DWGs (B04) (7th),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-APP-B04-8TH-1030,Approval for Slabs Conc. Dim.  & RFT DWGs (B04) (8th),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-APP-B03-1ST-1030,Approval for Slabs Conc. Dim.  & RFT DWGs  (B03) (1st),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-APP-B03-2ND-1030,Approval for Slabs Conc. Dim.  & RFT DWGs  (B03) (2nd),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-APP-B03-3RD-1030,Approval for Slabs Conc. Dim.  & RFT DWGs  (B03) (3rd),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-APP-B03-4TH-1030,Approval for Slabs Conc. Dim.  & RFT DWGs  (B03) (4th),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-APP-B04-RF-1020,Approval for Slabs Conc. Dim.  & RFT DWGs (B04) (RF),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-APP-B03-RF-1020,Approval for Slabs Conc. Dim.  & RFT DWGs  (B03) (RF),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-APP-B02-SOG-1010,Approval for S.O.G RFT DWGs (B02) (Sog),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,E-APP-B03-SOG-1010,Approval for S.O.G RFT DWGs  (B03) (Sog),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B01-BAS02-1030,"Pouring for Walls, Col. & Cores (B01) (Bas 02)",17-May-26,2444024.52,0.0,0.0,2444024.52,0,0.0,0,-2444024.52
+The Big -P.01-UP-20-April-26,CON-B03-BAS02-1100,Pouring for Slabs & Beams B03) (Bas 02),17-May-26,1135730.66,0.0,0.0,1135730.66,0,0.0,0,-1135730.66
+The Big -P.01-UP-20-April-26,AB-APP-B02-BAS2-1010,Approval for Stairs Conc. Dim.  & RFT DWGs As-Built Drawing (B02) (Bas 02),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B04-BAS02-1030,"Pouring for Walls, Col. & Cores (B04) (Bas 02)",17-May-26,2459936.74,0.0,0.0,2459936.74,0,0.0,0,-2459936.74
+The Big -P.01-UP-20-April-26,AB-APP-B04-WT-1040,Approval for Slabs DWGs As-Built Drawing (B04) (Water Tank),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B01-BAS02-1040,Shuttering for Slabs & Beams (B01) (Bas 02),17-May-26,2150349.87,0.0,0.0,2150349.87,0,0.0,0,-2150349.87
+The Big -P.01-UP-20-April-26,AB-SUB-B01-BAS2-1000,Submittal for Col. & Walls Conc. Dim.  & RFT DWGs As-Built Drawing (B01) (Bas 02),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B03-BAS01-1000,"Scaffolding works for Walls, Col. & Cores (B03) (Bas 01)",17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B03-BAS01-1010,"RFT for Walls, Col. & Cores (B03) (Bas 01)",17-May-26,882883.82,0.0,0.0,882883.82,0,0.0,0,-882883.82
+The Big -P.01-UP-20-April-26,AB-SUB-B03-BAS2-1020,Submittal for Slabs Conc. Dim.  & RFT DWGs As-Built Drawing (B03) (Bas 02),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-SUB-B03-BAS2-1030,Submittal for Beams Conc. Dim.  & RFT DWGs As-Built Drawing (B03) (Bas 02),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B04-BAS02-1040,Shuttering for Slabs & Beams (B04) (Bas 02),17-May-26,2076088.44,0.0,0.0,2076088.44,0,0.0,0,-2076088.44
+The Big -P.01-UP-20-April-26,CON-B04-BAS02-1050,Shuttering for Stairs  (B04) (Bas 02),17-May-26,17372.16,0.0,0.0,17372.16,0,0.0,0,-17372.16
+The Big -P.01-UP-20-April-26,CON-B01-BAS02-1050,Shuttering for Stairs  (B01) (Bas 02),17-May-26,16099.2,0.0,0.0,16099.2,0,0.0,0,-16099.2
+The Big -P.01-UP-20-April-26,CON-B01-BAS02-1060,Shuttering for  Ramps (B01) (Bas 02),17-May-26,527474.8,0.0,0.0,527474.8,0,0.0,0,-527474.8
+The Big -P.01-UP-20-April-26,CON-B02-BAS01-1030,"Pouring for Walls, Col. & Cores (B02) (Bas 01)",17-May-26,144709.37,0.0,0.0,144709.37,0,0.0,0,-144709.37
+The Big -P.01-UP-20-April-26,AB-APP-B02-BAS2-1020,Approval for Slabs Conc. Dim.  & RFT DWGs As-Built Drawing (B02) (Bas 02),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-APP-B02-BAS2-1030,Approval for Beams Conc. Dim.  & RFT DWGs As-Built Drawing (B02) (Bas 02),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B04-BAS02-1060,RFT for Slabs & Beams (B04) (Bas 02),17-May-26,3266944.59,0.0,0.0,3266944.59,0,0.0,0,-3266944.59
+The Big -P.01-UP-20-April-26,CON-B04-BAS02-1070,Shuttering for  Ramps (B04) (Bas 02),17-May-26,527474.8,0.0,0.0,527474.8,0,0.0,0,-527474.8
+The Big -P.01-UP-20-April-26,CON-B01-BAS02-1070,RFT for Slabs & Beams (B01) (Bas 02),17-May-26,3160336.76,0.0,0.0,3160336.76,0,0.0,0,-3160336.76
+The Big -P.01-UP-20-April-26,CON-B03-BAS01-1020,"Shuttering for Walls, Col. & Cores (B03) (Bas 01)",17-May-26,716427.39,0.0,0.0,716427.39,0,0.0,0,-716427.39
+The Big -P.01-UP-20-April-26,CON-B04-BAS02-1080,RFT for Stairs  (B04) (Bas 02),17-May-26,21800.21,0.0,0.0,21800.21,0,0.0,0,-21800.21
+The Big -P.01-UP-20-April-26,CON-B01-BAS02-1080,RFT for Stairs (B01) (Bas 02),17-May-26,32613.8,0.0,0.0,32613.8,0,0.0,0,-32613.8
+The Big -P.01-UP-20-April-26,CON-B01-BAS02-1090,RFT for Ramps (B01) (Bas 02),17-May-26,1075623.24,0.0,0.0,1075623.24,0,0.0,0,-1075623.24
+The Big -P.01-UP-20-April-26,CON-B02-BAS02-1110,Dismantling Formwork (B02) (Bas 02),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B02-BAS01-1040,Shuttering for Slabs & Beams (B02) (Bas 01),17-May-26,2270472.81,0.0,0.0,2270472.81,0,0.0,0,-2270472.81
+The Big -P.01-UP-20-April-26,AB-SUB-B02-BAS1-1000,Submittal for Col. & Walls Conc. Dim.  & RFT DWGs As-Built Drawing (B02) (Bas 01),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B04-BAS02-1090,RFT for Ramps (B04) (Bas 02),17-May-26,1075623.24,0.0,0.0,1075623.24,0,0.0,0,-1075623.24
+The Big -P.01-UP-20-April-26,AB-APP-B04-BAS2-1000,Approval for Col. & Walls Conc. Dim.  & RFT DWGs As-Built Drawing (B04) (Bas 02),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B02-BAS01-1050,Shuttering for Stairs (B02) (Bas 01),17-May-26,16436.16,0.0,0.0,16436.16,0,0.0,0,-16436.16
+The Big -P.01-UP-20-April-26,CON-B02-BAS01-1060,RFT for Slabs & Beams (B02) (Bas 01),17-May-26,2217753.89,0.0,0.0,2217753.89,0,0.0,0,-2217753.89
+The Big -P.01-UP-20-April-26,CON-B03-BAS02-1110,Dismantling Formwork (B03) (Bas 02),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B02-BAS01-1070,RFT for Stairs  (B02) (Bas 01),17-May-26,30854.95,0.0,0.0,30854.95,0,0.0,0,-30854.95
+The Big -P.01-UP-20-April-26,P-MDEL-1060,Delivery for cold Crystalline waterproofing for Water tank,17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-APP-B03-BAS2-1010,Approval for Stairs Conc. Dim.  & RFT DWGs As-Built Drawing  (B03) (Bas 02),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B04-BAS02-1100,Pouring for Stairs  (B04) (Bas 02),17-May-26,26058.24,0.0,0.0,26058.24,0,0.0,0,-26058.24
+The Big -P.01-UP-20-April-26,CON-B04-BAS02-1110,Pouring for Ramps (B04) (Bas 02),17-May-26,791212.2,0.0,0.0,791212.2,0,0.0,0,-791212.2
+The Big -P.01-UP-20-April-26,CON-B01-BAS02-1100,Pouring for Stairs (B01) (Bas 02),17-May-26,24148.8,0.0,0.0,24148.8,0,0.0,0,-24148.8
+The Big -P.01-UP-20-April-26,AB-SUB-B04-BAS2-1010,Submittal for Stairs Conc. Dim.  & RFT DWGs As-Built Drawing (B04) (Bas 02),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,P-MDEL-1100,Delivery for Rebar Patch#8  (3rd floor),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-SUB-B04-BAS2-1020,Submittal for Ramps Conc. Dim.  & RFT DWGs As-Built Drawing (B04) (Bas 02),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B04-BAS02-1150,Curing for  Ramps & Stairs (B04) (Bas 02),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B01-BAS02-1110,Pouring for  Ramps (B01) (Bas 02),17-May-26,791212.2,0.0,0.0,791212.2,0,0.0,0,-791212.2
+The Big -P.01-UP-20-April-26,AB-SUB-B01-BAS2-1010,Submittal for Stairs Conc. Dim.  & RFT DWGs As-Built Drawing (B01) (Bas 02),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-APP-B01-BAS2-1000,Approval for Col. & Walls Conc. Dim.  & RFT DWGs As-Built Drawing (B01) (Bas 02),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-APP-B03-BAS2-1020,Approval for Slabs Conc. Dim.  & RFT DWGs As-Built Drawing  (B03) (Bas 02),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-APP-B03-BAS2-1030,Approval for Beams Conc. Dim.  & RFT DWGs As-Built Drawing  (B03) (Bas 02),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B04-BAS02-1130,Pouring for Slabs & Beams (B04) (Bas 02),17-May-26,3114132.67,0.0,0.0,3114132.67,0,0.0,0,-3114132.67
+The Big -P.01-UP-20-April-26,CON-B01-BAS02-1130,Pouring for Slabs & Beams (B01) (Bas 02),17-May-26,3225524.8,0.0,0.0,3225524.8,0,0.0,0,-3225524.8
+The Big -P.01-UP-20-April-26,CON-B01-FOOT-1110,Bitumen Ins. for RC Raft & Footings (B01) (footing),17-May-26,238065.85,0.0,0.0,238065.85,0,0.0,0,-238065.85
+The Big -P.01-UP-20-April-26,CON-B02-FOOT-1110,Bitumen Ins. for RC Raft & Footings (B02) (footing),17-May-26,126906.9,0.0,0.0,126906.9,0,0.0,0,-126906.9
+The Big -P.01-UP-20-April-26,CON-B04-FOOT-1110,Bitumen Ins. for RC Raft & Footings (B04) (footing),17-May-26,181365.6,0.0,0.0,181365.6,0,0.0,0,-181365.6
+The Big -P.01-UP-20-April-26,CON-B03-FOOT-1110,Bitumen Ins. for RC Raft & Footings (B03) (footing),17-May-26,137661.66,0.0,0.0,137661.66,0,0.0,0,-137661.66
+The Big -P.01-UP-20-April-26,AB-SUB-B01-BAS2-1020,Submittal for Ramps Conc. Dim.  & RFT DWGs As-Built Drawing (B01) (Bas 02),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,123456,Curing for Ramps & Stairs (B01) (Bas 02),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B02-BAS01-1080,Pouring for Stairs  (B02) (Bas 01),17-May-26,24654.24,0.0,0.0,24654.24,0,0.0,0,-24654.24
+The Big -P.01-UP-20-April-26,CON-B04-BAS01-1000,"Scaffolding works for Walls, Col. & Cores (B04) (Bas 01)",17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B04-BAS01-1010,"RFT for Walls, Col. & Cores (B04) (Bas 01)",17-May-26,1868166.61,0.0,0.0,1868166.61,0,0.0,0,-1868166.61
+The Big -P.01-UP-20-April-26,CON-B04-BAS02-1120,"Curing for Slabs, Beams (B04) (Bas 02)",17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-SUB-B04-BAS2-1030,Submittal for Slabs Conc. Dim.  & RFT DWGs As-Built Drawing (B04) (Bas 02),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-SUB-B04-BAS2-1040,Submittal for Beams Conc. Dim.  & RFT DWGs As-Built Drawing (B04) (Bas 02),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B01-BAS02-1120,"Curing for Slabs, Beams, Ramps & Stairs (B01) (Bas 02)",17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-SUB-B01-BAS2-1030,Submittal for Slabs Conc. Dim.  & RFT DWGs As-Built Drawing (B01) (Bas 02),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-SUB-B01-BAS2-1040,Submittal for Beams Conc. Dim.  & RFT DWGs As-Built Drawing (B01) (Bas 02),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B03-BAS01-1030,"Pouring for Walls, Col. & Cores (B03) (Bas 01)",17-May-26,1074641.09,0.0,0.0,1074641.09,0,0.0,0,-1074641.09
+The Big -P.01-UP-20-April-26,P-MPOS-1140,P.O for Rebar Patch#9  (4th floor),15-Apr-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B01-FOOT-1120,Soil Backfilling (B01) (footing),17-May-26,620532.93,0.0,0.0,620532.93,0,0.0,0,-620532.93
+The Big -P.01-UP-20-April-26,CON-B02-FOOT-1120,Soil Backfilling (B02) (footing),17-May-26,300970.72,0.0,0.0,300970.72,0,0.0,0,-300970.72
+The Big -P.01-UP-20-April-26,CON-B04-FOOT-1120,Soil Backfilling (B04) (footing),17-May-26,574080.0,0.0,0.0,574080.0,0,0.0,0,-574080.0
+The Big -P.01-UP-20-April-26,CON-B03-FOOT-1120,Soil Backfilling (B03) (footing),17-May-26,381216.36,0.0,0.0,381216.36,0,0.0,0,-381216.36
+The Big -P.01-UP-20-April-26,CON-B02-BAS01-1090,Pouring for Slabs & Beams (B02) (Bas 01),17-May-26,1513648.54,0.0,0.0,1513648.54,0,0.0,0,-1513648.54
+The Big -P.01-UP-20-April-26,CON-B02-BAS01-1100,"Curing for Slabs, Beams Stairs (B02) (Bas 01)",17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-SUB-B02-BAS1-1010,Submittal for Stairs Conc. Dim.  & RFT DWGs As-Built Drawing (B02) (Bas 01),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-APP-B02-BAS1-1000,Approval for Col. & Walls Conc. Dim.  & RFT DWGs As-Built Drawing (B02) (Bas 01),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-SUB-B02-FOOT-1030,Submittal for  Waterproofing Layout Plan DWGs As-Built Drawing (B02),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-SUB-B03-FOOT-1030,Submittal for  Waterproofing Layout Plan DWGs As-Built Drawing (B03),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-SUB-B04-FOOT-1030,Submittal for  Waterproofing Layout Plan DWGs As-Built Drawing (B04),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B01-BAS01-1000,"Scaffolding works for Walls, Col. & Cores (B01) (Bas 01)",17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B01-BAS01-1010,"RFT for Walls, Col. & Cores (B01) (Bas 01)",17-May-26,1859559.23,0.0,0.0,1859559.23,0,0.0,0,-1859559.23
+The Big -P.01-UP-20-April-26,CON-B03-BAS01-1040,Shuttering for Slabs & Beams (B03) (Bas 01),17-May-26,1268962.7,0.0,0.0,1268962.7,0,0.0,0,-1268962.7
+The Big -P.01-UP-20-April-26,AB-SUB-B03-BAS1-1000,Submittal for Col. & Walls Conc. Dim.  & RFT DWGs As-Built Drawing (B03) (Bas 01),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-SUB-B02-BAS1-1020,Submittal for Slabs Conc. Dim.  & RFT DWGs As-Built Drawing (B02) (Bas 01),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-SUB-B02-BAS1-1030,Submittal for Beams Conc. Dim.  & RFT DWGs As-Built Drawing (B02) (Bas 01),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B04-BAS01-1020,"Shuttering for Walls, Col. & Cores (B04) (Bas 01)",17-May-26,1532278.45,0.0,0.0,1532278.45,0,0.0,0,-1532278.45
+The Big -P.01-UP-20-April-26,CON-B03-BAS01-1050,RFT for Slabs & Beams (B03) (Bas 01),17-May-26,1863491.47,0.0,0.0,1863491.47,0,0.0,0,-1863491.47
+The Big -P.01-UP-20-April-26,CON-B01-BAS01-1020,"Shuttering for Walls, Col. & Cores (B01) (Bas 01)",17-May-26,1525620.61,0.0,0.0,1525620.61,0,0.0,0,-1525620.61
+The Big -P.01-UP-20-April-26,CON-B03-BAS01-1060,Shuttering for Stairs (B03) (Bas 01),17-May-26,17372.16,0.0,0.0,17372.16,0,0.0,0,-17372.16
+The Big -P.01-UP-20-April-26,CON-B03-SOG-1000,Soil Backfilling & Compaction (B03) (sog),17-May-26,228729.82,0.0,0.0,228729.82,0,0.0,0,-228729.82
+The Big -P.01-UP-20-April-26,CON-B02-GR-1000,"Scaffolding works for Walls, Col. & Cores (B02) (GR)",17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B02-GR-1010,"RFT for Walls, Col. & Cores (B02) (GR)",17-May-26,491156.73,0.0,0.0,491156.73,0,0.0,0,-491156.73
+The Big -P.01-UP-20-April-26,CON-B03-BAS01-1070,RFT for Stairs (B03) (Bas 01),17-May-26,32613.8,0.0,0.0,32613.8,0,0.0,0,-32613.8
+The Big -P.01-UP-20-April-26,AB-APP-B04-BAS2-1010,Approval for Stairs Conc. Dim.  & RFT DWGs As-Built Drawing (B04) (Bas 02),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B02-GR-1020,"Shuttering for Walls, Col. & Cores (B02) (GR)",17-May-26,71724.85,0.0,0.0,71724.85,0,0.0,0,-71724.85
+The Big -P.01-UP-20-April-26,AB-APP-B04-BAS2-1020,Approval for Ramps Conc. Dim.  & RFT DWGs As-Built Drawing (B04) (Bas 02),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-APP-B01-BAS2-1010,Approval for Stairs Conc. Dim.  & RFT DWGs As-Built Drawing (B01) (Bas 02),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B04-BAS01-1030,"Pouring for Walls, Col. & Cores (B04) (Bas 01)",17-May-26,2298417.67,0.0,0.0,2298417.67,0,0.0,0,-2298417.67
+The Big -P.01-UP-20-April-26,CON-B04-BAS02-1140,Dismantling Formwork (B04) (Bas 02),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-APP-B01-BAS2-1020,Approval for Ramps Conc. Dim.  & RFT DWGs As-Built Drawing (B01) (Bas 02),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B04-BAS01-1040,Shuttering for Slabs & Beams (B04) (Bas 01),17-May-26,2326995.01,0.0,0.0,2326995.01,0,0.0,0,-2326995.01
+The Big -P.01-UP-20-April-26,CON-B04-BAS01-1050,Shuttering for Ramps (B04) (Bas 01),17-May-26,527474.8,0.0,0.0,527474.8,0,0.0,0,-527474.8
+The Big -P.01-UP-20-April-26,AB-SUB-B04-BAS1-1000,Submittal for Col. & Walls Conc. Dim.  & RFT DWGs As-Built Drawing (B04) (Bas 01),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-APP-B04-BAS2-1030,Approval for Slabs Conc. Dim.  & RFT DWGs As-Built Drawing (B04) (Bas 02),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-APP-B04-BAS2-1040,Approval for Beams Conc. Dim.  & RFT DWGs As-Built Drawing (B04) (Bas 02),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-APP-B01-BAS2-1030,Approval for Slabs Conc. Dim.  & RFT DWGs As-Built Drawing (B01) (Bas 02),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-APP-B01-BAS2-1040,Approval for Beams Conc. Dim.  & RFT DWGs As-Built Drawing (B01) (Bas 02),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B03-SOG-1010,Soil Compaction Test (B03) (sog),17-May-26,25414.42,0.0,0.0,25414.42,0,0.0,0,-25414.42
+The Big -P.01-UP-20-April-26,CON-B03-BAS01-1080,Pouring for Stairs (B03) (Bas 01),17-May-26,26058.24,0.0,0.0,26058.24,0,0.0,0,-26058.24
+The Big -P.01-UP-20-April-26,AB-APP-B02-BAS1-1010,Approval for Stairs Conc. Dim.  & RFT DWGs As-Built Drawing (B02) (Bas 01),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-APP-B03-FOOT-1030,Approval for  Waterproofing Layout Plan  DWGs As-Built Drawing(B03),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-APP-B04-FOOT-1030,Approval for  Waterproofing Layout Plan (B04),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-APP-B02-FOOT-1030,Approval for  Waterproofing Layout Plan DWGs As-Built Drawing  (B02),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B04-BAS01-1060,Shuttering for Stairs  (B04) (Bas 01),17-May-26,17372.16,0.0,0.0,17372.16,0,0.0,0,-17372.16
+The Big -P.01-UP-20-April-26,CON-B01-BAS02-1140,Dismantling Formwork (B01) (Bas 02),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B03-BAS01-1090,Pouring for Slabs & Beams (B03) (Bas 01),17-May-26,1903444.06,0.0,0.0,1903444.06,0,0.0,0,-1903444.06
+The Big -P.01-UP-20-April-26,CON-B03-SOG-1020,DPM Layer works (B03) (sog),17-May-26,115955.2,0.0,0.0,115955.2,0,0.0,0,-115955.2
+The Big -P.01-UP-20-April-26,AB-APP-B03-BAS1-1000,Approval for Col. & Walls Conc. Dim.  & RFT DWGs As-Built Drawing  (B03) (Bas 01),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B03-BAS01-1100,"Curing for Slabs, Beams & Stairs (B03) (Bas 01)",17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B04-SOG-1000,Soil Backfilling & Compaction (B04) (Sog),17-May-26,344448.0,0.0,0.0,344448.0,0,0.0,0,-344448.0
+The Big -P.01-UP-20-April-26,AB-SUB-B03-BAS1-1010,Submittal for Stairs Conc. Dim.  & RFT DWGs As-Built Drawing (B03) (Bas 01),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-APP-B02-BAS1-1020,Approval for Slabs Conc. Dim.  & RFT DWGs As-Built Drawing (B02) (Bas 01),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-APP-B02-BAS1-1030,Approval for Beams Conc. Dim.  & RFT DWGs As-Built Drawing (B02) (Bas 01),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B04-BAS01-1070,RFT for Slabs & Beams (B04) (Bas 01),17-May-26,3546754.6,0.0,0.0,3546754.6,0,0.0,0,-3546754.6
+The Big -P.01-UP-20-April-26,AB-SUB-B03-BAS1-1020,Submittal for Slabs Conc. Dim.  & RFT DWGs As-Built Drawing (B03) (Bas 01),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-SUB-B03-BAS1-1030,Submittal for Beams Conc. Dim.  & RFT DWGs As-Built Drawing (B03) (Bas 01),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B04-BAS01-1080,RFT for  Ramps (B04) (Bas 01),17-May-26,1075623.24,0.0,0.0,1075623.24,0,0.0,0,-1075623.24
+The Big -P.01-UP-20-April-26,CON-B01-BAS01-1030,"Pouring for Walls, Col. & Cores (B01) (Bas 01)",17-May-26,2288430.92,0.0,0.0,2288430.92,0,0.0,0,-2288430.92
+The Big -P.01-UP-20-April-26,CON-B02-BAS01-1110,Dismantling Formwork (B02) (Bas 01),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B03-GR-1000,"Scaffolding works for Walls, Col. & Cores (B03) (GR)",17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B03-GR-1010,"RFT for Walls, Col. & Cores (B03) (GR)",17-May-26,656398.89,0.0,0.0,656398.89,0,0.0,0,-656398.89
+The Big -P.01-UP-20-April-26,CON-B04-BAS01-1090,RFT for Stairs  (B04) (Bas 01),17-May-26,21800.21,0.0,0.0,21800.21,0,0.0,0,-21800.21
+The Big -P.01-UP-20-April-26,CON-B01-BAS01-1040,Shuttering for Slabs & Beams (B01) (Bas 01),17-May-26,2342696.03,0.0,0.0,2342696.03,0,0.0,0,-2342696.03
+The Big -P.01-UP-20-April-26,AB-SUB-B01-BAS1-1000,Submittal for Col. & Walls Conc. Dim.  & RFT DWGs As-Built Drawing (B01) (Bas 01),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B03-SOG-1030,Blinding Concrete works (B03) (sog),17-May-26,231910.41,0.0,0.0,231910.41,0,0.0,0,-231910.41
+The Big -P.01-UP-20-April-26,CON-B02-GR-1030,"Pouring for Walls, Col. & Cores (B02) (GR)",17-May-26,107587.28,0.0,0.0,107587.28,0,0.0,0,-107587.28
+The Big -P.01-UP-20-April-26,CON-B03-GR-1020,"Shuttering for Walls, Col. & Cores (B03) (GR)",17-May-26,355173.29,0.0,0.0,355173.29,0,0.0,0,-355173.29
+The Big -P.01-UP-20-April-26,CON-B01-BAS01-1050,Shuttering for Stairs  (B01) (Bas 01),17-May-26,16099.2,0.0,0.0,16099.2,0,0.0,0,-16099.2
+The Big -P.01-UP-20-April-26,CON-B01-BAS01-1060,RFT for Slabs & Beams (B01) (Bas 01),17-May-26,3436647.26,0.0,0.0,3436647.26,0,0.0,0,-3436647.26
+The Big -P.01-UP-20-April-26,CON-B01-BAS01-1070,Shuttering for  Ramps (B01) (Bas 01),17-May-26,527474.8,0.0,0.0,527474.8,0,0.0,0,-527474.8
+The Big -P.01-UP-20-April-26,CON-B04-SOG-1010,Soil Compaction Test (B04) (Sog),17-May-26,38272.0,0.0,0.0,38272.0,0,0.0,0,-38272.0
+The Big -P.01-UP-20-April-26,AB-SUB-B02-GR-1000,Submittal for Col. & Walls Conc. Dim.  & RFT DWGs As-Built Drawing (B02) (GF),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B02-GR-1050,Shuttering for Stairs  (B02) (GR),17-May-26,32872.32,0.0,0.0,32872.32,0,0.0,0,-32872.32
+The Big -P.01-UP-20-April-26,CON-B04-BAS01-1120,Pouring for Slabs & Beams (B04) (Bas 01),17-May-26,3490492.52,0.0,0.0,3490492.52,0,0.0,0,-3490492.52
+The Big -P.01-UP-20-April-26,CON-B04-BAS01-1100,Pouring for Stairs  (B04) (Bas 01),17-May-26,26058.24,0.0,0.0,26058.24,0,0.0,0,-26058.24
+The Big -P.01-UP-20-April-26,CON-B04-BAS01-1110,Pouring for  Ramps (B04) (Bas 01),17-May-26,791212.2,0.0,0.0,791212.2,0,0.0,0,-791212.2
+The Big -P.01-UP-20-April-26,AB-APP-B04-BAS1-1000,Approval for Col. & Walls Conc. Dim.  & RFT DWGs As-Built Drawing (B04) (Bas 01),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B01-BAS01-1080,RFT for Stairs  (B01) (Bas 01),17-May-26,32613.8,0.0,0.0,32613.8,0,0.0,0,-32613.8
+The Big -P.01-UP-20-April-26,CON-B01-BAS01-1090,RFT for  Ramps (B01) (Bas 01),17-May-26,1075623.24,0.0,0.0,1075623.24,0,0.0,0,-1075623.24
+The Big -P.01-UP-20-April-26,CON-B04-SOG-1020,DPM Layer works (B04) (Sog),17-May-26,225054.09,0.0,0.0,225054.09,0,0.0,0,-225054.09
+The Big -P.01-UP-20-April-26,CON-B03-SOG-1040,Shuttering & RFT for S.O.G (B03) (sog),17-May-26,347865.61,0.0,0.0,347865.61,0,0.0,0,-347865.61
+The Big -P.01-UP-20-April-26,CON-B03-BAS01-1110,Dismantling Formwork (B03) (Bas 01),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B02-GR-1040,Shuttering for Slabs & Beams (B02) (GR),17-May-26,1785340.2,0.0,0.0,1785340.2,0,0.0,0,-1785340.2
+The Big -P.01-UP-20-April-26,CON-B02-GR-1070,RFT for Stairs  (B02) (GR),17-May-26,61713.97,0.0,0.0,61713.97,0,0.0,0,-61713.97
+The Big -P.01-UP-20-April-26,CON-B04-BAS01-1130,"Curing for Slabs, Beams (B04) (Bas 01)",17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B04-GR-1000,"Scaffolding works for Walls, Col. & Cores (B04) (GR)",17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-SUB-B04-BAS1-1030,Submittal for Slabs Conc. Dim.  & RFT DWGs As-Built Drawing (B04) (Bas 01),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-SUB-B04-BAS1-1040,Submittal for Beams Conc. Dim.  & RFT DWGs As-Built Drawing (B04) (Bas 01),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-SUB-B04-BAS1-1010,Submittal for Stairs Conc. Dim.  & RFT DWGs As-Built Drawing (B04) (Bas 01),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-SUB-B04-BAS1-1020,Submittal for Ramps Conc. Dim.  & RFT DWGs As-Built Drawing (B04) (Bas 01),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B04-BAS01-1150,Curing for  Ramps & Stairs (B04) (Bas 01),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B02-GR-1060,RFT for Slabs & Beams (B02) (GR),17-May-26,1887885.37,0.0,0.0,1887885.37,0,0.0,0,-1887885.37
+The Big -P.01-UP-20-April-26,AB-APP-B03-BAS1-1010,Approval for Stairs Conc. Dim.  & RFT DWGs As-Built Drawing  (B03) (Bas 01),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,P-MDEL-1090,Delivery for Rebar Patch#9  (4th floor),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B04-GR-1010,"RFT for Walls, Col. & Cores (B04) (GR)",17-May-26,860550.95,0.0,0.0,860550.95,0,0.0,0,-860550.95
+The Big -P.01-UP-20-April-26,CON-B03-GR-1030,"Pouring for Walls, Col. & Cores (B03) (GR)",17-May-26,532759.93,0.0,0.0,532759.93,0,0.0,0,-532759.93
+The Big -P.01-UP-20-April-26,AB-APP-B03-BAS1-1020,Approval for Slabs Conc. Dim.  & RFT DWGs As-Built Drawing  (B03) (Bas 01),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-APP-B03-BAS1-1030,Approval for Beams Conc. Dim.  & RFT DWGs As-Built Drawing  (B03) (Bas 01),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,P-MPOS-1150,P.O for Rebar Patch#10  (5th floor),15-Apr-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B04-SOG-1030,Blinding Concrete works (B04) (Sog),17-May-26,450108.17,0.0,0.0,450108.17,0,0.0,0,-450108.17
+The Big -P.01-UP-20-April-26,CON-B04-GR-1020,"Shuttering for Walls, Col. & Cores (B04) (GR)",17-May-26,469909.97,0.0,0.0,469909.97,0,0.0,0,-469909.97
+The Big -P.01-UP-20-April-26,CON-B01-BAS01-1100,Pouring for Stairs  (B01) (Bas 01),17-May-26,24148.8,0.0,0.0,24148.8,0,0.0,0,-24148.8
+The Big -P.01-UP-20-April-26,CON-B03-GR-1040,Shuttering for Slabs & Beams (B03) (GR),17-May-26,858317.45,0.0,0.0,858317.45,0,0.0,0,-858317.45
+The Big -P.01-UP-20-April-26,AB-SUB-B03-GR-1000,Submittal for Col. & Walls Conc. Dim.  & RFT DWGs As-Built Drawing (B03) (GF),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B01-BAS01-1110,Pouring for Slabs & Beams (B01) (Bas 01),17-May-26,3514044.05,0.0,0.0,3514044.05,0,0.0,0,-3514044.05
+The Big -P.01-UP-20-April-26,AB-APP-B01-BAS1-1000,Approval for Col. & Walls Conc. Dim.  & RFT DWGs As-Built Drawing (B01) (Bas 01),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B03-SOG-1050,Pouring for S.O.G (B03) (sog),17-May-26,463820.82,0.0,0.0,463820.82,0,0.0,0,-463820.82
+The Big -P.01-UP-20-April-26,CON-B01-BAS01-1120,"Curing for Slabs, Beams (B01) (Bas 01)",17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B01-BAS01-1130,Pouring for  Ramps (B01) (Bas 01),17-May-26,791212.2,0.0,0.0,791212.2,0,0.0,0,-791212.2
+The Big -P.01-UP-20-April-26,AB-SUB-B01-BAS1-1010,Submittal for Stairs Conc. Dim.  & RFT DWGs As-Built Drawing (B01) (Bas 01),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B03-SOG-1060,Curing & Smoothing Surface for S.O.G (B03) (sog),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B03-GR-1050,Shuttering for Stairs  (B03) (GR),17-May-26,34744.32,0.0,0.0,34744.32,0,0.0,0,-34744.32
+The Big -P.01-UP-20-April-26,CON-B01-GR-1000,"Scaffolding works for Walls, Col. & Cores (B01) (GR)",17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B01-GR-1010,"RFT for Walls, Col. & Cores (B01) (GR)",17-May-26,856330.53,0.0,0.0,856330.53,0,0.0,0,-856330.53
+The Big -P.01-UP-20-April-26,AB-SUB-B01-BAS1-1020,Submittal for Slabs Conc. Dim.  & RFT DWGs As-Built Drawing (B01) (Bas 01),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-SUB-B01-BAS1-1030,Submittal for Beams Conc. Dim.  & RFT DWGs As-Built Drawing (B01) (Bas 01),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B02-GR-1080,Pouring for Stairs  (B02) (GR),17-May-26,49308.48,0.0,0.0,49308.48,0,0.0,0,-49308.48
+The Big -P.01-UP-20-April-26,CON-B03-GR-1060,RFT for Slabs & Beams (B03) (GR),17-May-26,1321990.03,0.0,0.0,1321990.03,0,0.0,0,-1321990.03
+The Big -P.01-UP-20-April-26,AB-SUB-B01-BAS1-1040,Submittal for Ramps Conc. Dim.  & RFT DWGs As-Built Drawing (B01) (Bas 01),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B01-BAS01-1150,Curing for  Ramps & Stairs (B01) (Bas 01),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B04-SOG-1040,Shuttering & RFT for S.O.G (B04) (Sog),17-May-26,675162.26,0.0,0.0,675162.26,0,0.0,0,-675162.26
+The Big -P.01-UP-20-April-26,CON-B03-GR-1070,RFT for Stairs  (B03) (GR),17-May-26,65227.6,0.0,0.0,65227.6,0,0.0,0,-65227.6
+The Big -P.01-UP-20-April-26,AB-APP-B02-GR-1000,Approval for Col. & Walls Conc. Dim.  & RFT DWGs As-Built Drawing (B02) (GF),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-SUB-B03-SOG-1000,Submittal for S.O.G Conc. Dim. DWGs As-Built Drawing (B03) (Sog),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B01-GR-1020,"Shuttering for Walls, Col. & Cores (B01) (GR)",17-May-26,467957.0,0.0,0.0,467957.0,0,0.0,0,-467957.0
+The Big -P.01-UP-20-April-26,CON-B02-GR-1090,"Curing for Slabs, Beams Stairs (B02) (GR)",17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-SUB-B02-GR-1010,Submittal for Stairs Conc. Dim.  & RFT DWGs As-Built Drawing (B02) (GF),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B04-GR-1030,"Pouring for Walls, Col. & Cores (B04) (GR)",17-May-26,704864.95,0.0,0.0,704864.95,0,0.0,0,-704864.95
+The Big -P.01-UP-20-April-26,CON-B04-BAS01-1140,Dismantling Formwork (B04) (Bas 01),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-APP-B04-BAS1-1030,Approval for Slabs Conc. Dim.  & RFT DWGs As-Built Drawing (B04) (Bas 01),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-APP-B04-BAS1-1040,Approval for Beams Conc. Dim.  & RFT DWGs As-Built Drawing (B04) (Bas 01),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-APP-B04-BAS1-1010,Approval for Stairs Conc. Dim.  & RFT DWGs As-Built Drawing (B04) (Bas 01),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-APP-B04-BAS1-1020,Approval for Ramps Conc. Dim.  & RFT DWGs As-Built Drawing (B04) (Bas 01),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B03-GR-1080,Pouring for Slabs & Beams (B03) (GR),17-May-26,1287476.18,0.0,0.0,1287476.18,0,0.0,0,-1287476.18
+The Big -P.01-UP-20-April-26,CON-B03-GR-1090,Pouring for Stairs  (B03) (GR),17-May-26,52116.48,0.0,0.0,52116.48,0,0.0,0,-52116.48
+The Big -P.01-UP-20-April-26,AB-SUB-B03-SOG-1010,Submittal for S.O.G RFT DWGs As-Built Drawing (B03) (Sog),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B04-GR-1040,Shuttering for Slabs & Beams (B04) (GR),17-May-26,1192564.74,0.0,0.0,1192564.74,0,0.0,0,-1192564.74
+The Big -P.01-UP-20-April-26,AB-SUB-B04-GR-1000,Submittal for Col. & Walls Conc. Dim.  & RFT DWGs As-Built Drawing (B04) (GF),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B04-SOG-1050,Pouring for S.O.G (B04) (Sog),17-May-26,900216.35,0.0,0.0,900216.35,0,0.0,0,-900216.35
+The Big -P.01-UP-20-April-26,CON-B02-GR-1100,Pouring for Slabs & Beams (B02) (GR),17-May-26,1190226.8,0.0,0.0,1190226.8,0,0.0,0,-1190226.8
+The Big -P.01-UP-20-April-26,CON-B03-GR-1100,"Curing for Slabs, Beams & Stairs (B03) (GR)",17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-SUB-B03-GR-1010,Submittal for Slabs Conc. Dim.  & RFT DWGs As-Built Drawing (B03) (GF),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-SUB-B03-GR-1020,Submittal for Beams Conc. Dim.  & RFT DWGs As-Built Drawing (B03) (GF),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-SUB-B03-GR-1030,Submittal for Stairs Conc. Dim.  & RFT DWGs As-Built Drawing (B03) (GF),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B04-GR-1050,Shuttering for Stairs (B04) (GR),17-May-26,34744.32,0.0,0.0,34744.32,0,0.0,0,-34744.32
+The Big -P.01-UP-20-April-26,CON-B04-SOG-1060,Curing & Smoothing Surface for S.O.G (B04) (Sog),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-SUB-B02-GR-1020,Submittal for Slabs Conc. Dim.  & RFT DWGs As-Built Drawing (B02) (GF),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-SUB-B02-GR-1030,Submittal for Beams Conc. Dim.  & RFT DWGs As-Built Drawing (B02) (GF),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B04-GR-1060,RFT for Slabs & Beams (B04) (GR),17-May-26,1765214.97,0.0,0.0,1765214.97,0,0.0,0,-1765214.97
+The Big -P.01-UP-20-April-26,AB-APP-B03-GR-1000,Approval for Col. & Walls Conc. Dim.  & RFT DWGs As-Built Drawing  (B03) (GF),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B04-GR-1070,RFT for Stairs  (B04) (GR),17-May-26,43600.41,0.0,0.0,43600.41,0,0.0,0,-43600.41
+The Big -P.01-UP-20-April-26,AB-APP-B01-BAS1-1010,Approval for Stairs Conc. Dim.  & RFT DWGs As-Built Drawing (B01) (Bas 01),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B01-GR-1030,"Pouring for Walls, Col. & Cores (B01) (GR)",17-May-26,701935.51,0.0,0.0,701935.51,0,0.0,0,-701935.51
+The Big -P.01-UP-20-April-26,AB-APP-B01-BAS1-1020,Approval for Slabs Conc. Dim.  & RFT DWGs As-Built Drawing (B01) (Bas 01),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-APP-B01-BAS1-1030,Approval for Beams Conc. Dim.  & RFT DWGs As-Built Drawing (B01) (Bas 01),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-APP-B01-BAS1-1040,Approval for Ramps Conc. Dim.  & RFT DWGs As-Built Drawing (B01) (Bas 01),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-APP-B03-SOG-1000,Approval for S.O.G Conc. Dim. DWGs As-Built Drawing  (B03) (Sog),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B04-GR-1080,Pouring for Slabs & Beams (B04) (GR),17-May-26,1788847.1,0.0,0.0,1788847.1,0,0.0,0,-1788847.1
+The Big -P.01-UP-20-April-26,CON-B04-GR-1090,Pouring for Stairs (B04) (GR),17-May-26,52116.48,0.0,0.0,52116.48,0,0.0,0,-52116.48
+The Big -P.01-UP-20-April-26,CON-B01-BAS01-1140,Dismantling Formwork (B01) (Bas 01),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-SUB-B01-GR-1000,Submittal for Col. & Walls Conc. Dim.  & RFT DWGs As-Built Drawing (B01),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-APP-B02-GR-1010,Approval for Stairs Conc. Dim.  & RFT DWGs As-Built Drawing (B02) (GF),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B04-GR-1100,"Curing for Slabs, Beams & Stairs (B04) (GR)",17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-SUB-B04-GR-1010,Submittal for Slabs Conc. Dim.  & RFT DWGs As-Built Drawing (B04) (GF),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-SUB-B04-GR-1020,Submittal for Beams Conc. Dim.  & RFT DWGs As-Built Drawing (B04) (GF),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-SUB-B04-GR-1030,Submittal for Stairs Conc. Dim.  & RFT DWGs As-Built Drawing (B04) (GF),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B01-GR-1050,Shuttering for Stairs  (B01) (GR),17-May-26,32198.4,0.0,0.0,32198.4,0,0.0,0,-32198.4
+The Big -P.01-UP-20-April-26,AB-SUB-B04-SOG-1000,Submittal for S.O.G Conc. Dim. DWGs As-Built Drawing (B04) (Sog),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-SUB-B04-SOG-1010,Submittal for S.O.G RFT DWGs As-Built Drawing (B04) (Sog),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-APP-B03-SOG-1010,Approval for S.O.G RFT DWGs As-Built Drawing  (B03) (Sog),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,P-MPOS-1160,P.O for Rebar Patch#11  (6th floor),15-Apr-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-APP-B04-GR-1000,Approval for Col. & Walls Conc. Dim.  & RFT DWGs As-Built Drawing (B04) (GF),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B01-GR-1070,RFT for Stairs  (B01) (GR),17-May-26,65227.6,0.0,0.0,65227.6,0,0.0,0,-65227.6
+The Big -P.01-UP-20-April-26,CON-B01-GR-1040,Shuttering for Slabs & Beams (B01) (GR),17-May-26,1017207.72,0.0,0.0,1017207.72,0,0.0,0,-1017207.72
+The Big -P.01-UP-20-April-26,AB-APP-B03-GR-1010,Approval for Slabs Conc. Dim.  & RFT DWGs As-Built Drawing  (B03) (GF),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-APP-B03-GR-1020,Approval for Beams Conc. Dim.  & RFT DWGs As-Built Drawing  (B03) (GF),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-APP-B03-GR-1030,Approval for Stairs Conc. Dim.  & RFT DWGs As-Built Drawing  (B03) (GF),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-APP-B02-GR-1020,Approval for Slabs Conc. Dim.  & RFT DWGs As-Built Drawing (B02) (GF),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-APP-B02-GR-1030,Approval for Beams Conc. Dim.  & RFT DWGs As-Built Drawing (B02) (GF),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B01-GR-1060,RFT for Slabs & Beams (B01) (GR),17-May-26,1485376.19,0.0,0.0,1485376.19,0,0.0,0,-1485376.19
+The Big -P.01-UP-20-April-26,CON-B03-GR-1110,Dismantling Formwork (B03) (GR),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B02-GR-1110,Dismantling Formwork (B02) (GR),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B02-1ST-1000,"Scaffolding works for Walls, Col. & Cores (B02) (1st)",17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B01-SOG-1000,Soil Backfilling & Compaction (B01) (Sog),17-May-26,372319.76,0.0,0.0,372319.76,0,0.0,0,-372319.76
+The Big -P.01-UP-20-April-26,CON-B01-SOG-1010,Soil Compaction Test (B01) (Sog),17-May-26,41368.86,0.0,0.0,41368.86,0,0.0,0,-41368.86
+The Big -P.01-UP-20-April-26,CON-B02-1ST-1010,"RFT for Walls, Col. & Cores (B02) (1st)",17-May-26,290453.31,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B03-1ST-1000,"Scaffolding works for Walls, Col. & Cores (B03) (1st)",17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B04-GR-1110,Dismantling Formwork (B04) (GR),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B01-GR-1080,Pouring for Stairs  (B01) (GR),17-May-26,48297.6,0.0,0.0,48297.6,0,0.0,0,-48297.6
+The Big -P.01-UP-20-April-26,AB-APP-B01-GR-1000,Approval for Col. & Walls Conc. Dim.  & RFT DWGs As-Built Drawing (B01)  (GF),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-APP-B04-GR-1010,Approval for Slabs Conc. Dim.  & RFT DWGs As-Built Drawing (B04) (GF),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-APP-B04-GR-1020,Approval for Beams Conc. Dim.  & RFT DWGs As-Built Drawing (B04) (GF),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-APP-B04-GR-1030,Approval for Stairs Conc. Dim.  & RFT DWGs As-Built Drawing (B04) (GF),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B01-GR-1100,"Curing for Slabs, Beams & Stairs (B01) (GR)",17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-SUB-B01-GR-1010,Submittal for Stairs Conc. Dim.  & RFT DWGs As-Built Drawing (B01),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B02-1ST-1020,"Shuttering for Walls, Col. & Cores (B02) (1st)",17-May-26,42415.29,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B03-1ST-1010,"RFT for Walls, Col. & Cores (B03) (1st)",17-May-26,388168.78,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-APP-B04-SOG-1000,Approval for S.O.G Conc. Dim. DWGs As-Built Drawing (B04) (Sog),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-APP-B04-SOG-1010,Approval for S.O.G RFT DWGs As-Built Drawing (B04) (Sog),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,P-MDEL-1080,Delivery for Rebar Patch#10  (5th floor),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B02-SOG-1000,Soil Backfilling & Compaction (B02) (Sog),17-May-26,180582.43,0.0,0.0,180582.43,0,0.0,0,-180582.43
+The Big -P.01-UP-20-April-26,CON-B01-GR-1090,Pouring for Slabs & Beams (B01) (GR),17-May-26,1525811.58,0.0,0.0,1525811.58,0,0.0,0,-1525811.58
+The Big -P.01-UP-20-April-26,CON-B01-SOG-1020,DPM Layer works (B01) (Sog),17-May-26,492186.35,0.0,0.0,492186.35,0,0.0,0,-492186.35
+The Big -P.01-UP-20-April-26,CON-B01-1ST-1000,"Scaffolding works for Walls, Col. & Cores (B01) (1st)",17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B03-1ST-1020,"Shuttering for Walls, Col. & Cores (B03) (1st)",17-May-26,209943.72,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,KD-MS-1040,Ground Works Finish Date,17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B04-1ST-1000,"Scaffolding works for Walls, Col. & Cores (B04) (1st)",17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-SUB-B01-GR-1020,Submittal for Slabs Conc. Dim.  & RFT DWGs As-Built Drawing (B01),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-SUB-B01-GR-1030,Submittal for Beams Conc. Dim.  & RFT DWGs As-Built Drawing (B01),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B01-1ST-1010,"RFT for Walls, Col. & Cores (B01) (1st)",17-May-26,549617.03,0.0,0.0,549617.03,0,0.0,0,-549617.03
+The Big -P.01-UP-20-April-26,CON-B04-1ST-1010,"RFT for Walls, Col. & Cores (B04) (1st)",17-May-26,552281.71,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B02-SOG-1010,Soil Compaction Test (B02) (Sog),17-May-26,20064.71,0.0,0.0,20064.71,0,0.0,0,-20064.71
+The Big -P.01-UP-20-April-26,CON-B01-SOG-1030,Blinding Concrete works (B01) (Sog),17-May-26,984372.71,0.0,0.0,820310.59,0,0.0,0,-820310.59
+The Big -P.01-UP-20-April-26,CON-B01-1ST-1020,"Shuttering for Walls, Col. & Cores (B01) (1st)",17-May-26,300623.43,0.0,0.0,257677.22,0,0.0,0,-257677.22
+The Big -P.01-UP-20-April-26,CON-B04-1ST-1020,"Shuttering for Walls, Col. & Cores (B04) (1st)",17-May-26,302176.92,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B02-1ST-1030,"Pouring for Walls, Col. & Cores (B02) (1st)",17-May-26,63622.93,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B02-SOG-1020,DPM Layer works (B02) (Sog),17-May-26,259766.35,0.0,0.0,138542.06,0,0.0,0,-138542.06
+The Big -P.01-UP-20-April-26,AB-APP-B01-GR-1010,Approval for Stairs Conc. Dim.  & RFT DWGs As-Built Drawing (B01)  (GF),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B02-1ST-1040,"Shuttering for Slabs, Beams & Stairs (B02) (1st)",17-May-26,1552420.74,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-SUB-B02-1ST-1000,Submittal for Col. & Walls Conc. Dim.  & RFT DWGs As-Built Drawing (B02) (1st),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B01-SOG-1040,Shuttering & RFT for S.O.G (B01) (Sog),17-May-26,1476559.06,0.0,0.0,492186.35,0,0.0,0,-492186.35
+The Big -P.01-UP-20-April-26,CON-B04-1ST-1030,"Pouring for Walls, Col. & Cores (B04) (1st)",17-May-26,453265.38,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B02-1ST-1050,"RFT for Slabs, Beams & Stairs (B02) (1st)",17-May-26,1677255.18,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B03-1ST-1030,"Pouring for Walls, Col. & Cores (B03) (1st)",17-May-26,314915.58,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B01-1ST-1030,"Pouring for Walls, Col. & Cores (B01) (1st)",17-May-26,450935.14,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-APP-B01-GR-1020,Approval for Slabs Conc. Dim.  & RFT DWGs As-Built Drawing (B01)  (GF),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-APP-B01-GR-1030,Approval for Beams Conc. Dim.  & RFT DWGs As-Built Drawing (B01)  (GF),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,P-MPOS-1170,P.O for Rebar Patch#12  (7th floor),15-Apr-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B04-1ST-1040,"Shuttering for Slabs, Beams & Stairs (B04) (1st)",17-May-26,1003883.55,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-SUB-B04-1ST-1000,Submittal for Col. & Walls Conc. Dim.  & RFT DWGs As-Built Drawing (B04) (1st),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B03-1ST-1040,"Shuttering for Slabs, Beams & Stairs (B03) (1st)",17-May-26,945063.75,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-SUB-B03-1ST-1000,Submittal for Col. & Walls Conc. Dim.  & RFT DWGs As-Built Drawing (B03) (1st),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B01-GR-1110,Dismantling Formwork (B01) (GR),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-SUB-B01-1ST-1000,Submittal for Col. & Walls Conc. Dim.  & RFT DWGs As-Built Drawing (B01) (1st),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B01-1ST-1040,"Shuttering for Slabs, Beams & Stairs (B01) (1st)",17-May-26,1049406.12,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B02-SOG-1030,Blinding Concrete works (B02) (Sog),17-May-26,519532.71,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B01-SOG-1050,Pouring for S.O.G (B01) (Sog),17-May-26,1968745.42,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B04-1ST-1050,"RFT for Slabs, Beams & Stairs (B04) (1st)",17-May-26,1487994.98,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B03-1ST-1050,"RFT for Slabs, Beams & Stairs (B03) (1st)",17-May-26,1396338.34,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B01-SOG-1060,Curing & Smoothing Surface for S.O.G (B01) (Sog),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B01-1ST-1050,"RFT for Slabs, Beams & Stairs(B01) (1st)",17-May-26,1550603.78,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-APP-B02-1ST-1000,Approval for Col. & Walls Conc. Dim.  & RFT DWGs As-Built Drawing (B02) (1st),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B02-1ST-1060,"Pouring for Slabs, Beams & Stairs (B02) (1st)",17-May-26,1034947.16,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B02-SOG-1040,Shuttering & RFT for S.O.G (B02) (Sog),17-May-26,779299.06,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-SUB-B01-SOG-1000,Submittal for S.O.G Conc. Dim. DWGs As-Built Drawing (B01) (Sog),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,P-MDEL-1070,Delivery for Rebar Patch#11  (6th floor),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-APP-B04-1ST-1000,Approval for Col. & Walls Conc. Dim.  & RFT DWGs As-Built Drawing (B04) (1st),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-APP-B03-1ST-1000,Approval for Col. & Walls Conc. Dim.  & RFT DWGs As-Built Drawing  (B03) (1st),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-APP-B01-1ST-1000,Approval for Col. & Walls Conc. Dim.  & RFT DWGs As-Built Drawing (B01) (1st),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B02-1ST-1070,"Curing for Slabs, Beams & Stairs (B02) (1st)",17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-SUB-B02-1ST-1010,Submittal for Slabs Conc. Dim.  & RFT DWGs As-Built Drawing (B02) (1st),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-SUB-B02-1ST-1020,Submittal for Beams Conc. Dim.  & RFT DWGs As-Built Drawing (B02) (1st),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-SUB-B02-1ST-1030,Submittal for Stairs Conc. Dim.  & RFT DWGs As-Built Drawing (B02) (1st),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B04-1ST-1060,"Pouring for Slabs, Beams & Stairs (B04) (1st)",17-May-26,1505825.33,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-SUB-B01-SOG-1010,Submittal for S.O.G RFT DWGs As-Built Drawing (B01) (Sog),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B04-1ST-1070,"Curing for Slabs, Beams & Stairs (B04) (1st)",17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-SUB-B04-1ST-1010,Submittal for Slabs Conc. Dim.  & RFT DWGs As-Built Drawing (B04) (1st),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-SUB-B04-1ST-1020,Submittal for Beams Conc. Dim.  & RFT DWGs As-Built Drawing (B04) (1st),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-SUB-B04-1ST-1030,Submittal for Stairs Conc. Dim.  & RFT DWGs As-Built Drawing (B04) (1st),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B02-SOG-1050,Pouring for S.O.G (B02) (Sog),17-May-26,1039065.42,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B01-1ST-1060,"Pouring for Slabs, Beams & Stairs (B01) (1st)",17-May-26,1574109.18,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B03-1ST-1060,"Pouring for Slabs, Beams & Stairs (B03) (1st)",17-May-26,1417595.63,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,P-MPOS-1180,P.O for Rebar Patch#13  (8th floor),15-Apr-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B04-2ND-1000,"Scaffolding works for Walls, Col. & Cores (B04) (2nd)",17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B02-SOG-1060,Curing & Smoothing Surface for S.O.G (B02) (Sog),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B01-1ST-1070,"Curing for Slabs, Beams & Stairs (B01) (1st)",17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-SUB-B01-1ST-1010,Submittal for Slabs Conc. Dim.  & RFT DWGs As-Built Drawing (B01) (1st),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-SUB-B01-1ST-1020,Submittal for Beams Conc. Dim.  & RFT DWGs As-Built Drawing (B01) (1st),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-SUB-B01-1ST-1030,Submittal for Stairs Conc. Dim.  & RFT DWGs As-Built Drawing (B01) (1st),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B01-2ND-1000,"Scaffolding works for Walls, Col. & Cores (B01) (2nd)",17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B03-1ST-1070,"Curing for Slabs, Beams & Stairs (B03) (1st)",17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-SUB-B03-1ST-1010,Submittal for Slabs Conc. Dim.  & RFT DWGs As-Built Drawing (B03) (1st),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-SUB-B03-1ST-1020,Submittal for Beams Conc. Dim.  & RFT DWGs As-Built Drawing (B03) (1st),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-SUB-B03-1ST-1030,Submittal for Stairs Conc. Dim.  & RFT DWGs As-Built Drawing (B03) (1st),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B04-2ND-1010,"RFT for Walls, Col. & Cores (B04) (2nd)",17-May-26,549836.38,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-APP-B01-SOG-1000,Approval for S.O.G Conc. Dim.DWGs As-Built Drawing (B01) (Sog),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B02-1ST-1080,Dismantling Formwork (B02) (1st),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B01-2ND-1010,"RFT for Walls, Col. & Cores (B01) (2nd)",17-May-26,547183.9,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B02-2ND-1000,"Scaffolding works for Walls, Col. & Cores (B02) (2nd)",17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-APP-B02-1ST-1010,Approval for Slabs Conc. Dim.  & RFT DWGs As-Built Drawing (B02) (1st),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-APP-B02-1ST-1020,Approval for Beams Conc. Dim.  & RFT DWGs As-Built Drawing (B02) (1st),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-APP-B02-1ST-1030,Approval for Stairs Conc. Dim.  & RFT DWGs As-Built Drawing (B02) (1st),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B04-2ND-1020,"Shuttering for Walls, Col. & Cores (B04) (2nd)",17-May-26,300845.35,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B02-2ND-1010,"RFT for Walls, Col. & Cores (B02) (2nd)",17-May-26,290453.31,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B01-2ND-1020,"Shuttering for Walls, Col. & Cores (B01) (2nd)",17-May-26,299336.25,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B04-1ST-1080,Dismantling Formwork (B04) (1st),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-APP-B01-SOG-1010,Approval for S.O.G RFT DWGs As-Built Drawing (B01) (Sog),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-APP-B04-1ST-1010,Approval for Slabs Conc. Dim.  & RFT DWGs As-Built Drawing (B04) (1st),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-APP-B04-1ST-1020,Approval for Beams Conc. Dim.  & RFT DWGs As-Built Drawing (B04) (1st),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-APP-B04-1ST-1030,Approval for Stairs Conc. Dim.  & RFT DWGs As-Built Drawing (B04) (1st),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B02-2ND-1020,"Shuttering for Walls, Col. & Cores (B02) (2nd)",17-May-26,42415.29,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-SUB-B02-SOG-1000,Submittal for S.O.G Conc. Dim. DWGs As-Built Drawing (B02) (Sog),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-SUB-B02-SOG-1010,Submittal for S.O.G RFT DWGs As-Built Drawing (B02) (Sog),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B03-1ST-1080,Dismantling Formwork (B03) (1st),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B01-1ST-1080,Dismantling Formwork (B01) (1st),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-APP-B01-1ST-1010,Approval for Slabs Conc. Dim.  & RFT DWGs As-Built Drawing (B01) (1st),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-APP-B01-1ST-1020,Approval for Beams Conc. Dim.  & RFT DWGs As-Built Drawing (B01) (1st),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-APP-B01-1ST-1030,Approval for Stairs Conc. Dim.  & RFT DWGs As-Built Drawing (B01) (1st),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B01-2ND-1030,"Pouring for Walls, Col. & Cores (B01) (2nd)",17-May-26,449004.37,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B04-2ND-1030,"Pouring for Walls, Col. & Cores (B04) (2nd)",17-May-26,451268.03,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-APP-B03-1ST-1010,Approval for Slabs Conc. Dim.  & RFT DWGs As-Built Drawing  (B03) (1st),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-APP-B03-1ST-1020,Approval for Beams Conc. Dim.  & RFT DWGs As-Built Drawing  (B03) (1st),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-APP-B03-1ST-1030,Approval for Stairs Conc. Dim.  & RFT DWGs As-Built Drawing  (B03) (1st),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B04-2ND-1040,"Shuttering for Slabs, Beams & Stairs (B04) (2nd)",17-May-26,982426.22,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-SUB-B04-2ND-1000,Submittal for Col. & Walls Conc. Dim.  & RFT DWGs As-Built Drawing (B04) (2nd),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B03-2ND-1000,"Scaffolding works for Walls, Col. & Cores (B03) (2nd)",17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B01-2ND-1040,"Shuttering for Slabs, Beams & Stairs (B01) (2nd)",17-May-26,1045604.81,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-SUB-B01-2ND-1000,Submittal for Col. & Walls Conc. Dim.  & RFT DWGs As-Built Drawing (B01) (2nd),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B03-2ND-1010,"RFT for Walls, Col. & Cores (B03) (2nd)",17-May-26,388168.78,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B04-2ND-1050,"RFT for Slabs, Beams & Stairs (B04) (2nd)",17-May-26,1425382.16,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B01-2ND-1050,"RFT for Slabs, Beams & Stairs (B01) (2nd)",17-May-26,1544246.42,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,P-MDEL-1190,Delivery for Rebar Patch#12  (7th floor),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B02-2ND-1030,"Pouring for Walls, Col. & Cores (B02) (2nd)",17-May-26,63622.93,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-APP-B02-SOG-1000,Approval for S.O.G Conc. Dim. DWGs As-Built Drawing (B02) (Sog),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-APP-B02-SOG-1010,Approval for S.O.G RFT DWGs As-Built Drawing (B02) (Sog),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B03-2ND-1020,"Shuttering for Walls, Col. & Cores (B03) (2nd)",17-May-26,209943.72,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B02-2ND-1040,"Shuttering for Slabs, Beams & Stairs (B02) (2nd)",17-May-26,1538338.14,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-SUB-B02-2ND-1000,Submittal for Col. & Walls Conc. Dim.  & RFT DWGs As-Built Drawing (B02) (2nd),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,P-MPOS-1190,P.O for Rebar Patch#14  (Roof floor),15-Apr-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-APP-B04-2ND-1000,Approval for Col. & Walls Conc. Dim.  & RFT DWGs As-Built Drawing (B04) (2nd),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B02-2ND-1050,"RFT for Slabs, Beams & Stairs (B02) (2nd)",17-May-26,1663672.33,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B01-2ND-1060,"Pouring for Slabs, Beams & Stairs (B01) (2nd)",17-May-26,1568407.21,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-APP-B01-2ND-1000,Approval for Col. & Walls Conc. Dim.  & RFT DWGs As-Built Drawing (B01) (2nd),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B04-2ND-1060,"Pouring for Slabs, Beams & Stairs (B04) (2nd)",17-May-26,1473639.33,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B01-2ND-1070,"Curing for Slabs, Beams & Stairs (B01) (2nd)",17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-SUB-B01-2ND-1010,Submittal for Slabs Conc. Dim.  & RFT DWGs As-Built Drawing (B01) (2nd),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-SUB-B01-2ND-1020,Submittal for Beams Conc. Dim.  & RFT DWGs As-Built Drawing (B01) (2nd),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-SUB-B01-2ND-1030,Submittal for Stairs Conc. Dim.  & RFT DWGs As-Built Drawing (B01) (2nd),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B01-3RD-1000,"Scaffolding works for Walls, Col. & Cores (B01) (3rd)",17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B04-2ND-1070,"Curing for Slabs, Beams & Stairs (B04) (2nd)",17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-SUB-B04-2ND-1010,Submittal for Slabs Conc. Dim.  & RFT DWGs As-Built Drawing (B04) (2nd),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-SUB-B04-2ND-1020,Submittal for Beams Conc. Dim.  & RFT DWGs As-Built Drawing (B04) (2nd),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-SUB-B04-2ND-1030,Submittal for Stairs Conc. Dim.  & RFT DWGs As-Built Drawing (B04) (2nd),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B03-2ND-1030,"Pouring for Walls, Col. & Cores (B03) (2nd)",17-May-26,314915.58,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B01-3RD-1010,"RFT for Walls, Col. & Cores (B01) (3rd)",17-May-26,460777.03,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B04-3RD-1000,"Scaffolding works for Walls, Col. & Cores (B04) (3rd)",17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-APP-B02-2ND-1000,Approval for Col. & Walls Conc. Dim.  & RFT DWGs As-Built Drawing (B02) (2nd),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B03-2ND-1040,"Shuttering for Slabs, Beams & Stairs (B03) (2nd)",17-May-26,946707.68,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-SUB-B03-2ND-1000,Submittal for Col. & Walls Conc. Dim.  & RFT DWGs As-Built Drawing (B03) (2nd),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B01-3RD-1020,"Shuttering for Walls, Col. & Cores (B01) (3rd)",17-May-26,252110.01,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B04-3RD-1010,"RFT for Walls, Col. & Cores (B04) (3rd)",17-May-26,463096.43,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B03-2ND-1050,"RFT for Slabs, Beams & Stairs(B03) (2nd)",17-May-26,1398716.72,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B01-2ND-1080,Dismantling Formwork (B01) (2nd),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B04-3RD-1020,"Shuttering for Walls, Col. & Cores (B04) (3rd)",17-May-26,253264.03,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B04-2ND-1080,Dismantling Formwork (B04) (2nd),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B02-2ND-1060,"Pouring for Slabs, Beams & Stairs (B02) (2nd)",17-May-26,1025558.76,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-APP-B01-2ND-1010,Approval for Slabs Conc. Dim.  & RFT DWGs As-Built Drawing (B01) (2nd),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-APP-B01-2ND-1020,Approval for Beams Conc. Dim.  & RFT DWGs As-Built Drawing (B01) (2nd),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-APP-B01-2ND-1030,Approval for Stairs Conc. Dim.  & RFT DWGs As-Built Drawing (B01) (2nd),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-APP-B04-2ND-1010,Approval for Slabs Conc. Dim.  & RFT DWGs As-Built Drawing (B04) (2nd),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-APP-B04-2ND-1020,Approval for Beams Conc. Dim.  & RFT DWGs As-Built Drawing (B04) (2nd),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-APP-B04-2ND-1030,Approval for Stairs Conc. Dim.  & RFT DWGs As-Built Drawing (B04) (2nd),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B01-3RD-1030,"Pouring for Walls, Col. & Cores (B01) (3rd)",17-May-26,378165.01,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B02-2ND-1070,"Curing for Slabs, Beams & Stairs (B02) (2nd)",17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-SUB-B02-2ND-1010,Submittal for Slabs Conc. Dim.  & RFT DWGs As-Built Drawing (B02) (2nd),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-SUB-B02-2ND-1020,Submittal for Beams Conc. Dim.  & RFT DWGs As-Built Drawing (B02) (2nd),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-SUB-B02-2ND-1030,Submittal for Stairs Conc. Dim.  & RFT DWGs As-Built Drawing (B02) (2nd),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B01-3RD-1040,"Shuttering for Slabs, Beams & Stairs (B01) (3rd)",17-May-26,839870.68,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-SUB-B01-3RD-1000,Submittal for Col. & Walls Conc. Dim.  & RFT DWGs As-Built Drawing (B01) (3rd),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-APP-B03-2ND-1000,Approval for Col. & Walls Conc. Dim.  & RFT DWGs As-Built Drawing  (B03) (2nd),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B04-3RD-1030,"Pouring for Walls, Col. & Cores (B04) (3rd)",17-May-26,379896.04,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,P-MDEL-1180,Delivery for Rebar Patch#13  (8th floor),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B04-3RD-1040,"Shuttering for Slabs, Beams & Stairs (B04) (3rd)",17-May-26,703251.92,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-SUB-B04-3RD-1000,Submittal for Col. & Walls Conc. Dim.  & RFT DWGs As-Built Drawing (B04) (3rd),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B01-3RD-1050,"RFT for Slabs, Beams & Stairs (B01) (3rd)",17-May-26,1251398.38,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B04-3RD-1050,"RFT for Slabs, Beams & Stairs (B04) (3rd)",17-May-26,1024574.26,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B02-2ND-1080,Dismantling Formwork (B02) (2nd),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B03-2ND-1060,"Pouring for Slabs, Beams & Stairs (B03) (2nd)",17-May-26,1420061.52,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B02-3RD-1000,"Scaffolding works for Walls, Col. & Cores (B02) (3rd)",17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-APP-B02-2ND-1010,Approval for Slabs Conc. Dim.  & RFT DWGs As-Built Drawing (B02) (2nd),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-APP-B02-2ND-1020,Approval for Beams Conc. Dim.  & RFT DWGs As-Built Drawing (B02) (2nd),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-APP-B02-2ND-1030,Approval for Stairs Conc. Dim.  & RFT DWGs As-Built Drawing (B02) (2nd),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B02-3RD-1010,"RFT for Walls, Col. & Cores (B02) (3rd)",17-May-26,287345.88,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B03-2ND-1070,"Curing for Slabs, Beams & Stairs (B03) (2nd)",17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-SUB-B03-2ND-1010,Submittal for Slabs Conc. Dim.  & RFT DWGs As-Built Drawing (B03) (2nd),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-SUB-B03-2ND-1020,Submittal for Beams Conc. Dim.  & RFT DWGs As-Built Drawing (B03) (2nd),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-SUB-B03-2ND-1030,Submittal for Stairs Conc. Dim.  & RFT DWGs As-Built Drawing (B03) (2nd),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-APP-B01-3RD-1000,Approval for Col. & Walls Conc. Dim.  & RFT DWGs As-Built Drawing (B01) (3rd),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B01-3RD-1060,"Pouring for Slabs, Beams & Stairs (B01) (3rd)",17-May-26,1259806.02,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B02-3RD-1020,"Shuttering for Walls, Col. & Cores (B02) (3rd)",17-May-26,41962.11,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-APP-B04-3TH-1000,Approval for Col. & Walls Conc. Dim.  & RFT DWGs As-Built Drawing (B04) (3rd),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B01-3RD-1070,"Curing for Slabs, Beams & Stairs(B01) (3rd)",17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B04-3RD-1060,"Pouring for Slabs, Beams & Stairs (B04) (3rd)",17-May-26,1054877.87,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-SUB-B01-3RD-1010,Submittal for Slabs Conc. Dim.  & RFT DWGs As-Built Drawing (B01) (3rd),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-SUB-B01-3RD-1020,Submittal for Beams Conc. Dim.  & RFT DWGs As-Built Drawing (B01) (3rd),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-SUB-B01-3RD-1030,Submittal for Stairs Conc. Dim.  & RFT DWGs As-Built Drawing (B01) (3rd),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B01-4TH-1000,"Scaffolding works for Walls, Col. & Cores (B01) (4th)",17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,P-MDEL-1200,Delivery for Rebar Patch#14  (Roof floor),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B04-3RD-1070,"Curing for Slabs, Beams & Stairs (B04) (3rd)",17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B04-4TH-1000,"Scaffolding works for Walls, Col. & Cores (B04) (4th)",17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-SUB-B04-3RD-1010,Submittal for Slabs Conc. Dim.  & RFT DWGs As-Built Drawing (B04) (3rd),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-SUB-B04-3RD-1020,Submittal for Beams Conc. Dim.  & RFT DWGs As-Built Drawing (B04) (3rd),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-SUB-B04-3RD-1030,Submittal for Stairs Conc. Dim.  & RFT DWGs As-Built Drawing (B04) (3rd),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B01-4TH-1010,"RFT for Walls, Col. & Cores (B01) (4th)",17-May-26,460777.03,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B03-2ND-1080,Dismantling Formwork (B03) (2nd),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B03-3RD-1000,"Scaffolding works for Walls, Col. & Cores (B03) (3rd)",17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B04-4TH-1010,"RFT for Walls, Col. & Cores (B04) (4th)",17-May-26,463096.43,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-APP-B03-2ND-1010,Approval for Slabs Conc. Dim.  & RFT DWGs As-Built Drawing  (B03) (2nd),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-APP-B03-2ND-1020,Approval for Beams Conc. Dim.  & RFT DWGs As-Built Drawing  (B03) (2nd),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-APP-B03-2ND-1030,Approval for Stairs Conc. Dim.  & RFT DWGs As-Built Drawing  (B03) (2nd),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B01-4TH-1020,"Shuttering for Walls, Col. & Cores (B01) (4th)",17-May-26,252110.01,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B03-3RD-1010,"RFT for Walls, Col. & Cores (B03) (3rd)",17-May-26,384021.48,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B04-4TH-1020,"Shuttering for Walls, Col. & Cores (B04) (4th)",17-May-26,253264.03,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B02-3RD-1030,"Pouring for Walls, Col. & Cores (B02) (3rd)",17-May-26,62943.17,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B01-3RD-1080,Dismantling Formwork (B01) (3rd),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B02-3RD-1040,"Shuttering for Slabs, Beams & Stairs(B02) (3rd)",17-May-26,1411527.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B03-3RD-1020,"Shuttering for Walls, Col. & Cores (B03) (3rd)",17-May-26,207990.75,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-SUB-B02-3RD-1000,Submittal for Col. & Walls Conc. Dim.  & RFT DWGs As-Built Drawing (B02) (3rd),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-APP-B01-3RD-1010,Approval for Slabs Conc. Dim.  & RFT DWGs As-Built Drawing (B01) (3rd),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-APP-B01-3RD-1020,Approval for Beams Conc. Dim.  & RFT DWGs As-Built Drawing (B01) (3rd),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-APP-B01-3RD-1030,Approval for Stairs Conc. Dim.  & RFT DWGs As-Built Drawing (B01) (3rd),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B04-3RD-1080,Dismantling Formwork (B04) (3rd),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B01-4TH-1030,"Pouring for Walls, Col. & Cores (B01) (4th)",17-May-26,378165.01,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-APP-B04-3TH-1010,Approval for Slabs Conc. Dim.  & RFT DWGs As-Built Drawing (B04) (3rd),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-APP-B04-3TH-1020,Approval for Beams Conc. Dim.  & RFT DWGs As-Built Drawing (B04) (3rd),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-APP-B04-3TH-1030,Approval for Stairs Conc. Dim.  & RFT DWGs As-Built Drawing (B04) (3rd),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B02-3RD-1050,"RFT for Slabs, Beams & Stairs (B02) (3rd)",17-May-26,1375590.95,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B01-4TH-1040,"Shuttering for Slabs, Beams & Stairs (B01) (4th)",17-May-26,840564.27,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-SUB-B01-4TH-1000,Submittal for Col. & Walls Conc. Dim.  & RFT DWGs As-Built Drawing (B01) (4th),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B04-4TH-1030,"Pouring for Walls, Col. & Cores (B04) (4th)",17-May-26,379896.04,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B04-4TH-1040,"Shuttering for Slabs, Beams & Stairs (B04) (4th)",17-May-26,701981.29,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-SUB-B04-4TH-1000,Submittal for Col. & Walls Conc. Dim.  & RFT DWGs As-Built Drawing (B04) (4th),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B01-4TH-1050,"RFT for Slabs, Beams & Stairs (B01) (4th)",17-May-26,1252401.85,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B04-4TH-1050,"RFT for Slabs, Beams & Stairs (B04) (4th)",17-May-26,1023093.85,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B03-3RD-1030,"Pouring for Walls, Col. & Cores (B03) (3rd)",17-May-26,311986.13,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-APP-B02-3RD-1000,Approval for Col. & Walls Conc. Dim.  & RFT DWGs As-Built Drawing (B02) (3rd),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B03-3RD-1040,"Shuttering for Slabs, Beams & Stairs (B03) (3rd)",17-May-26,943408.33,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-SUB-B03-3RD-1000,Submittal for Col. & Walls Conc. Dim.  & RFT DWGs As-Built Drawing (B03) (3rd),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-APP-B01-4TH-1000,Approval for Col. & Walls Conc. Dim.  & RFT DWGs As-Built Drawing (B01) (4th),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B03-3RD-1050,"RFT for Slabs, Beams & Stairs (B03) (3rd)",17-May-26,1393943.32,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-APP-B04-4TH-1000,Approval for Col. & Walls Conc. Dim.  & RFT DWGs As-Built Drawing (B04) (4th),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B02-3RD-1060,"Pouring for Slabs, Beams & Stairs (B02) (3rd)",17-May-26,941018.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B01-4TH-1060,"Pouring for Slabs, Beams & Stairs (B01) (4th)",17-May-26,1260846.41,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B04-4TH-1060,"Pouring for Slabs, Beams & Stairs (B04) (4th)",17-May-26,1052971.93,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B02-3RD-1070,"Curing for Slabs, Beams & Stairs (B02) (3rd)",17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-SUB-B02-3RD-1010,Submittal for Slabs Conc. Dim.  & RFT DWGs As-Built Drawing (B02) (3rd),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-SUB-B02-3RD-1020,Submittal for Beams Conc. Dim.  & RFT DWGs As-Built Drawing (B02) (3rd),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-SUB-B02-3RD-1030,Submittal for Stairs Conc. Dim.  & RFT DWGs As-Built Drawing (B02) (3rd),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B04-4TH-1070,"Curing for Slabs, Beams & Stairs (B04) (4th)",17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-SUB-B04-4TH-1010,Submittal for Slabs Conc. Dim.  & RFT DWGs As-Built Drawing (B04) (4th),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-SUB-B04-4TH-1020,Submittal for Beams Conc. Dim.  & RFT DWGs As-Built Drawing (B04) (4th),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-SUB-B04-4TH-1030,Submittal for Stairs Conc. Dim.  & RFT DWGs As-Built Drawing (B04) (4th),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B01-4TH-1070,"Curing for Slabs, Beams & Stairs (B01) (4th)",17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-SUB-B01-4TH-1010,Submittal for Slabs Conc. Dim.  & RFT DWGs As-Built Drawing (B01) (4th),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-SUB-B01-4TH-1020,Submittal for Beams Conc. Dim.  & RFT DWGs As-Built Drawing (B01) (4th),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-SUB-B01-4TH-1030,Submittal for Stairs Conc. Dim.  & RFT DWGs As-Built Drawing (B01) (4th),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B01-5TH-1000,"Scaffolding works for Walls, Col. & Cores (B01) (5th)",17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B04-5TH-1000,"Scaffolding works for Walls, Col. & Cores (B04) (5th)",17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-APP-B03-3RD-1000,Approval for Col. & Walls Conc. Dim.  & RFT DWGs As-Built Drawing  (B03) (3rd),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B01-5TH-1010,"RFT for Walls, Col. & Cores (B01) (5th)",17-May-26,460777.03,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B04-5TH-1010,"RFT for Walls, Col. & Cores (B04) (5th)",17-May-26,463096.43,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B04-5TH-1020,"Shuttering for Walls, Col. & Cores (B04) (5th)",17-May-26,253264.03,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B01-5TH-1020,"Shuttering for Walls, Col. & Cores (B01) (5th)",17-May-26,252110.01,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B02-3RD-1080,Dismantling Formwork (B02) (3rd),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B04-4TH-1080,Dismantling Formwork (B04) (4th),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B02-4TH-1000,"Scaffolding works for Walls, Col. & Cores (B02) (4th)",17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B03-3RD-1060,"Pouring for Slabs, Beams & Stairs (B03) (3rd)",17-May-26,1415112.49,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B01-4TH-1080,Dismantling Formwork (B01) (4th),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-APP-B02-3RD-1010,Approval for Slabs Conc. Dim.  & RFT DWGs As-Built Drawing (B02) (3rd),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-APP-B02-3RD-1020,Approval for Beams Conc. Dim.  & RFT DWGs As-Built Drawing (B02) (3rd),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-APP-B02-3RD-1030,Approval for Stairs Conc. Dim.  & RFT DWGs As-Built Drawing (B02) (3rd),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-APP-B04-4TH-1010,Approval for Slabs Conc. Dim.  & RFT DWGs As-Built Drawing (B04) (4th),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-APP-B04-4TH-1020,Approval for Beams Conc. Dim.  & RFT DWGs As-Built Drawing (B04) (4th),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-APP-B04-4TH-1030,Approval for Stairs Conc. Dim.  & RFT DWGs As-Built Drawing (B04) (4th),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B02-4TH-1010,"RFT for Walls, Col. & Cores (B02) (4th)",17-May-26,287345.88,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-APP-B01-4TH-1010,Approval for Slabs Conc. Dim.  & RFT DWGs As-Built Drawing (B01) (4th),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-APP-B01-4TH-1020,Approval for Beams Conc. Dim.  & RFT DWGs As-Built Drawing (B01) (4th),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-APP-B01-4TH-1030,Approval for Stairs Conc. Dim.  & RFT DWGs As-Built Drawing (B01) (4th),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B03-3RD-1070,"Curing for Slabs, Beams & Stairs (B03) (3rd)",17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-SUB-B03-3RD-1010,Submittal for Slabs Conc. Dim.  & RFT DWGs As-Built Drawing (B03) (3rd),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-SUB-B03-3RD-1020,Submittal for Beams Conc. Dim.  & RFT DWGs As-Built Drawing (B03) (3rd),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-SUB-B03-3RD-1030,Submittal for Stairs Conc. Dim.  & RFT DWGs As-Built Drawing (B03) (3rd),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B01-5TH-1030,"Pouring for Walls, Col. & Cores (B01) (5th)",17-May-26,378165.01,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B02-4TH-1020,"Shuttering for Walls, Col. & Cores (B02) (4th)",17-May-26,41962.11,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B04-5TH-1030,"Pouring for Walls, Col. & Cores (B04) (5th)",17-May-26,379896.04,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B01-5TH-1040,"Shuttering for Slabs, Beams & Stairs (B01) (5th)",17-May-26,839983.77,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-SUB-B01-5TH-1000,Submittal for Col. & Walls Conc. Dim.  & RFT DWGs As-Built Drawing (B01) (5th),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B04-5TH-1040,"Shuttering for Slabs, Beams & Stairs (B04) (5th)",17-May-26,702157.56,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-SUB-B04-5TH-1000,Submittal for Col. & Walls Conc. Dim.  & RFT DWGs As-Built Drawing (B04) (5th),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B04-5TH-1050,"RFT for Slabs, Beams & Stairs (B04) (5th)",17-May-26,1023348.88,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B01-5TH-1050,"RFT for Slabs, Beams & Stairs (B01) (5th)",17-May-26,1250273.36,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B03-3RD-1080,Dismantling Formwork (B03) (3rd),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B03-4TH-1000,"Scaffolding works for Walls, Col. & Cores (B03) (4th)",17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-APP-B03-3RD-1010,Approval for Slabs Conc. Dim.  & RFT DWGs As-Built Drawing  (B03) (3rd),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-APP-B03-3RD-1020,Approval for Beams Conc. Dim.  & RFT DWGs As-Built Drawing  (B03) (3rd),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-APP-B03-3RD-1030,Approval for Stairs Conc. Dim.  & RFT DWGs As-Built Drawing  (B03) (3rd),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B02-4TH-1030,"Pouring for Walls, Col. & Cores (B02) (4th)",17-May-26,62943.17,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B03-4TH-1010,"RFT for Walls, Col. & Cores (B03) (4th)",17-May-26,384021.48,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-APP-B01-5TH-1000,Approval for Col. & Walls Conc. Dim.  & RFT DWGs As-Built Drawing (B01) (5th),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-APP-B04-5TH-1000,Approval for Col. & Walls Conc. Dim.  & RFT DWGs As-Built Drawing (B04) (5th),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B01-5TH-1060,"Pouring for Slabs, Beams & Stairs (B01) (5th)",17-May-26,1259975.66,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B02-4TH-1040,"Shuttering for Slabs, Beams & Stairs (B02) (4th)",17-May-26,1420116.69,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B04-5TH-1060,"Pouring for Slabs, Beams & Stairs (B04) (5th)",17-May-26,1053236.03,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-SUB-B02-4TH-1000,Submittal for Col. & Walls Conc. Dim.  & RFT DWGs As-Built Drawing (B02) (4th),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B04-5TH-1070,"Curing for Slabs, Beams & Stairs (B04) (5th)",17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-SUB-B04-5TH-1010,Submittal for Slabs Conc. Dim.  & RFT DWGs As-Built Drawing (B04) (5th),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-SUB-B04-5TH-1020,Submittal for Beams Conc. Dim.  & RFT DWGs As-Built Drawing (B04) (5th),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-SUB-B04-5TH-1030,Submittal for Stairs Conc. Dim.  & RFT DWGs As-Built Drawing (B04) (5th),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B01-6TH-1000,"Scaffolding works for Walls, Col. & Cores (B01) (6th)",17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B01-5TH-1070,"Curing for Slabs, Beams & Stairs (B01) (5th)",17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-SUB-B01-5TH-1010,Submittal for Slabs Conc. Dim.  & RFT DWGs As-Built Drawing (B01) (5th),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-SUB-B01-5TH-1020,Submittal for Beams Conc. Dim.  & RFT DWGs As-Built Drawing (B01) (5th),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-SUB-B01-5TH-1030,Submittal for Stairs Conc. Dim.  & RFT DWGs As-Built Drawing (B01) (5th),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B03-4TH-1020,"Shuttering for Walls, Col. & Cores (B03) (4th)",17-May-26,207990.75,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B02-4TH-1050,"RFT for Slabs, Beams & Stairs (B02) (4th)",17-May-26,1396302.87,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B04-6TH-1000,"Scaffolding works for Walls, Col. & Cores (B04) (6th)",17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B01-6TH-1010,"RFT for Walls, Col. & Cores (B01) (6th)",17-May-26,460777.03,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B04-6TH-1010,"RFT for Walls, Col. & Cores (B04) (6th)",17-May-26,463096.43,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B01-6TH-1020,"Shuttering for Walls, Col. & Cores (B01) (6th)",17-May-26,252110.01,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B04-6TH-1020,"Shuttering for Walls, Col. & Cores (B04) (6th)",17-May-26,253264.03,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B04-5TH-1080,Dismantling Formwork (B04) (5th),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-APP-B02-4TH-1000,Approval for Col. & Walls Conc. Dim.  & RFT DWGs As-Built Drawing (B02) (4th),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B01-5TH-1080,Dismantling Formwork (B01) (5th),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-APP-B04-5TH-1010,Approval for Slabs Conc. Dim.  & RFT DWGs As-Built Drawing (B04) (5th),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-APP-B04-5TH-1020,Approval for Beams Conc. Dim.  & RFT DWGs As-Built Drawing (B04) (5th),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-APP-B04-5TH-1030,Approval for Stairs Conc. Dim.  & RFT DWGs As-Built Drawing (B04) (5th),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-APP-B01-5TH-1010,Approval for Slabs Conc. Dim.  & RFT DWGs As-Built Drawing (B01) (5th),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-APP-B01-5TH-1020,Approval for Beams Conc. Dim.  & RFT DWGs As-Built Drawing (B01) (5th),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-APP-B01-5TH-1030,Approval for Stairs Conc. Dim.  & RFT DWGs As-Built Drawing (B01) (5th),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B03-4TH-1030,"Pouring for Walls, Col. & Cores (B03) (4th)",17-May-26,311986.13,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B04-6TH-1030,"Pouring for Walls, Col. & Cores (B04) (6th)",17-May-26,379896.04,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B01-6TH-1030,"Pouring for Walls, Col. & Cores (B01) (6th)",17-May-26,378165.01,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B04-6TH-1040,"Shuttering for Slabs, Beams & Stairs (B04) (6th)",17-May-26,702521.6,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-SUB-B04-6TH-1000,Submittal for Col. & Walls Conc. Dim.  & RFT DWGs As-Built Drawing (B04) (6th),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B03-4TH-1040,"Shuttering for Slabs, Beams & Stairs (B03) (4th)",17-May-26,908706.16,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-SUB-B03-4TH-1000,Submittal for Col. & Walls Conc. Dim.  & RFT DWGs As-Built Drawing (B03) (4th),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B01-6TH-1040,"Shuttering for Slabs, Beams & Stairs (B01) (6th)",17-May-26,839833.6,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-SUB-B01-6TH-1000,Submittal for Col. & Walls Conc. Dim.  & RFT DWGs As-Built Drawing (B01) (6th),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B02-4TH-1060,"Pouring for Slabs, Beams & Stairs (B02) (4th)",17-May-26,946744.46,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B04-6TH-1050,"RFT for Slabs, Beams & Stairs (B04) (6th)",17-May-26,1023875.56,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B03-4TH-1050,"RFT for Slabs, Beams & Stairs (B03) (4th)",17-May-26,1328776.71,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B01-6TH-1050,"RFT for Slabs, Beams & Stairs (B01) (6th)",17-May-26,1249030.06,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B02-4TH-1070,"Curing for Slabs, Beams & Stairs (B02) (4th)",17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-SUB-B02-4TH-1010,Submittal for Slabs Conc. Dim.  & RFT DWGs As-Built Drawing (B02) (4th),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-SUB-B02-4TH-1020,Submittal for Beams Conc. Dim.  & RFT DWGs As-Built Drawing (B02) (4th),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-SUB-B02-4TH-1030,Submittal for Stairs Conc. Dim.  & RFT DWGs As-Built Drawing (B02) (4th),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B04-6TH-1060,"Pouring for Slabs, Beams & Stairs (B04) (6th)",17-May-26,1053782.4,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B04-6TH-1070,"Curing for Slabs, Beams & Stairs (B04) (6th)",17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-SUB-B04-6TH-1010,Submittal for Slabs Conc. Dim.  & RFT DWGs As-Built Drawing (B04) (6th),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-SUB-B04-6TH-1020,Submittal for Beams Conc. Dim.  & RFT DWGs As-Built Drawing (B04) (6th),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-SUB-B04-6TH-1030,Submittal for Stairs Conc. Dim.  & RFT DWGs As-Built Drawing (B04) (6th),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-APP-B04-6TH-1000,Approval for Col. & Walls Conc. Dim.  & RFT DWGs As-Built Drawing (B04) (6th),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-APP-B03-4TH-1000,Approval for Col. & Walls Conc. Dim.  & RFT DWGs As-Built Drawing  (B03) (4th),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-APP-B01-6TH-1000,Approval for Col. & Walls Conc. Dim.  & RFT DWGs As-Built Drawing (B01) (6th),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B01-6TH-1060,"Pouring for Slabs, Beams & Stairs (B01) (6th)",17-May-26,1259750.39,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B04-7TH-1000,"Scaffolding works for Walls, Col. & Cores (B04) (7th)",17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B02-4TH-1080,Dismantling Formwork (B02) (4th),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B01-6TH-1070,"Curing for Slabs, Beams & Stairs (B01) (6th)",17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B01-7TH-1000,"Scaffolding works for Walls, Col. & Cores (B01) (7th)",17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-SUB-B01-6TH-1010,Submittal for Slabs Conc. Dim.  & RFT DWGs As-Built Drawing (B01) (6th),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-SUB-B01-6TH-1020,Submittal for Beams Conc. Dim.  & RFT DWGs As-Built Drawing (B01) (6th),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-SUB-B01-6TH-1030,Submittal for Stairs Conc. Dim.  & RFT DWGs As-Built Drawing (B01) (6th),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B02-RF-1000,"Scaffolding works for Walls, Col. & Cores (B02) (RF)",17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B03-4TH-1060,"Pouring for Slabs, Beams & Stairs (B03) (4th)",17-May-26,1363059.24,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B04-7TH-1010,"RFT for Walls, Col. & Cores (B04) (7th)",17-May-26,463096.43,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-APP-B02-4TH-1010,Approval for Slabs Conc. Dim.  & RFT DWGs As-Built Drawing (B02) (4th),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-APP-B02-4TH-1020,Approval for Beams Conc. Dim.  & RFT DWGs As-Built Drawing (B02) (4th),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-APP-B02-4TH-1030,Approval for Stairs Conc. Dim.  & RFT DWGs As-Built Drawing (B02) (4th),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B01-7TH-1010,"RFT for Walls, Col. & Cores (B01) (7th)",17-May-26,460777.03,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B02-RF-1010,"RFT for Walls, Col. & Cores (B02) (RF)",17-May-26,98462.88,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B03-4TH-1070,"Curing for Slabs, Beams & Stairs (B03) (4th)",17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B04-7TH-1020,"Shuttering for Walls, Col. & Cores (B04) (7th)",17-May-26,253264.03,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-SUB-B03-4TH-1010,Submittal for Slabs Conc. Dim.  & RFT DWGs As-Built Drawing (B03) (4th),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-SUB-B03-4TH-1020,Submittal for Beams Conc. Dim.  & RFT DWGs As-Built Drawing (B03) (4th),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-SUB-B03-4TH-1030,Submittal for Stairs Conc. Dim.  & RFT DWGs As-Built Drawing (B03) (4th),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-APP-B04-6TH-1030,Approval for Stairs Conc. Dim.  & RFT DWGs As-Built Drawing (B04) (6th),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B01-7TH-1020,"Shuttering for Walls, Col. & Cores (B01) (7th)",17-May-26,252110.01,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B02-RF-1020,"Shuttering for Walls, Col. & Cores (B02) (RF)",17-May-26,14384.92,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B04-6TH-1080,Dismantling Formwork (B04) (6th),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-APP-B04-6TH-1010,Approval for Slabs Conc. Dim.  & RFT DWGs As-Built Drawing (B04) (6th),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-APP-B04-6TH-1020,Approval for Beams Conc. Dim.  & RFT DWGs As-Built Drawing (B04) (6th),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B02-RF-1030,"Pouring for Walls, Col. & Cores (B02) (RF)",17-May-26,21577.38,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B04-7TH-1030,"Pouring for Walls, Col. & Cores (B04) (7th)",17-May-26,379896.04,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B04-7TH-1040,"Shuttering for Slabs, Beams & Stairs (B04) (7th)",17-May-26,708261.94,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-SUB-B04-7TH-1000,Submittal for Col. & Walls Conc. Dim.  & RFT DWGs As-Built Drawing (B04) (7th),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B02-RF-1040,"Shuttering for Slabs, Beams  (B02) (RF)",17-May-26,102501.45,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-SUB-B02-RF-1000,Submittal for Col. & Walls Conc. Dim.  & RFT DWGs As-Built Drawing (B02) (RF),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B01-6TH-1080,Dismantling Formwork (B01) (6th),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B01-7TH-1030,"Pouring for Walls, Col. & Cores (B01) (7th)",17-May-26,378165.01,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B04-7TH-1050,"RFT for Slabs, Beams & Stairs (B04) (7th)",17-May-26,1032180.5,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-APP-B01-6TH-1010,Approval for Slabs Conc. Dim.  & RFT DWGs As-Built Drawing (B01) (6th),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-APP-B01-6TH-1020,Approval for Beams Conc. Dim.  & RFT DWGs As-Built Drawing (B01) (6th),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-APP-B01-6TH-1030,Approval for Stairs Conc. Dim.  & RFT DWGs As-Built Drawing (B01) (6th),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B01-7TH-1040,"Shuttering for Slabs, Beams & Stairs (B01) (7th)",17-May-26,840104.5,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-SUB-B01-7TH-1000,Submittal for Col. & Walls Conc. Dim.  & RFT DWGs As-Built Drawing (B01) (7th),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B03-4TH-1080,Dismantling Formwork (B03) (4th),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B02-RF-1050,"RFT for Slabs, Beams  (B02) (RF)",17-May-26,135611.77,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B03-RF-1000,"Scaffolding works for Walls, Col. & Cores (B03) (RF)",17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-APP-B03-4TH-1010,Approval for Slabs Conc. Dim.  & RFT DWGs As-Built Drawing  (B03) (4th),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-APP-B03-4TH-1020,Approval for Beams Conc. Dim.  & RFT DWGs As-Built Drawing  (B03) (4th),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-APP-B03-4TH-1030,Approval for Stairs Conc. Dim.  & RFT DWGs As-Built Drawing  (B03) (4th),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B01-7TH-1050,"RFT for Slabs, Beams & Stairs (B01) (7th)",17-May-26,1250029.31,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B03-RF-1010,"RFT for Walls, Col. & Cores (B03) (RF)",17-May-26,131645.36,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B02-RF-1060,"Pouring for Slabs, Beams  (B02) (RF)",17-May-26,68330.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B03-RF-1020,"Shuttering for Walls, Col. & Cores (B03) (RF)",17-May-26,70928.13,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B04-7TH-1060,"Pouring for Slabs, Beams & Stairs (B04) (7th)",17-May-26,1062392.9,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B02-RF-1070,"Curing for Slabs, Beams  (B02) (RF)",17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B04-7TH-1070,"Curing for Slabs, Beams & Stairs (B04) (7th)",17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B03-RF-1030,"Pouring for Walls, Col. & Cores (B03) (RF)",17-May-26,106392.2,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-SUB-B04-7TH-1010,Submittal for Slabs Conc. Dim.  & RFT DWGs As-Built Drawing  (B04) (7th),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-SUB-B04-7TH-1020,Submittal for Beams Conc. Dim.  & RFT DWGs As-Built Drawing (B04) (7th),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-SUB-B04-7TH-1030,Submittal for Stairs Conc. Dim.  & RFT DWGs As-Built Drawing (B04) (7th),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-SUB-B02-RF-1010,Submittal for Slabs Conc. Dim.  & RFT DWGs As-Built Drawing (B02) (RF),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-SUB-B02-RF-1020,Submittal for Beams Conc. Dim.  & RFT DWGs As-Built Drawing (B02) (RF),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-APP-B04-7TH-1000,Approval for Col. & Walls Conc. Dim.  & RFT DWGs As-Built Drawing (B04) (7th),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B04-8TH-1000,"Scaffolding works for Walls, Col. & Cores (B04) (8th)",17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B03-RF-1040,"Shuttering for Slabs, Beams  (B03) (RF)",17-May-26,105708.2,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-SUB-B03-RF-1000,Submittal for Col. & Walls Conc. Dim.  & RFT DWGs As-Built Drawing (B03) (RF),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-APP-B02-RF-1000,Approval for Col. & Walls Conc. Dim.  & RFT DWGs As-Built Drawing (B02) (RF),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B04-8TH-1010,"RFT for Walls, Col. & Cores (B04) (8th)",17-May-26,463096.43,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B01-7TH-1060,"Pouring for Slabs, Beams & Stairs (B01) (7th)",17-May-26,1260156.74,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-APP-B01-7TH-1000,Approval for Col. & Walls Conc. Dim.  & RFT DWGs As-Built Drawing (B01) (7th),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B03-RF-1050,"RFT for Slabs, Beams  (B03) (RF)",17-May-26,143819.76,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B04-8TH-1020,"Shuttering for Walls, Col. & Cores (B04) (8th)",17-May-26,253264.03,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B01-7TH-1070,"Curing for Slabs, Beams & Stairs (B01) (7th)",17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B01-8TH-1000,"Scaffolding works for Walls, Col. & Cores (B01) (8th)",17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-SUB-B01-7TH-1010,Submittal for Slabs Conc. Dim.  & RFT DWGs As-Built Drawing (B01) (7th),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-SUB-B01-7TH-1020,Submittal for Beams Conc. Dim.  & RFT DWGs As-Built Drawing (B01) (7th),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-SUB-B01-7TH-1030,Submittal for Stairs Conc. Dim.  & RFT DWGs As-Built Drawing (B01) (7th),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B03-RF-1060,"Pouring for Slabs, Beams  (B03) (RF)",17-May-26,70472.14,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B01-8TH-1010,"RFT for Walls, Col. & Cores (B01) (8th)",17-May-26,460777.03,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B02-RF-1080,Dismantling Formwork (B02) (RF),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B04-7TH-1080,Dismantling Formwork (B04) (7th),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B03-RF-1070,"Curing for Slabs, Beams  (B03) (RF)",17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-SUB-B03-RF-1010,Submittal for Slabs Conc. Dim.  & RFT DWGs As-Built Drawing (B03) (RF),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-SUB-B03-RF-1020,Submittal for Beams Conc. Dim.  & RFT DWGs As-Built Drawing (B03) (RF),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B01-8TH-1020,"Shuttering for Walls, Col. & Cores (B01) (8th)",17-May-26,252110.01,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,HO-1020,Snag list for B02,17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B04-8TH-1030,"Pouring for Walls, Col. & Cores (B04) (8th)",17-May-26,379896.04,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-APP-B02-RF-1010,Approval for Slabs Conc. Dim.  & RFT DWGs As-Built Drawing (B02) (RF),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-APP-B02-RF-1020,Approval for Beams Conc. Dim.  & RFT DWGs As-Built Drawing (B02) (RF),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-APP-B04-7TH-1010,Approval for Slabs Conc. Dim.  & RFT DWGs As-Built Drawing (B04) (7th),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-APP-B04-7TH-1020,Approval for Beams Conc. Dim.  & RFT DWGs As-Built Drawing (B04) (7th),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-APP-B04-7TH-1030,Approval for Stairs Conc. Dim.  & RFT DWGs As-Built Drawing (B04) (7th),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B04-8TH-1040,"Shuttering for Slabs, Beams & Stairs (B04) (8th)",17-May-26,684392.83,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-SUB-B04-8TH-1000,Submittal for Col. & Walls Conc. Dim.  & RFT DWGs As-Built Drawing (B04) (8th),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-APP-B03-RF-1000,Approval for Col. & Walls Conc. Dim.  & RFT DWGs As-Built Drawing  (B03) (RF),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B04-8TH-1050,"RFT for Slabs, Beams & Stairs (B04) (8th)",17-May-26,1004314.01,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B01-8TH-1030,"Pouring for Walls, Col. & Cores (B01) (8th)",17-May-26,378165.01,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B01-7TH-1080,Dismantling Formwork (B01) (7th),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B01-8TH-1040,"Shuttering for Slabs, Beams & Stairs (B01) (8th)",17-May-26,805974.8,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-SUB-B01-8TH-1000,Submittal for Col. & Walls Conc. Dim.  & RFT DWGs As-Built Drawing (B01) (8th),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-APP-B01-7TH-1010,Approval for Slabs Conc. Dim.  & RFT DWGs As-Built Drawing (B01) (7th),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-APP-B01-7TH-1020,Approval for Beams Conc. Dim.  & RFT DWGs As-Built Drawing (B01) (7th),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-APP-B01-7TH-1030,Approval for Stairs Conc. Dim.  & RFT DWGs As-Built Drawing (B01) (7th),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B03-RF-1080,Dismantling Formwork (B03) (RF),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,HO-1030,Snag list for B03,17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B01-8TH-1050,"RFT for Slabs, Beams & Stairs (B01) (8th)",17-May-26,1181141.71,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B04-8TH-1060,"Pouring for Slabs, Beams & Stairs (B04) (8th)",17-May-26,1026589.25,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B04-8TH-1070,"Curing for Slabs, Beams & Stairs (B04) (8th)",17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-SUB-B04-8TH-1010,Submittal for Slabs Conc. Dim.  & RFT DWGs As-Built Drawing (B04) (8th),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-SUB-B04-8TH-1020,Submittal for Beams Conc. Dim.  & RFT DWGs As-Built Drawing (B04) (8th),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-SUB-B04-8TH-1030,Submittal for Stairs Conc. Dim.  & RFT DWGs As-Built Drawing (B04) (8th),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-APP-B03-RF-1010,Approval for Slabs Conc. Dim.  & RFT DWGs As-Built Drawing  (B03) (RF),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-APP-B03-RF-1020,Approval for Beams Conc. Dim.  & RFT DWGs As-Built Drawing  (B03) (RF),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B04-RF-1000,"Scaffolding works for Walls, Col. & Cores (B04) (RF)",17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-APP-B04-8TH-1000,Approval for Col. & Walls Conc. Dim.  & RFT DWGs As-Built Drawing (B04) (8th),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B04-RF-1010,"RFT for Walls, Col. & Cores (B04) (RF)",17-May-26,160083.42,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B04-RF-1020,"Shuttering for Walls, Col. & Cores (B04) (RF)",17-May-26,90857.25,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B04-RF-1030,"Pouring for Walls, Col. & Cores (B04) (RF)",17-May-26,136285.88,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B01-8TH-1060,"Pouring for Slabs, Beams & Stairs (B01) (8th)",17-May-26,1208962.2,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B04-RF-1040,"Shuttering for Slabs, Beams (B04) (RF)",17-May-26,74908.04,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-SUB-B04-RF-1000,Submittal for Col. & Walls Conc. Dim.  & RFT DWGs As-Built Drawing (B04) (RF),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B01-8TH-1070,"Curing for Slabs, Beams & Stairs (B01) (8th)",17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-SUB-B01-8TH-1010,Submittal for Slabs Conc. Dim.  & RFT DWGs As-Built Drawing (B01) (8th),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-SUB-B01-8TH-1020,Submittal for Beams Conc. Dim.  & RFT DWGs As-Built Drawing (B01) (8th),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-SUB-B01-8TH-1030,Submittal for Stairs Conc. Dim.  & RFT DWGs As-Built Drawing (B01) (8th),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-APP-B01-8TH-1000,Approval for Col. & Walls Conc. Dim.  & RFT DWGs As-Built Drawing (B01) (8th),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B04-RF-1050,"RFT for Slabs, Beams  (B04) (RF)",17-May-26,157798.92,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B04-8TH-1080,Dismantling Formwork (B04) (8th),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B01-9TH-1000,"Scaffolding works for Walls, Col. & Cores (B01) (RF)",17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B04-RF-1060,"Pouring for Slabs, Beams  (B04) (RF)",17-May-26,112362.06,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B01-9TH-1010,"RFT for Walls, Col. & Cores (B01) (RF)",17-May-26,159193.84,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B04-RF-1070,"Curing for Slabs, Beams  (B04) (RF)",17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-SUB-B04-RF-1010,Submittal for Slabs Conc. Dim.  & RFT DWGs As-Built Drawing (B04) (RF),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-SUB-B04-RF-1020,Submittal for Beams Conc. Dim.  & RFT DWGs As-Built Drawing (B04) (RF),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-APP-B04-8TH-1010,Approval for Slabs Conc. Dim.  & RFT DWGs As-Built Drawing (B04) (8th),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-APP-B04-8TH-1020,Approval for Beams Conc. Dim.  & RFT DWGs As-Built Drawing (B04) (8th),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-APP-B04-8TH-1030,Approval for Stairs Conc. Dim.  & RFT DWGs As-Built Drawing (B04) (8th),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B01-9TH-1020,"Shuttering for Walls, Col. & Cores (B01) (RF)",17-May-26,82823.46,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B01-9TH-1030,"Pouring for Walls, Col. & Cores (B01) (RF)",17-May-26,124235.19,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B01-9TH-1040,"Shuttering for Slabs, Beams  (B01) (RF)",17-May-26,79206.41,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-SUB-B01-RF-1000,Submittal for Col. & Walls Conc. Dim.  & RFT DWGs As-Built Drawing (B01) (RF),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B01-9TH-1050,"RFT for Slabs, Beams  (B01) (RF)",17-May-26,151645.08,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B04-RF-1080,Dismantling Formwork (B04) (RF),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-APP-B04-RF-1000,Approval for Col. & Walls Conc. Dim.  & RFT DWGs As-Built Drawing (B04) (RF),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B01-8TH-1080,Dismantling Formwork (B01) (8th),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B01-9TH-1060,"Pouring for Slabs, Beams  (B01) (RF)",17-May-26,118809.61,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-APP-B01-8TH-1010,Approval for Slabs Conc. Dim.  & RFT DWGs As-Built Drawing (B01) (8th),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-APP-B01-8TH-1020,Approval for Beams Conc. Dim.  & RFT DWGs As-Built Drawing (B01) (8th),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-APP-B01-8TH-1030,Approval for Stairs Conc. Dim.  & RFT DWGs As-Built Drawing (B01) (8th),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B01-9TH-1070,"Curing for Slabs, Beams  (B01) (RF)",17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-SUB-B01-RF-1010,Submittal for Slabs Conc. Dim.  & RFT DWGs As-Built Drawing (B01) (RF),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-SUB-B01-RF-1020,Submittal for Beams Conc. Dim.  & RFT DWGs As-Built Drawing (B01) (RF),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-APP-B04-RF-1010,Approval for Slabs Conc. Dim.  & RFT DWGs As-Built Drawing (B04) (RF),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-APP-B04-RF-1020,Approval for  Beams Conc. Dim.  & RFT DWGs As-Built Drawing (B04) (RF),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-APP-B01-RF-1000,Approval for Col. & Walls Conc. Dim.  & RFT DWGs As-Built Drawing (B01) (RF),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,CON-B01-9TH-1080,Dismantling Formwork (B01) (RF),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,HO-1040,Snag list for B04,17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-APP-B01-RF-1010,Approval for Slabs Conc. Dim.  & RFT DWGs As-Built Drawing (B01) (RF),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,AB-APP-B01-RF-1020,Approval for Beams Conc. Dim.  & RFT DWGs As-Built Drawing (B01) (RF),17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,HO-1010,Snag list for B01,17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,HO-1050,Snag list for As-Built,17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,HO-1000,Demobilization,17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+The Big -P.01-UP-20-April-26,KD-MS-1050,Project Finish Date,17-May-26,0.0,0.0,0.0,0.0,0,0.0,0,0.0

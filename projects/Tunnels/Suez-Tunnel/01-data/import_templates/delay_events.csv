@@ -1,0 +1,6 @@
+﻿project_id,Primary Event ID,Activity ID,Activity Name,BL Start,BL Finish,Start,Finish,Delayed duration,Overlap Start,Overlap Finish,BL Critical Path,Current Critical Path,Delayed duration after overlap
+Suez-Tunnel,Delay in employer free issue steel supply,CON-ST-EXC-1010,Open cut excavation and shoring,29-Oct-25,27-Jan-26,14-Nov-25,22-Feb-26,-26,14-Nov-25,22-Feb-26,Yes,Yes,26
+Suez-Tunnel,Late IFC / design clarification,CON-ST-RFT-1020,RFT for base slab reinforcement,28-Dec-25,25-Jan-26,18-Jan-26,26-Feb-26,-32,18-Jan-26,26-Feb-26,Yes,No,32
+Suez-Tunnel,Delayed RFI response,CON-ST-CON-1030,Concrete casting for base slab,28-Jan-26,21-Feb-26,23-Feb-26,31-Mar-26,-38,23-Feb-26,31-Mar-26,Yes,Yes,38
+Suez-Tunnel,Access constraint and traffic diversion,CON-ST-WALL-1040,Tunnel wall reinforcement and formwork,26-Feb-26,27-Apr-26,29-Mar-26,10-Jun-26,-44,29-Mar-26,10-Jun-26,No,No,44
+Suez-Tunnel,MEP sleeve coordination delay,CON-ST-SLAB-1050,Roof slab reinforcement and concrete,27-Apr-26,1-Jul-26,2-Jun-26,20-Aug-26,-50,2-Jun-26,20-Aug-26,No,Yes,43

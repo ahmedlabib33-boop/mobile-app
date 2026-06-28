@@ -1,0 +1,4 @@
+﻿risk_id,project_id,risk_title,risk_category,probability,time_impact_days,cost_impact,response_strategy,owner,status,due_date
+R-001,Suez-Tunnel,Steel delivery delay,Schedule,high,yes,yes,Mitigate,Project manager,open,30-Jun-26
+R-002,Suez-Tunnel,Late design clarification and IFC revisions,Engineering,medium,yes,yes,Transfer,Technical office manager,open,15-Jul-26
+R-003,Suez-Tunnel,Cashflow pressure due to delayed certification,Commercial,medium,no,yes,Mitigate,Commercial manager,monitoring,31-Jul-26

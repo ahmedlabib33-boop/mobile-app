@@ -1,0 +1,18 @@
+﻿project_id,activity_id,update_date,planned_progress,actual_progress,planned_value,earned_value,actual_cost,notes
+Suez-Tunnel,KD-MS-1000,31-May-26,1.00,1.00,15060240.96,15060240.96,15963855.42,Progress aligned with update narrative
+Suez-Tunnel,KD-MS-1010,31-May-26,1.00,1.00,15060240.96,15060240.96,15963855.42,Progress aligned with update narrative
+Suez-Tunnel,KD-MS-1020,31-May-26,1.00,1.00,15060240.96,15060240.96,15963855.42,Progress aligned with update narrative
+Suez-Tunnel,KD-MOB-1000,31-May-26,1.00,1.00,30120481.93,30120481.93,31927710.84,Progress aligned with update narrative
+Suez-Tunnel,SUR-ST-1010,31-May-26,1.00,1.00,30120481.93,30120481.93,31927710.84,Progress aligned with update narrative
+Suez-Tunnel,E-SUB-ST-1020,31-May-26,1.00,0.83,45180722.89,37500000.00,39750000.00,Critical activity behind planned curve
+Suez-Tunnel,E-APP-ST-1020,31-May-26,0.80,0.66,36144578.31,30000000.00,31800000.00,Critical activity behind planned curve
+Suez-Tunnel,P-MDEL-ST-1000,31-May-26,0.72,0.60,54216867.47,45000000.00,47700000.00,Critical activity behind planned curve
+Suez-Tunnel,CON-ST-EXC-1010,31-May-26,0.82,0.68,123493975.90,102500000.00,108650000.00,Critical activity behind planned curve
+Suez-Tunnel,CON-ST-RFT-1020,31-May-26,0.60,0.50,90361445.78,75000000.00,79500000.00,Critical activity behind planned curve
+Suez-Tunnel,CON-ST-CON-1030,31-May-26,0.42,0.35,63253012.05,52500000.00,55650000.00,Progress aligned with update narrative
+Suez-Tunnel,CON-ST-WALL-1040,31-May-26,0.25,0.21,37650602.41,31250000.00,33125000.00,Progress aligned with update narrative
+Suez-Tunnel,CON-ST-SLAB-1050,31-May-26,0.05,0.04,7530120.48,6250000.00,6625000.00,Progress aligned with update narrative
+Suez-Tunnel,MEP-ST-DRN-1060,31-May-26,0.00,0.00,0.00,0.00,0.00,Progress aligned with update narrative
+Suez-Tunnel,FIN-ST-RD-1070,31-May-26,0.00,0.00,0.00,0.00,0.00,Progress aligned with update narrative
+Suez-Tunnel,TST-ST-1080,31-May-26,0.00,0.00,0.00,0.00,0.00,Progress aligned with update narrative
+Suez-Tunnel,KD-MS-9000,31-May-26,0.00,0.00,0.00,0.00,0.00,Progress aligned with update narrative

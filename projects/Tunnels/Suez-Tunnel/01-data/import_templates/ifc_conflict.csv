@@ -1,0 +1,5 @@
+﻿project_id,Activity ID,Activity Name,Original Duration,Start,Finish,Approved structural slab shop drawings,Re-Start,Finish.1,Delayed days,Note
+Suez-Tunnel,E-SUB-ST-1020,Tunnel alignment shop drawings,18,6-Oct-25,26-Nov-25,30-Apr-26,1-May-26,19-May-26,-190,Mock record: revised IFC/design clarification affected tunnel sequence; restart allowed after approved drawings and coordination closure.
+Suez-Tunnel,E-APP-ST-1020,Approval of tunnel alignment shop drawings,18,12-Nov-25,27-Dec-25,30-Apr-26,3-May-26,21-May-26,-165,Mock record: revised IFC/design clarification affected tunnel sequence; restart allowed after approved drawings and coordination closure.
+Suez-Tunnel,CON-ST-EXC-1010,Open cut excavation and shoring,18,29-Oct-25,20-Feb-26,30-Apr-26,5-May-26,23-May-26,-116,Mock record: revised IFC/design clarification affected tunnel sequence; restart allowed after approved drawings and coordination closure.
+Suez-Tunnel,CON-ST-RFT-1020,RFT for base slab reinforcement,18,28-Dec-25,22-Feb-26,30-Apr-26,7-May-26,25-May-26,-120,Mock record: revised IFC/design clarification affected tunnel sequence; restart allowed after approved drawings and coordination closure.

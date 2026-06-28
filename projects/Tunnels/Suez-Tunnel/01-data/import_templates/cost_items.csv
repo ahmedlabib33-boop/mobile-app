@@ -1,0 +1,18 @@
+﻿project_id,wbs_id,cost_code,activity_name,budget_cost,committed_cost,actual_cost,forecast_cost
+Suez-Tunnel,Suez-Tunnel.MILESTONE,M-MS-1000,Project Start Date,15060240.96,15060240.96,15512048.19,16114457.83
+Suez-Tunnel,Suez-Tunnel.MILESTONE,M-MS-1010,Contract Agreement,15060240.96,15060240.96,15512048.19,16114457.83
+Suez-Tunnel,Suez-Tunnel.MILESTONE,M-MS-1020,IFC Drawing Package,15060240.96,15060240.96,15512048.19,16114457.83
+Suez-Tunnel,Suez-Tunnel.MOBILIZATION,M-MOB-1000,Mobilization and temporary facilities,30120481.93,30120481.93,31024096.39,32228915.66
+Suez-Tunnel,Suez-Tunnel.SURVEY,SUR-ST-1010,Topographic survey and utility detection,30120481.93,30120481.93,31024096.39,32228915.66
+Suez-Tunnel,Suez-Tunnel.ENGINEERING,E-SUB-ST-1020,Tunnel alignment shop drawings,45180722.89,37500000.00,38625000.00,48343373.49
+Suez-Tunnel,Suez-Tunnel.ENGINEERING,E-APP-ST-1020,Approval of tunnel alignment shop drawings,45180722.89,30000000.00,30900000.00,48343373.49
+Suez-Tunnel,Suez-Tunnel.PROCUREMENT,P-MDEL-ST-1000,Delivery of waterproofing membrane and steel,75301204.82,45000000.00,46350000.00,80572289.16
+Suez-Tunnel,Suez-Tunnel.CONSTRUCTION,C-ST-EXC-1010,Open cut excavation and shoring,150602409.64,102500000.00,105575000.00,161144578.31
+Suez-Tunnel,Suez-Tunnel.CONSTRUCTION,C-ST-RFT-1020,RFT for base slab reinforcement,150602409.64,75000000.00,77250000.00,161144578.31
+Suez-Tunnel,Suez-Tunnel.CONSTRUCTION,C-ST-C-1030,Concrete casting for base slab,150602409.64,52500000.00,54075000.00,161144578.31
+Suez-Tunnel,Suez-Tunnel.CONSTRUCTION,C-ST-WALL-1040,Tunnel wall reinforcement and formwork,150602409.64,31250000.00,32187500.00,161144578.31
+Suez-Tunnel,Suez-Tunnel.CONSTRUCTION,C-ST-SLAB-1050,Roof slab reinforcement and concrete,150602409.64,22590361.45,6437500.00,161144578.31
+Suez-Tunnel,Suez-Tunnel.MEP,MEP-ST-DRN-1060,Drainage and pump station rough-in,90361445.78,13554216.87,0.00,96686746.99
+Suez-Tunnel,Suez-Tunnel.FINISHING,FIN-ST-RD-1070,Road reinstatement and asphalt works,90361445.78,13554216.87,0.00,96686746.99
+Suez-Tunnel,Suez-Tunnel.TESTING,TST-ST-1080,Integrated testing and commissioning,30120481.93,4518072.29,0.00,32228915.66
+Suez-Tunnel,Suez-Tunnel.MILESTONE,M-MS-9000,Substantial Completion,15060240.96,2259036.14,0.00,16114457.83

@@ -1,0 +1,18 @@
+﻿Actual Duration,Activity ID,Activity Name,WBS,project_id,Original Duration,Remaining Duration,BL Project Start,BL Project Finish,Start,Finish,Free Float,Total Float,Variance - BL1 Nonlabor Units,Variance - BL Project Nonlabor Units,Actual Nonlabor Units,Remaining Nonlabor Units,Predecessors,Successors,Budgeted Nonlabor Units,Activity % Complete,Critical,Longest Path
+0,SM-MS-1000,Project Start Milestone,Sophia-Mall.BL.MI,Sophia-Mall,0,0,15-Feb-26,20-Aug-27,15-Feb-26 A,15-Feb-26 A,0,0,0,0,0,0,,"SM-MOB-1010, SM-ENG-1010",0,100%,Yes,Yes
+14,SM-MOB-1010,Site mobilization and temporary facilities,Sophia-Mall.BL.MOB,Sophia-Mall,14,0,15-Feb-26,20-Aug-27,18-Feb-26 A,4-Mar-26 A,0,0,0,0,0,0,SM-MS-1000,SM-Z01-EXC-1010,0,100%,Yes,Yes
+7,SM-PROC-1020,Long lead procurement and material approval cycle,Sophia-Mall.BL.PROC,Sophia-Mall,20,13,15-Feb-26,20-Aug-27,12-Mar-26,1-Apr-26,0,0,-5,-8,0.0,0.0,SM-ENG-1010,,0,65%,Yes,Yes
+6,SM-Z01-EXC-1010,Excavation and formation works - Podium,Sophia-Mall.BL.CW.Z01.EARTH,Sophia-Mall,18,12,15-Feb-26,20-Aug-27,6-Apr-26,24-Apr-26,0,0,-5,-8,0.0,0.0,SM-MOB-1010,SM-Z01-RFT-1020,0,35%,Yes,Yes
+0,SM-Z01-RFT-1020,Reinforcement and embedded item release - Podium,Sophia-Mall.BL.CW.Z01.STR,Sophia-Mall,12,12,15-Feb-26,20-Aug-27,24-Apr-26,6-May-26,0,0,0,0,0,138,SM-Z01-EXC-1010,SM-Z01-CON-1030,138,15%,Yes,Yes
+0,SM-Z01-CON-1030,Concrete casting and curing - Podium,Sophia-Mall.BL.CW.Z01.STR,Sophia-Mall,8,8,15-Feb-26,20-Aug-27,7-May-26,15-May-26,0,0,0,0,0,55,SM-Z01-RFT-1020,SM-Z02-EXC-1010,55,0%,Yes,Yes
+0,SM-Z02-EXC-1010,Excavation and formation works - Retail Block A,Sophia-Mall.BL.CW.Z02.EARTH,Sophia-Mall,18,18,15-Feb-26,20-Aug-27,21-May-26,8-Jun-26,0,0,0,0,0,0,SM-Z01-CON-1030,SM-Z02-RFT-1020,0,0%,Yes,Yes
+0,SM-Z02-RFT-1020,Reinforcement and embedded item release - Retail Block A,Sophia-Mall.BL.CW.Z02.STR,Sophia-Mall,12,12,15-Feb-26,20-Aug-27,8-Jun-26,20-Jun-26,0,0,0,0,0,156,SM-Z02-EXC-1010,SM-Z02-CON-1030,156,0%,Yes,Yes
+0,SM-Z02-CON-1030,Concrete casting and curing - Retail Block A,Sophia-Mall.BL.CW.Z02.STR,Sophia-Mall,8,8,15-Feb-26,20-Aug-27,21-Jun-26,29-Jun-26,0,0,0,0,0,65,SM-Z02-RFT-1020,SM-Z03-EXC-1010,65,0%,Yes,Yes
+0,SM-Z03-EXC-1010,Excavation and formation works - Retail Block B,Sophia-Mall.BL.CW.Z03.EARTH,Sophia-Mall,18,18,15-Feb-26,20-Aug-27,5-Jul-26,23-Jul-26,0,0,0,0,0,0,SM-Z02-CON-1030,SM-Z03-RFT-1020,0,0%,Yes,Yes
+0,SM-Z03-RFT-1020,Reinforcement and embedded item release - Retail Block B,Sophia-Mall.BL.CW.Z03.STR,Sophia-Mall,12,12,15-Feb-26,20-Aug-27,23-Jul-26,4-Aug-26,0,0,0,0,0,174,SM-Z03-EXC-1010,SM-Z03-CON-1030,174,0%,Yes,Yes
+0,SM-Z03-CON-1030,Concrete casting and curing - Retail Block B,Sophia-Mall.BL.CW.Z03.STR,Sophia-Mall,8,8,15-Feb-26,20-Aug-27,5-Aug-26,13-Aug-26,0,0,0,0,0,75,SM-Z03-RFT-1020,SM-Z04-EXC-1010,75,0%,Yes,Yes
+0,SM-Z04-RFT-1020,Reinforcement and embedded item release - Cinema Zone,Sophia-Mall.BL.CW.Z04.STR,Sophia-Mall,12,12,15-Feb-26,20-Aug-27,6-Sep-26,18-Sep-26,0,0,0,0,0,192,SM-Z04-EXC-1010,SM-Z04-CON-1030,192,0%,Yes,Yes
+0,SM-Z04-CON-1030,Concrete casting and curing - Cinema Zone,Sophia-Mall.BL.CW.Z04.STR,Sophia-Mall,8,8,15-Feb-26,20-Aug-27,19-Sep-26,27-Sep-26,0,0,0,0,0,85,SM-Z04-RFT-1020,SM-MEP-2010,85,0%,Yes,Yes
+0,SM-MEP-2010,MEP first-fix coordination and embedded systems clearance,Sophia-Mall.BL.MEP.COR,Sophia-Mall,30,30,15-Feb-26,20-Aug-27,13-Oct-26,12-Nov-26,0,0,0,0,0,0,SM-Z04-CON-1030,SM-FIN-3010,0,0%,Yes,Yes
+0,SM-FIN-3010,"Testing, commissioning and handover preparation",Sophia-Mall.BL.T&C,Sophia-Mall,20,20,15-Feb-26,20-Aug-27,17-Nov-26,7-Dec-26,0,0,0,0,0,0,SM-MEP-2010,SM-MS-9000,0,0%,Yes,Yes
+0,SM-MS-9000,Project Finish Milestone,Sophia-Mall.BL.MI,Sophia-Mall,0,0,15-Feb-26,20-Aug-27,20-Aug-27,20-Aug-27,0,0,0,0,0,0,SM-FIN-3010,,0,0%,Yes,Yes

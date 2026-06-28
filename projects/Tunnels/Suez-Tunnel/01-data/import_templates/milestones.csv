@@ -1,0 +1,6 @@
+﻿milestone_id,project_id,activity_name,planned_date,forecast_date,actual_date,milestone_contractual_type
+KD-MS-1000,Suez-Tunnel,Project Start Date,1-Sep-25,1-Sep-25,1-Sep-25,Start milestone
+KD-MS-1010,Suez-Tunnel,Contract Agreement,1-Sep-25,1-Sep-25,1-Sep-25,Start milestone
+KD-MS-1020,Suez-Tunnel,IFC Drawing Package,8-Sep-25,24-Sep-25,8-Sep-25,Key milestone
+KD-MS-5000,Suez-Tunnel,Structural Works Completion,1-Sep-26,19-Oct-26,,Interim milestone
+KD-MS-9000,Suez-Tunnel,Substantial Completion,28-Feb-27,18-May-27,,Finish milestone

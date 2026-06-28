@@ -1,0 +1,3 @@
+﻿risk_id,project_id,risk_title,risk_category,probability,time_impact_days,cost_impact,response_strategy,owner,status,due_date
+1,The Big -P.01-UP-20-April-26,Steel delivery delay,Schedule,high,yes,no,Avoid,Project manager,open,30-May-26
+0,The Big -P.01-UP-20-April-26,Deploting MEP sub contractor,Schedule,high,yes,yes,Transfer,Project manager,Closed,28-Feb-26

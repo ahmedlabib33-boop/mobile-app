@@ -1,0 +1,16 @@
+﻿project_id,Activity ID,Activity Name,Predecessors,Predecessor Details,Successors
+Suez-Tunnel-P.01-UP-26-Jun-26,CON-ST-PE-FORM-1040,Formwork readiness before Portal raft reinforcement (Portal-East),E-APP-ST-PE-1020,E-APP-ST-PE-1020: FS 0,CON-ST-PE-RFT-1050
+Suez-Tunnel-P.01-UP-26-Jun-26,CON-ST-PE-RFT-1050,RFT for Portal raft reinforcement (Portal-East),CON-ST-PE-FORM-1040,CON-ST-PE-FORM-1040: FS 0,CON-ST-PE-CONC-1070
+Suez-Tunnel-P.01-UP-26-Jun-26,CON-ST-PE-CONC-1070,Concrete casting after Portal raft reinforcement (Portal-East),CON-ST-PE-RFT-1050,CON-ST-PE-RFT-1050: FS 0,ST-MS-1040
+Suez-Tunnel-P.01-UP-26-Jun-26,CON-ST-PW-FORM-1050,Formwork readiness before Cut-cover base slab RFT (Portal-West),E-APP-ST-PW-1030,E-APP-ST-PW-1030: FS 0,CON-ST-PW-RFT-1060
+Suez-Tunnel-P.01-UP-26-Jun-26,CON-ST-PW-RFT-1060,RFT for Cut-cover base slab RFT (Portal-West),CON-ST-PW-FORM-1050,CON-ST-PW-FORM-1050: FS 0,CON-ST-PW-CONC-1080
+Suez-Tunnel-P.01-UP-26-Jun-26,CON-ST-PW-CONC-1080,Concrete casting after Cut-cover base slab RFT (Portal-West),CON-ST-PW-RFT-1060,CON-ST-PW-RFT-1060: FS 0,ST-MS-1040
+Suez-Tunnel-P.01-UP-26-Jun-26,CON-ST-CC-FORM-1060,Formwork readiness before Vent shaft wall RFT (Cut-Cover),E-APP-ST-CC-1040,E-APP-ST-CC-1040: FS 0,CON-ST-CC-RFT-1070
+Suez-Tunnel-P.01-UP-26-Jun-26,CON-ST-CC-RFT-1070,RFT for Vent shaft wall RFT (Cut-Cover),CON-ST-CC-FORM-1060,CON-ST-CC-FORM-1060: FS 0,CON-ST-CC-CONC-1090
+Suez-Tunnel-P.01-UP-26-Jun-26,CON-ST-CC-CONC-1090,Concrete casting after Vent shaft wall RFT (Cut-Cover),CON-ST-CC-RFT-1070,CON-ST-CC-RFT-1070: FS 0,ST-MS-1040
+Suez-Tunnel-P.01-UP-26-Jun-26,CON-ST-VS-FORM-1070,Formwork readiness before Pump room slab RFT (Vent-Shaft),E-APP-ST-VS-1050,E-APP-ST-VS-1050: FS 0,CON-ST-VS-RFT-1080
+Suez-Tunnel-P.01-UP-26-Jun-26,CON-ST-VS-RFT-1080,RFT for Pump room slab RFT (Vent-Shaft),CON-ST-VS-FORM-1070,CON-ST-VS-FORM-1070: FS 0,CON-ST-VS-CONC-1100
+Suez-Tunnel-P.01-UP-26-Jun-26,CON-ST-VS-CONC-1100,Concrete casting after Pump room slab RFT (Vent-Shaft),CON-ST-VS-RFT-1080,CON-ST-VS-RFT-1080: FS 0,ST-MS-1040
+Suez-Tunnel-P.01-UP-26-Jun-26,CON-ST-PR-FORM-1080,Formwork readiness before Tunnel approach retaining wall RFT (Pump-Room),E-APP-ST-PR-1060,E-APP-ST-PR-1060: FS 0,CON-ST-PR-RFT-1090
+Suez-Tunnel-P.01-UP-26-Jun-26,CON-ST-PR-RFT-1090,RFT for Tunnel approach retaining wall RFT (Pump-Room),CON-ST-PR-FORM-1080,CON-ST-PR-FORM-1080: FS 0,CON-ST-PR-CONC-1110
+Suez-Tunnel-P.01-UP-26-Jun-26,CON-ST-PR-CONC-1110,Concrete casting after Tunnel approach retaining wall RFT (Pump-Room),CON-ST-PR-RFT-1090,CON-ST-PR-RFT-1090: FS 0,ST-MS-1040

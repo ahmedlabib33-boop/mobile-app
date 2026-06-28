@@ -1,0 +1,6 @@
+﻿project_id,activity_id,activity_name,predecessor_details,successor_details,activity_status,total_float,original_duration,bl_project_start,bl_project_finish,start,finish,schedule_%_complete,activity_%_complete,performance_%_complete,budgeted_total_cost,earned_value_cost
+Suez-Tunnel,con-st-exc-1010,open_cut_excavation_and_shoring,p-mdel-1000:_fs,con-st-rft-1020:_fs,in_progress,-32,90,29-Oct-25,27-Jan-26,20-Nov-25,16-Feb-26,0.82,0.68,0.68,150602409.64,102500000.00
+Suez-Tunnel,con-st-rft-1020,rft_for_base_slab_reinforcement,con-st-exc-1010:_fs,con-st-con-1030:_fs,in_progress,-34,28,28-Dec-25,25-Jan-26,13-Jan-26,14-Feb-26,0.60,0.50,0.50,150602409.64,75000000.00
+Suez-Tunnel,con-st-con-1030,concrete_casting_for_base_slab,con-st-rft-1020:_fs,con-st-wall-1040:_fs,in_progress,-36,24,28-Jan-26,21-Feb-26,16-Feb-26,13-Mar-26,0.42,0.35,0.35,150602409.64,52500000.00
+Suez-Tunnel,con-st-wall-1040,tunnel_wall_reinforcement_and_formwork,con-st-con-1030:_fs,con-st-slab-1050:_fs,in_progress,-38,60,26-Feb-26,27-Apr-26,20-Mar-26,17-May-26,0.25,0.21,0.21,150602409.64,31250000.00
+Suez-Tunnel,con-st-slab-1050,roof_slab_reinforcement_and_concrete,con-st-wall-1040:_fs,,in_progress,-40,65,27-Apr-26,1-Jul-26,13-May-26,21-Jul-26,0.05,0.04,0.04,150602409.64,6250000.00

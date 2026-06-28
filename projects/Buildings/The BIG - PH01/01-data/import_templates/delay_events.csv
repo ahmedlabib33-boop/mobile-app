@@ -1,0 +1,26 @@
+﻿project_id,Primary Event ID,Activity ID,Activity Name,BL Start,BL Finish,Start,Finish,Delayed duration,Overlap Start,Overlap Finish,BL Critical Path,Current Critical Path,Delayed duration after overlap
+The Big -P.01-UP-20-April-26,Delay in steel supply by client,CON-B02-FOOT-1070,RFT for Columns & Walls Below SOG (B02) (footing),23-Dec-25,29-Dec-25,28-Jan-26,4-Mar-26,-24,28-Jan-26,4-Mar-26,Yes,No,24
+The Big -P.01-UP-20-April-26,Delay in steel supply by client,CON-B01-FOOT-1050,RFT for RC Raft & Footings (B01) (footing),6-Dec-25,18-Dec-25,1-Feb-26,5-Mar-26,-14,1-Feb-26,5-Mar-26,Yes,No,14
+The Big -P.01-UP-20-April-26,Delay in steel supply by client,CON-B04-WT-1110,RFT for Walls (B04) (Water Tank),13-Dec-25,21-Dec-25,4-Mar-26,14-Apr-26,-25,4-Mar-26,14-Apr-26,Yes,No,0
+The Big -P.01-UP-20-April-26,Delay in steel supply by client,CON-B04-FOOT-1050,RFT for RC Raft & Footings (B04) (footing),15-Jan-26,24-Jan-26,1-Mar-26,7-May-26,-43,1-Mar-26,7-May-26,Yes,Yes,43
+The Big -P.01-UP-20-April-26,Delay in steel supply by client,CON-B04-FOOT-1070,RFT for Columns & Walls Below SOG (B04) (footing),21-Jan-26,27-Jan-26,10-Mar-26,6-May-26,-48,10-Mar-26,6-May-26,Yes,Yes,48
+The Big -P.01-UP-20-April-26,IFC,                E-SUB-B01-BAS02-1030,Submittal for Beams Conc. Dim.  & RFT DWGs (B01) (Bas 02),20-Nov-25,16-Feb-26,1-May-26,19-May-26,-92,1-May-26,19-May-26,No,No,92
+The Big -P.01-UP-20-April-26,IFC,                E-SUB-B01-BAS02-1040,Submittal for Slabs Conc. Dim.  & RFT DWGs (B01) (Bas 02),30-Nov-25,22-Feb-26,2-May-26,20-May-26,-87,2-May-26,20-May-26,No,No,87
+The Big -P.01-UP-20-April-26,IFC,                E-SUB-B01-BAS01-1030,Submittal for Beams Conc. Dim.  & RFT DWGs (B01) (Bas 01),2-Nov-25,10-Mar-26,9-May-26,27-May-26,-78,9-May-26,27-May-26,No,No,78
+The Big -P.01-UP-20-April-26,IFC,                E-SUB-B01-BAS01-1040,Submittal for Slabs Conc. Dim.  & RFT DWGs (B01) (Bas 01),5-Nov-25,31-Mar-26,10-May-26,28-May-26,-58,10-May-26,28-May-26,No,No,58
+The Big -P.01-UP-20-April-26,IFC,                E-SUB-B02-BAS02-1020,Submittal for Beams Conc. Dim.& RFT DWGs (B02) (Bas 02),22-Oct-25,11-Nov-25,3-May-26,21-May-26,-191,3-May-26,21-May-26,No,No,191
+The Big -P.01-UP-20-April-26,IFC,                E-SUB-B02-BAS02-1030,Submittal for Slabs Conc. Dim.& RFT DWGs (B02) (Bas 02),26-Oct-25,22-Feb-26,4-May-26,22-May-26,-89,4-May-26,22-May-26,No,No,89
+The Big -P.01-UP-20-April-26,IFC,                E-SUB-B02-BAS01-1020,Submittal for Beams Conc. Dim.  & RFT DWGs (B02) (Bas 01),2-Nov-25,23-Nov-25,11-May-26,29-May-26,-187,11-May-26,29-May-26,No,No,187
+The Big -P.01-UP-20-April-26,IFC,                E-SUB-B02-BAS01-1030,Submittal for Slabs Conc. Dim.  & RFT DWGs (B02) (Bas 01),5-Nov-25,31-Mar-26,12-May-26,30-May-26,-60,12-May-26,30-May-26,No,No,60
+The Big -P.01-UP-20-April-26,IFC,                E-SUB-B03-BAS02-1030,Submittal for Slabs Conc. Dim.  & RFT DWGs (B03) (Bas 02),01-Mr-26 ,10-Mar-26,5-May-26,23-May-26,-74,5-May-26,23-May-26,No,No,74
+The Big -P.01-UP-20-April-26,IFC,                E-SUB-B03-BAS02-1020,Submittal for Beams Conc. Dim.  & RFT DWGs (B03) (Bas 02),01-Mr-26 ,10-Mar-26,6-May-26,24-May-26,-75,6-May-26,24-May-26,No,No,75
+The Big -P.01-UP-20-April-26,IFC,                E-SUB-B03-BAS01-1020,Submittal for Beams Conc. Dim.  & RFT DWGs (B03) (Bas 01),01-Mr-26 ,10-Mar-26,13-May-26,31-May-26,-82,13-May-26,31-May-26,No,No,82
+The Big -P.01-UP-20-April-26,IFC,                E-SUB-B03-BAS01-1030,Submittal for Slabs Conc. Dim.  & RFT DWGs (B03) (Bas 01),02-Mr-26 ,12-Mar-26,14-May-26,24-May-26,-73,14-May-26,24-May-26,No,No,73
+The Big -P.01-UP-20-April-26,IFC,                E-SUB-B04-BAS02-1040,Submittal for Slabs Conc. Dim.  & RFT DWGs (B04) (Bas 02),9-Feb-26,26-Feb-26,7-May-26,25-May-26,-88,7-May-26,25-May-26,No,No,88
+The Big -P.01-UP-20-April-26,IFC,                E-SUB-B04-BAS02-1030,Submittal for Beams Conc. Dim.  & RFT DWGs (B04) (Bas 02),01-Mr-26 ,10-Mar-26,8-May-26,26-May-26,-77,8-May-26,26-May-26,No,No,77
+The Big -P.01-UP-20-April-26,IFC,                E-SUB-B04-BAS01-1040,Submittal for Slabs Conc. Dim.  & RFT DWGs (B04) (Bas 01),9-Feb-26,26-Feb-26,15-May-26,2-Jun-26,-96,15-May-26,2-Jun-26,No,No,96
+The Big -P.01-UP-20-April-26,IFC,                E-SUB-B04-BAS01-1030,Submittal for Beams Conc. Dim.  & RFT DWGs (B04) (Bas 01),01-Mr-26 ,10-Mar-26,16-May-26,3-Jun-26,-85,16-May-26,3-Jun-26,No,No,85
+The Big -P.01-UP-20-April-26,RFI,CON-B04-WT-1070,RFT for RC Raft (B04) (Water Tank),3-Dec-25,8-Dec-25,16-Feb-26,29-Mar-26,-31,16-Feb-26,29-Mar-26,Yes,No,31
+The Big -P.01-UP-20-April-26,RFI,CON-B04-WT-1110,RFT for Walls (B04) (Water Tank),13-Dec-25,21-Dec-25,17-Feb-26,18-Mar-26,-19,17-Feb-26,18-Mar-26,Yes,No,5
+The Big -P.01-UP-20-April-26,RFI,CON-B01-FOOT-1050,RFT for RC Raft & Footings (B01) (footing),6-Dec-25,18-Dec-25,10-Mar-26,7-Apr-26,-18,10-Mar-26,7-Apr-26,Yes,No,18
+The Big -P.01-UP-20-April-26,RFI,CON-B04-WT-1110,RFT for Walls (B04) (Water Tank),13-Dec-25,21-Dec-25,10-Mar-26,5-Apr-26,-16,10-Mar-26,5-Apr-26,Yes,No,0

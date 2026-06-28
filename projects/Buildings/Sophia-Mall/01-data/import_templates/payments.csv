@@ -1,0 +1,7 @@
+﻿project_id,payment,contract,project,invoice no,invoice date,certified amount,paid amount,payment status,Contractual interest due,Date of Cash Cheque Receipt,Period for payment release,Period in which interest is applied,Amount of interest claimed (EGP),delayed duration(Days) ,Unnamed: 14,Unnamed: 15,Unnamed: 16
+Sophia-Mall,1.0,SM-PH-01,Sophia-Mall,1.0,28-Jan-26,98700000.00,98700000.00,Paid,45.0,14-Mar-26,45.0,0.0,0.0000,0.0,,,
+Sophia-Mall,2.0,SM-PH-01,Sophia-Mall,2.0,27-Feb-26,123900000.00,123900000.00,Paid,45.0,13-Apr-26,45.0,0.0,0.0000,0.0,,,
+Sophia-Mall,3.0,SM-PH-01,Sophia-Mall,3.0,29-Mar-26,149100000.00,149100000.00,Paid,45.0,13-May-26,45.0,0.0,0.0000,0.0,,,
+Sophia-Mall,4.0,SM-PH-01,Sophia-Mall,4.0,28-Apr-26,174300000.00,174300000.00,Paid,45.0,12-Jun-26,45.0,0.0,0.0000,0.0,,,
+Sophia-Mall,5.0,SM-PH-01,Sophia-Mall,5.0,28-May-26,199500000.00,123690000.00,Partially Paid,45.0,12-Jul-26,45.0,0.0,0.0000,0.0,,,
+Sophia-Mall,6.0,SM-PH-01,Sophia-Mall,6.0,27-Jun-26,224700000.00,139314000.00,Certified,45.0,,,0.0,0.0000,,,,

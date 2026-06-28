@@ -1,0 +1,18 @@
+﻿project_id,activity_id,update_date,planned_progress,actual_progress,planned_value,earned_value,actual_cost,notes
+Sophia-Mall,KD-MS-1000,31-May-26,1.00,1.00,25301204.82,25301204.82,25048192.77,Progress aligned with update narrative
+Sophia-Mall,KD-MS-1010,31-May-26,1.00,1.00,25301204.82,25301204.82,25048192.77,Progress aligned with update narrative
+Sophia-Mall,KD-MS-1020,31-May-26,1.00,1.00,25301204.82,25301204.82,25048192.77,Progress aligned with update narrative
+Sophia-Mall,KD-MOB-1000,31-May-26,1.00,1.00,50602409.64,50602409.64,50096385.54,Progress aligned with update narrative
+Sophia-Mall,SUR-SM-1010,31-May-26,1.00,1.00,50602409.64,50602409.64,50096385.54,Progress aligned with update narrative
+Sophia-Mall,E-SUB-SM-1020,31-May-26,0.90,0.95,68313253.01,72412048.19,71687927.71,Ahead of plan / mitigation effective
+Sophia-Mall,E-APP-SM-1020,31-May-26,0.78,0.83,59204819.28,62757108.43,62129537.35,Ahead of plan / mitigation effective
+Sophia-Mall,P-MDEL-SM-1000,31-May-26,0.67,0.71,84759036.14,89844578.31,88946132.53,Ahead of plan / mitigation effective
+Sophia-Mall,CON-SM-EXC-1010,31-May-26,0.95,1.00,240361445.78,253012048.19,250481927.71,Ahead of plan / mitigation effective
+Sophia-Mall,CON-SM-RFT-1020,31-May-26,0.82,0.87,207469879.52,219918072.29,217718891.57,Ahead of plan / mitigation effective
+Sophia-Mall,CON-SM-CON-1030,31-May-26,0.62,0.66,156867469.88,166279518.07,164616722.89,Ahead of plan / mitigation effective
+Sophia-Mall,CON-SM-B1-1040,31-May-26,0.35,0.37,88554216.87,93867469.88,92928795.18,Ahead of plan / mitigation effective
+Sophia-Mall,CON-SM-GF-1050,31-May-26,0.10,0.11,25301204.82,26819277.11,26551084.34,Ahead of plan / mitigation effective
+Sophia-Mall,MEP-SM-1060,31-May-26,0.03,0.03,4554216.87,4827469.88,4779195.18,Ahead of plan / mitigation effective
+Sophia-Mall,FIN-SM-1070,31-May-26,0.00,0.00,0.00,0.00,0.00,Progress aligned with update narrative
+Sophia-Mall,TST-SM-1080,31-May-26,0.00,0.00,0.00,0.00,0.00,Progress aligned with update narrative
+Sophia-Mall,KD-MS-9000,31-May-26,0.00,0.00,0.00,0.00,0.00,Progress aligned with update narrative

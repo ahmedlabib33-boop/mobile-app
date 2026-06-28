@@ -1,0 +1,18 @@
+﻿project_id,wbs_id,activity_id,activity_name,planned_start,planned_finish,actual_start,actual_finish,forecast_start,forecast_finish,planned_weight,planned_progress,actual_progress,total_float_days,is_critical,responsible_party
+Suez-Tunnel,Suez-Tunnel.MILESTONE,KD-MS-1000,Project Start Date,1-Sep-25,,1-Sep-25 A,1-Sep-25 A,1-Sep-25,,0.0120,1.00,1.00,5,No,Project Controls
+Suez-Tunnel,Suez-Tunnel.MILESTONE,KD-MS-1010,Contract Agreement,1-Sep-25,,1-Sep-25 A,1-Sep-25 A,1-Sep-25,,0.0120,1.00,1.00,6,No,Commercial
+Suez-Tunnel,Suez-Tunnel.MILESTONE,KD-MS-1020,IFC Drawing Package,6-Sep-25,,6-Sep-25 A,6-Sep-25 A,6-Sep-25,,0.0120,1.00,1.00,,Yes,Engineering
+Suez-Tunnel,Suez-Tunnel.MOBILIZATION,KD-MOB-1000,Mobilization and temporary facilities,4-Sep-25,2-Oct-25,20-Sep-25 A,21-Oct-25 A,20-Sep-25,10-Oct-25,0.0241,1.00,1.00,8,No,Construction
+Suez-Tunnel,Suez-Tunnel.SURVEY,SUR-ST-1010,Topographic survey and utility detection,19-Sep-25,11-Oct-25,8-Oct-25 A,2-Nov-25 A,8-Oct-25,19-Oct-25,0.0241,1.00,1.00,9,No,Survey Team
+Suez-Tunnel,Suez-Tunnel.ENGINEERING,E-SUB-ST-1020,Tunnel alignment shop drawings,6-Oct-25,10-Nov-25,28-Oct-25 A,,28-Oct-25,30-Nov-25,0.0361,1.00,0.83,-26,Yes,Engineering
+Suez-Tunnel,Suez-Tunnel.ENGINEERING,E-APP-ST-1020,Approval of tunnel alignment shop drawings,12-Nov-25,7-Dec-25,28-Nov-25 A,,28-Nov-25,27-Dec-25,0.0361,0.80,0.66,-28,Yes,Engineer
+Suez-Tunnel,Suez-Tunnel.PROCUREMENT,P-MDEL-ST-1000,Delivery of waterproofing membrane and steel,2-Nov-25,27-Dec-25,21-Nov-25 A,,21-Nov-25,16-Jan-26,0.0602,0.72,0.60,-30,Yes,Employer/Procurement
+Suez-Tunnel,Suez-Tunnel.CONSTRUCTION,CON-ST-EXC-1010,Open cut excavation and shoring,29-Oct-25,27-Jan-26,20-Nov-25 A,,20-Nov-25,16-Feb-26,0.1205,0.82,0.68,-32,Yes,Construction
+Suez-Tunnel,Suez-Tunnel.CONSTRUCTION,CON-ST-RFT-1020,RFT for base slab reinforcement,28-Dec-25,25-Jan-26,13-Jan-26 A,,13-Jan-26,14-Feb-26,0.1205,0.60,0.50,-34,Yes,Construction
+Suez-Tunnel,Suez-Tunnel.CONSTRUCTION,CON-ST-CON-1030,Concrete casting for base slab,28-Jan-26,21-Feb-26,16-Feb-26 A,,16-Feb-26,13-Mar-26,0.1205,0.42,0.35,-36,Yes,Construction
+Suez-Tunnel,Suez-Tunnel.CONSTRUCTION,CON-ST-WALL-1040,Tunnel wall reinforcement and formwork,26-Feb-26,27-Apr-26,20-Mar-26 A,,20-Mar-26,17-May-26,0.1205,0.25,0.21,-38,Yes,Construction
+Suez-Tunnel,Suez-Tunnel.CONSTRUCTION,CON-ST-SLAB-1050,Roof slab reinforcement and concrete,27-Apr-26,1-Jul-26,13-May-26 A,,13-May-26,21-Jul-26,0.1205,0.05,0.04,-40,Yes,Construction
+Suez-Tunnel,Suez-Tunnel.MEP,MEP-ST-DRN-1060,Drainage and pump station rough-in,13-Jun-26,7-Aug-26,,,29-Jun-26,15-Aug-26,0.0723,0.00,0.00,18,No,MEP
+Suez-Tunnel,Suez-Tunnel.FINISHING,FIN-ST-RD-1070,Road reinstatement and asphalt works,12-Aug-26,11-Oct-26,,,28-Aug-26,19-Oct-26,0.0723,0.00,0.00,19,No,Roadworks
+Suez-Tunnel,Suez-Tunnel.TESTING,TST-ST-1080,Integrated testing and commissioning,5-Nov-26,10-Dec-26,,,21-Nov-26,18-Dec-26,0.0241,0.00,0.00,-46,Yes,QA/QC
+Suez-Tunnel,Suez-Tunnel.MILESTONE,KD-MS-9000,Substantial Completion,28-Feb-27,,,,16-Mar-27,,0.0120,0.00,0.00,-48,Yes,Project Controls

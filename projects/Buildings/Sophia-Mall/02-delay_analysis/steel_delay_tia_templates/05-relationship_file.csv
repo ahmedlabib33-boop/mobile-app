@@ -1,0 +1,16 @@
+﻿project_id,Activity ID,Activity Name,Predecessors,Predecessor Details,Successors
+Sophia-Mall-P.02-UP-26-Jun-26,CON-SM-NW-FORM-1040,Formwork readiness before North wing raft RFT (North-Wing),E-APP-SM-NW-1020,E-APP-SM-NW-1020: FS 0,CON-SM-NW-RFT-1050
+Sophia-Mall-P.02-UP-26-Jun-26,CON-SM-NW-RFT-1050,RFT for North wing raft RFT (North-Wing),CON-SM-NW-FORM-1040,CON-SM-NW-FORM-1040: FS 0,CON-SM-NW-CONC-1070
+Sophia-Mall-P.02-UP-26-Jun-26,CON-SM-NW-CONC-1070,Concrete casting after North wing raft RFT (North-Wing),CON-SM-NW-RFT-1050,CON-SM-NW-RFT-1050: FS 0,SM-MS-1040
+Sophia-Mall-P.02-UP-26-Jun-26,CON-SM-SW-FORM-1050,Formwork readiness before South wing columns RFT (South-Wing),E-APP-SM-SW-1030,E-APP-SM-SW-1030: FS 0,CON-SM-SW-RFT-1060
+Sophia-Mall-P.02-UP-26-Jun-26,CON-SM-SW-RFT-1060,RFT for South wing columns RFT (South-Wing),CON-SM-SW-FORM-1050,CON-SM-SW-FORM-1050: FS 0,CON-SM-SW-CONC-1080
+Sophia-Mall-P.02-UP-26-Jun-26,CON-SM-SW-CONC-1080,Concrete casting after South wing columns RFT (South-Wing),CON-SM-SW-RFT-1060,CON-SM-SW-RFT-1060: FS 0,SM-MS-1040
+Sophia-Mall-P.02-UP-26-Jun-26,CON-SM-AT-FORM-1060,Formwork readiness before Atrium transfer slab RFT (Atrium),E-APP-SM-AT-1040,E-APP-SM-AT-1040: FS 0,CON-SM-AT-RFT-1070
+Sophia-Mall-P.02-UP-26-Jun-26,CON-SM-AT-RFT-1070,RFT for Atrium transfer slab RFT (Atrium),CON-SM-AT-FORM-1060,CON-SM-AT-FORM-1060: FS 0,CON-SM-AT-CONC-1090
+Sophia-Mall-P.02-UP-26-Jun-26,CON-SM-AT-CONC-1090,Concrete casting after Atrium transfer slab RFT (Atrium),CON-SM-AT-RFT-1070,CON-SM-AT-RFT-1070: FS 0,SM-MS-1040
+Sophia-Mall-P.02-UP-26-Jun-26,CON-SM-CB-FORM-1070,Formwork readiness before Cinema block shear wall RFT (Cinema-Block),E-APP-SM-CB-1050,E-APP-SM-CB-1050: FS 0,CON-SM-CB-RFT-1080
+Sophia-Mall-P.02-UP-26-Jun-26,CON-SM-CB-RFT-1080,RFT for Cinema block shear wall RFT (Cinema-Block),CON-SM-CB-FORM-1070,CON-SM-CB-FORM-1070: FS 0,CON-SM-CB-CONC-1100
+Sophia-Mall-P.02-UP-26-Jun-26,CON-SM-CB-CONC-1100,Concrete casting after Cinema block shear wall RFT (Cinema-Block),CON-SM-CB-RFT-1080,CON-SM-CB-RFT-1080: FS 0,SM-MS-1040
+Sophia-Mall-P.02-UP-26-Jun-26,CON-SM-PP-FORM-1080,Formwork readiness before Parking podium slab RFT (Parking-Podium),E-APP-SM-PP-1060,E-APP-SM-PP-1060: FS 0,CON-SM-PP-RFT-1090
+Sophia-Mall-P.02-UP-26-Jun-26,CON-SM-PP-RFT-1090,RFT for Parking podium slab RFT (Parking-Podium),CON-SM-PP-FORM-1080,CON-SM-PP-FORM-1080: FS 0,CON-SM-PP-CONC-1110
+Sophia-Mall-P.02-UP-26-Jun-26,CON-SM-PP-CONC-1110,Concrete casting after Parking podium slab RFT (Parking-Podium),CON-SM-PP-RFT-1090,CON-SM-PP-RFT-1090: FS 0,SM-MS-1040

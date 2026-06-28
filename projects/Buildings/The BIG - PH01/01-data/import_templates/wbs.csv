@@ -1,0 +1,16 @@
+﻿project_id,wbs_code,wbs_name,total_activities,bl_project_duration,remaining_duration,total_float,bl_project_start,bl_project_finish,actual_start,actual_finish,schedule_%_complete,performance_%_complete,budget_at_completion,earned_value_cost,planned_value_cost
+The Big -P.01-UP-20-April-26,No Priority,,1363,577,473,0,11-Sep-25,10-Apr-27,11-Sep-25,,0.6916,0.3105,367286025,114050908.4,254009356.2
+The Big -P.01-UP-20-April-26,The Big - P.01 - UP-20-April-26,ROYA-BIG PROJECT PHASE01 (B1-4),1363,577,473,0,11-Sep-25,10-Apr-27,11-Sep-25,,0.6916,0.3105,367286025,114050908.4,254009356.2
+The Big -P.01-UP-20-April-26,The Big - P.01 - UP-20-April-26.KD,Key Dates,8,577,344,-144,11-Sep-25,10-Apr-27,11-Sep-25,,0,0,0,0,0
+The Big -P.01-UP-20-April-26,The Big - P.01 - UP-20-April-26.KD.MI,Milestone,5,577,344,-144,11-Sep-25,10-Apr-27,11-Sep-25,,0,0,0,0,0
+The Big -P.01-UP-20-April-26,The Big - P.01 - UP-20-April-26.KD.MO,Mobilization,0,15,0,,11-Sep-25,28-Sep-25,13-Sep-25,29-Sep-25,0,0,0,0,0
+The Big -P.01-UP-20-April-26,The Big - P.01 - UP-20-April-26.EN,Engineering,387,270,40,247,11-Sep-25,7-Jun-26,11-Sep-25,,0,0,0,0,0
+The Big -P.01-UP-20-April-26,The Big - P.01 - UP-20-April-26.P,Procurement,54,493,245,228,11-Sep-25,16-Jan-27,11-Sep-25,,0,0,0,0,0
+The Big -P.01-UP-20-April-26,The Big - P.01 - UP-20-April-26.CON,Construction,522,505,445,28,25-Oct-25,13-Mar-27,5-Oct-25,,0.6916,0.3105,367286025,114050908.4,254009356.2
+The Big -P.01-UP-20-April-26,The Big - P.01 - UP-20-April-26.CON.EW,Earth Works,8,55,0,,3-Nov-25,5-Jan-26,10-Oct-25,3-Dec-25,1,1,7596000,7596000,7596000
+The Big -P.01-UP-20-April-26,The Big - P.01 - UP-20-April-26.CON.P02.B01,B01,145,473,445,-130,26-Nov-25,13-Mar-27,26-Nov-25,,0.6669,0.2793,118088212.4,32977443.94,78754236.56
+The Big -P.01-UP-20-April-26,The Big - P.01 - UP-20-April-26.CON.P02.B02,B02,101,451,396,75,9-Dec-25,4-Mar-27,27-Nov-25,,0.6413,0.3171,56776729.54,18001155.81,36411009.65
+The Big -P.01-UP-20-April-26,The Big - P.01 - UP-20-April-26.CON.P01.B04,B04,167,505,430,-115,25-Oct-25,13-Mar-27,5-Oct-25,,0.7189,0.2598,122501879.9,31821823.82,88065415.36
+The Big -P.01-UP-20-April-26,The Big - P.01 - UP-20-April-26.CON.P01.B04.SUB.3.2,Water Tank,22,115,33,-103,25-Oct-25,16-Feb-26,5-Oct-25,,1,0.8604,13140453.7,11306371.84,13140453.7
+The Big -P.01-UP-20-April-26,The Big - P.01 - UP-20-April-26.CON.P01.B03,B03,101,444,414,-99,25-Dec-25,13-Mar-27,1-Dec-25,,0.6929,0.3795,62323203.19,23654484.78,43182694.61
+The Big -P.01-UP-20-April-26,The Big - P.01 - UP-20-April-26.HO,Handover,392,512,473,-144,15-Nov-25,10-Apr-27,,,0,0,0,0,0

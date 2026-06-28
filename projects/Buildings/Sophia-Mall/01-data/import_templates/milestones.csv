@@ -1,0 +1,6 @@
+﻿milestone_id,project_id,activity_name,planned_date,forecast_date,actual_date,milestone_contractual_type
+KD-MS-1000,Sophia-Mall,Project Start Date,15-Oct-25,15-Oct-25,15-Oct-25,Start milestone
+KD-MS-1010,Sophia-Mall,Contract Agreement,15-Oct-25,15-Oct-25,15-Oct-25,Start milestone
+KD-MS-1020,Sophia-Mall,IFC Drawing Package,22-Oct-25,27-Oct-25,22-Oct-25,Key milestone
+KD-MS-5000,Sophia-Mall,Structural Works Completion,15-Oct-26,30-Oct-26,,Interim milestone
+KD-MS-9000,Sophia-Mall,Substantial Completion,31-Jul-27,25-Aug-27,,Finish milestone

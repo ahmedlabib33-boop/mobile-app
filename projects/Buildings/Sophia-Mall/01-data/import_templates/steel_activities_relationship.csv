@@ -1,0 +1,6 @@
+﻿project_id,activity_id,activity_name,predecessor_details,successor_details,activity_status,total_float,original_duration,bl_project_start,bl_project_finish,start,finish,schedule_%_complete,activity_%_complete,performance_%_complete,budgeted_total_cost,earned_value_cost
+Sophia-Mall,con-sm-exc-1010,bulk_excavation_and_dewatering,p-mdel-1000:_fs,con-sm-rft-1020:_fs,completed,,100,9-Dec-25,19-Mar-26,20-Dec-25,1-Apr-26,0.95,1.00,1.00,253012048.19,253012048.19
+Sophia-Mall,con-sm-rft-1020,rft_for_raft_foundation,con-sm-exc-1010:_fs,con-sm-con-1030:_fs,in_progress,-23,36,22-Feb-26,30-Mar-26,27-Feb-26,1-Apr-26,0.82,0.87,0.87,253012048.19,219918072.29
+Sophia-Mall,con-sm-con-1030,raft_foundation_concrete_works,con-sm-rft-1020:_fs,con-sm-b1-1040:_fs,in_progress,-25,30,30-Mar-26,29-Apr-26,7-Apr-26,1-May-26,0.62,0.66,0.66,253012048.19,166279518.07
+Sophia-Mall,con-sm-b1-1040,basement_b1_columns_and_walls,con-sm-con-1030:_fs,con-sm-gf-1050:_fs,in_progress,-27,58,29-Apr-26,26-Jun-26,10-May-26,28-Jun-26,0.35,0.37,0.37,253012048.19,93867469.88
+Sophia-Mall,con-sm-gf-1050,ground_floor_slab_and_beams,con-sm-b1-1040:_fs,,in_progress,-29,70,26-Jun-26,4-Sep-26,1-Jul-26,6-Sep-26,0.10,0.11,0.11,253012048.19,26819277.11
