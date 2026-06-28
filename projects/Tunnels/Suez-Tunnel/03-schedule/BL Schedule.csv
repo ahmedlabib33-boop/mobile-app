@@ -1,0 +1,20 @@
+﻿Actual Duration,Activity ID,Activity Name,WBS,project_id,Original Duration,Remaining Duration,BL Project Start,BL Project Finish,Start,Finish,Free Float,Total Float,Variance - BL1 Nonlabor Units,Variance - BL Project Nonlabor Units,Actual Nonlabor Units,Remaining Nonlabor Units,Predecessors,Successors,Budgeted Nonlabor Units,Activity % Complete,Critical,Longest Path
+0,ST-MS-1000,Project Start Milestone,Suez-Tunnel.BL.MI,Suez-Tunnel,0,0,5-Jan-26,30-Jun-27,5-Jan-26 A,5-Jan-26 A,0,0,0,0,0,0,,"ST-MOB-1010, ST-ENG-1010",0,100%,Yes,Yes
+14,ST-MOB-1010,Site mobilization and temporary facilities,Suez-Tunnel.BL.MOB,Suez-Tunnel,14,0,5-Jan-26,30-Jun-27,8-Jan-26 A,22-Jan-26 A,0,0,0,0,0,0,ST-MS-1000,ST-Z01-EXC-1010,0,100%,Yes,Yes
+18,ST-ENG-1010,Structural shop drawing submittal and baseline approvals,Suez-Tunnel.BL.ENG.SUB,Suez-Tunnel,18,0,5-Jan-26,30-Jun-27,15-Jan-26 A,2-Feb-26 A,7,21,0,0,0,0,ST-MS-1000,ST-PROC-1020,0,100%,No,No
+7,ST-PROC-1020,Long lead procurement and material approval cycle,Suez-Tunnel.BL.PROC,Suez-Tunnel,20,13,5-Jan-26,30-Jun-27,30-Jan-26,19-Feb-26,0,0,-5,-8,0.0,0.0,ST-ENG-1010,,0,65%,Yes,Yes
+6,ST-Z01-EXC-1010,Excavation and formation works - East Portal,Suez-Tunnel.BL.CW.Z01.EARTH,Suez-Tunnel,18,12,5-Jan-26,30-Jun-27,24-Feb-26,14-Mar-26,0,0,-5,-8,0.0,0.0,ST-MOB-1010,ST-Z01-RFT-1020,0,35%,Yes,Yes
+0,ST-Z01-RFT-1020,Reinforcement and embedded item release - East Portal,Suez-Tunnel.BL.CW.Z01.STR,Suez-Tunnel,12,12,5-Jan-26,30-Jun-27,14-Mar-26,26-Mar-26,0,0,0,0,0,138,ST-Z01-EXC-1010,ST-Z01-CON-1030,138,15%,Yes,Yes
+0,ST-Z01-CON-1030,Concrete casting and curing - East Portal,Suez-Tunnel.BL.CW.Z01.STR,Suez-Tunnel,8,8,5-Jan-26,30-Jun-27,27-Mar-26,4-Apr-26,0,0,0,0,0,55,ST-Z01-RFT-1020,ST-Z02-EXC-1010,55,0%,Yes,Yes
+0,ST-Z02-EXC-1010,Excavation and formation works - Cut & Cover,Suez-Tunnel.BL.CW.Z02.EARTH,Suez-Tunnel,18,18,5-Jan-26,30-Jun-27,10-Apr-26,28-Apr-26,0,0,0,0,0,0,ST-Z01-CON-1030,ST-Z02-RFT-1020,0,0%,Yes,Yes
+0,ST-Z02-RFT-1020,Reinforcement and embedded item release - Cut & Cover,Suez-Tunnel.BL.CW.Z02.STR,Suez-Tunnel,12,12,5-Jan-26,30-Jun-27,28-Apr-26,10-May-26,0,0,0,0,0,156,ST-Z02-EXC-1010,ST-Z02-CON-1030,156,0%,Yes,Yes
+0,ST-Z02-CON-1030,Concrete casting and curing - Cut & Cover,Suez-Tunnel.BL.CW.Z02.STR,Suez-Tunnel,8,8,5-Jan-26,30-Jun-27,11-May-26,19-May-26,0,0,0,0,0,65,ST-Z02-RFT-1020,ST-Z03-EXC-1010,65,0%,Yes,Yes
+0,ST-Z03-EXC-1010,Excavation and formation works - Tunnel Bore,Suez-Tunnel.BL.CW.Z03.EARTH,Suez-Tunnel,18,18,5-Jan-26,30-Jun-27,25-May-26,12-Jun-26,0,0,0,0,0,0,ST-Z02-CON-1030,ST-Z03-RFT-1020,0,0%,Yes,Yes
+0,ST-Z03-RFT-1020,Reinforcement and embedded item release - Tunnel Bore,Suez-Tunnel.BL.CW.Z03.STR,Suez-Tunnel,12,12,5-Jan-26,30-Jun-27,12-Jun-26,24-Jun-26,0,0,0,0,0,174,ST-Z03-EXC-1010,ST-Z03-CON-1030,174,0%,Yes,Yes
+0,ST-Z03-CON-1030,Concrete casting and curing - Tunnel Bore,Suez-Tunnel.BL.CW.Z03.STR,Suez-Tunnel,8,8,5-Jan-26,30-Jun-27,25-Jun-26,3-Jul-26,0,0,0,0,0,75,ST-Z03-RFT-1020,ST-Z04-EXC-1010,75,0%,Yes,Yes
+0,ST-Z04-EXC-1010,Excavation and formation works - West Portal,Suez-Tunnel.BL.CW.Z04.EARTH,Suez-Tunnel,18,18,5-Jan-26,30-Jun-27,9-Jul-26,27-Jul-26,18,54,0,0,0,0,ST-Z03-CON-1030,ST-Z04-RFT-1020,0,0%,No,No
+0,ST-Z04-RFT-1020,Reinforcement and embedded item release - West Portal,Suez-Tunnel.BL.CW.Z04.STR,Suez-Tunnel,12,12,5-Jan-26,30-Jun-27,27-Jul-26,8-Aug-26,0,0,0,0,0,192,ST-Z04-EXC-1010,ST-Z04-CON-1030,192,0%,Yes,Yes
+0,ST-Z04-CON-1030,Concrete casting and curing - West Portal,Suez-Tunnel.BL.CW.Z04.STR,Suez-Tunnel,8,8,5-Jan-26,30-Jun-27,9-Aug-26,17-Aug-26,0,0,0,0,0,85,ST-Z04-RFT-1020,ST-MEP-2010,85,0%,Yes,Yes
+0,ST-MEP-2010,MEP first-fix coordination and embedded systems clearance,Suez-Tunnel.BL.MEP.COR,Suez-Tunnel,30,30,5-Jan-26,30-Jun-27,2-Sep-26,2-Oct-26,0,0,0,0,0,0,ST-Z04-CON-1030,ST-FIN-3010,0,0%,Yes,Yes
+0,ST-FIN-3010,"Testing, commissioning and handover preparation",Suez-Tunnel.BL.T&C,Suez-Tunnel,20,20,5-Jan-26,30-Jun-27,7-Oct-26,27-Oct-26,0,0,0,0,0,0,ST-MEP-2010,ST-MS-9000,0,0%,Yes,Yes
+0,ST-MS-9000,Project Finish Milestone,Suez-Tunnel.BL.MI,Suez-Tunnel,0,0,5-Jan-26,30-Jun-27,30-Jun-27,30-Jun-27,0,0,0,0,0,0,ST-FIN-3010,,0,0%,Yes,Yes

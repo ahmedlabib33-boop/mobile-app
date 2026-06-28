@@ -1,0 +1,5 @@
+project_id,role,color_hex
+_PROJECT_TEMPLATE,primary,#123B5D
+_PROJECT_TEMPLATE,secondary,#5B6870
+_PROJECT_TEMPLATE,accent,#C7A34B
+_PROJECT_TEMPLATE,background,#FFFFFF

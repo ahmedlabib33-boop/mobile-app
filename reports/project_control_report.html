@@ -1,0 +1,56 @@
+
+    <html>
+    <head>
+        <meta charset="utf-8">
+        <title>Project Control Report</title>
+        <style>
+            body { font-family: Arial, sans-serif; margin: 24px; background: #f7f7f7; color: #222; }
+            .card { background: #fff; padding: 16px; margin-bottom: 18px; border-radius: 10px; box-shadow: 0 1px 6px rgba(0,0,0,.08); }
+            .grid { display: grid; grid-template-columns: repeat(4, 1fr); gap: 12px; }
+            .kpi { background: #f0f4f8; padding: 12px; border-radius: 8px; }
+            .kpi .label { font-size: 12px; color: #666; }
+            .kpi .value { font-size: 20px; font-weight: bold; margin-top: 6px; }
+            table { width: 100%; border-collapse: collapse; margin-top: 10px; }
+            th, td { border: 1px solid #ddd; padding: 8px; font-size: 13px; text-align: left; }
+            th { background: #e9eef5; }
+            h1, h2 { margin: 0 0 12px 0; }
+        </style>
+    </head>
+    <body>
+        <div class="card">
+            <h1>Construction Project Control and Contract Management Report</h1>
+            <p><strong>Project:</strong> Riverside Mixed-Use Development</p>
+            <p><strong>Code:</strong> RMD-2024</p>
+        </div>
+
+        <div class="card">
+            <h2>Core KPIs</h2>
+            <div class="grid">
+                <div class="kpi"><div class="label">BAC</div><div class="value">18,300,000.00</div></div>
+                <div class="kpi"><div class="label">AC</div><div class="value">5,270,000.00</div></div>
+                <div class="kpi"><div class="label">EV</div><div class="value">5,200,000.00</div></div>
+                <div class="kpi"><div class="label">PV</div><div class="value">6,675,000.00</div></div>
+                <div class="kpi"><div class="label">SPI</div><div class="value">0.78</div></div>
+                <div class="kpi"><div class="label">CPI</div><div class="value">0.99</div></div>
+                <div class="kpi"><div class="label">EAC</div><div class="value">18,546,346.15</div></div>
+                <div class="kpi"><div class="label">Critical Activities</div><div class="value">4</div></div>
+            </div>
+        </div>
+
+        <div class="card">
+            <h2>Contract Summary</h2>
+            <table><thead><tr><th>contract_no</th><th>contractor_name</th><th>original_value</th><th>approved_variations</th><th>pending_variations</th><th>certified_amount</th><th>paid_amount</th><th>unpaid_certified_balance</th><th>status</th></tr></thead><tbody><tr><td>C-2024-001</td><td>BuildCo International</td><td>38,000,000.00</td><td>1,200,000.00</td><td>350,000.00</td><td>18,500,000.00</td><td>17,000,000.00</td><td>1,500,000.00</td><td>Active</td></tr><tr><td>C-2024-002</td><td>MechSub Ltd</td><td>4,500,000.00</td><td>0.00</td><td>0.00</td><td>800,000.00</td><td>750,000.00</td><td>50,000.00</td><td>Active</td></tr><tr><td>C-2024-003</td><td>ElecSub Ltd</td><td>3,800,000.00</td><td>0.00</td><td>0.00</td><td>500,000.00</td><td>450,000.00</td><td>50,000.00</td><td>Active</td></tr></tbody></table>
+        </div>
+
+        <div class="card">
+            <h2>Delay Analysis</h2>
+            <table><thead><tr><th>event_title</th><th>activity_code</th><th>activity_name</th><th>delay_days</th><th>responsible_party</th><th>critical_impact</th><th>eot_days</th><th>eot_potential</th><th>concurrent_delay_warning</th><th>status</th></tr></thead><tbody><tr><td>Unforeseen Ground Conditions</td><td>A1010</td><td>Site Preparation</td><td>5</td><td>Employer</td><td>1</td><td>5.00</td><td>Yes</td><td>No</td><td>Closed</td></tr><tr><td>Piling Equipment Breakdown</td><td>A1020</td><td>Piling Works</td><td>15</td><td>Main Contractor</td><td>1</td><td>0.00</td><td>Review</td><td>Yes</td><td>Open</td></tr><tr><td>Design Change – Slab Thickness</td><td>A2010</td><td>Ground Floor Slab</td><td>10</td><td>Employer</td><td>1</td><td>10.00</td><td>Yes</td><td>No</td><td>Open</td></tr><tr><td>Steel Delivery Delay</td><td>A2020</td><td>Structural Frame – Levels 1-5</td><td>20</td><td>Main Contractor</td><td>1</td><td>0.00</td><td>Review</td><td>Yes</td><td>Open</td></tr></tbody></table>
+        </div>
+
+        <div class="card">
+            <h2>Risk Analysis</h2>
+            <table><thead><tr><th>risk_code</th><th>risk_title</th><th>category</th><th>probability</th><th>time_impact_days</th><th>cost_impact</th><th>weighted_time_exposure</th><th>severity_band</th><th>owner</th><th>mitigation_status</th></tr></thead><tbody><tr><td>R-001</td><td>Labour Shortage</td><td>Resource</td><td>0.60</td><td>30.00</td><td>500,000.00</td><td>18.00</td><td>High</td><td>BuildCo International</td><td>Active</td></tr><tr><td>R-003</td><td>Permit Delay – Phase 2</td><td>Regulatory</td><td>0.40</td><td>45.00</td><td>200,000.00</td><td>18.00</td><td>High</td><td>Client</td><td>Active</td></tr><tr><td>R-004</td><td>Subcontractor Insolvency</td><td>Commercial</td><td>0.20</td><td>60.00</td><td>1,200,000.00</td><td>12.00</td><td>Medium</td><td>Project Manager</td><td>Active</td></tr><tr><td>R-005</td><td>Adverse Weather</td><td>Environmental</td><td>0.30</td><td>10.00</td><td>50,000.00</td><td>3.00</td><td>Low</td><td>Site Manager</td><td>Mitigated</td></tr><tr><td>R-002</td><td>Material Price Escalation</td><td>Cost</td><td>0.50</td><td>0.00</td><td>800,000.00</td><td>0.00</td><td>Low</td><td>Project Manager</td><td>Active</td></tr></tbody></table>
+        </div>
+    </body>
+    </html>
+    

@@ -1,0 +1,20 @@
+﻿project_id,task_code,status_code,wbs_id,task_name,target_start_date,target_end_date
+Suez-Tunnel,ST-MS-1000,Completed,Suez-Tunnel.BL.MI,Project Start Milestone,5-Jan-26,
+Suez-Tunnel,ST-MOB-1010,Completed,Suez-Tunnel.BL.MOB,Site mobilization and temporary facilities,8-Jan-26,22-Jan-26
+Suez-Tunnel,ST-ENG-1010,Completed,Suez-Tunnel.BL.ENG.SUB,Structural shop drawing submittal and baseline approvals,15-Jan-26,2-Feb-26
+Suez-Tunnel,ST-PROC-1020,In Progress,Suez-Tunnel.BL.PROC,Long lead procurement and material approval cycle,30-Jan-26,19-Feb-26
+Suez-Tunnel,ST-Z01-EXC-1010,In Progress,Suez-Tunnel.BL.CW.Z01.EARTH,Excavation and formation works - East Portal,24-Feb-26,14-Mar-26
+Suez-Tunnel,ST-Z01-RFT-1020,Not Started,Suez-Tunnel.BL.CW.Z01.STR,Reinforcement and embedded item release - East Portal,14-Mar-26,26-Mar-26
+Suez-Tunnel,ST-Z01-CON-1030,Not Started,Suez-Tunnel.BL.CW.Z01.STR,Concrete casting and curing - East Portal,27-Mar-26,4-Apr-26
+Suez-Tunnel,ST-Z02-EXC-1010,Not Started,Suez-Tunnel.BL.CW.Z02.EARTH,Excavation and formation works - Cut & Cover,10-Apr-26,28-Apr-26
+Suez-Tunnel,ST-Z02-RFT-1020,Not Started,Suez-Tunnel.BL.CW.Z02.STR,Reinforcement and embedded item release - Cut & Cover,28-Apr-26,10-May-26
+Suez-Tunnel,ST-Z02-CON-1030,Not Started,Suez-Tunnel.BL.CW.Z02.STR,Concrete casting and curing - Cut & Cover,11-May-26,19-May-26
+Suez-Tunnel,ST-Z03-EXC-1010,Not Started,Suez-Tunnel.BL.CW.Z03.EARTH,Excavation and formation works - Tunnel Bore,25-May-26,12-Jun-26
+Suez-Tunnel,ST-Z03-RFT-1020,Not Started,Suez-Tunnel.BL.CW.Z03.STR,Reinforcement and embedded item release - Tunnel Bore,12-Jun-26,24-Jun-26
+Suez-Tunnel,ST-Z03-CON-1030,Not Started,Suez-Tunnel.BL.CW.Z03.STR,Concrete casting and curing - Tunnel Bore,25-Jun-26,3-Jul-26
+Suez-Tunnel,ST-Z04-EXC-1010,Not Started,Suez-Tunnel.BL.CW.Z04.EARTH,Excavation and formation works - West Portal,9-Jul-26,27-Jul-26
+Suez-Tunnel,ST-Z04-RFT-1020,Not Started,Suez-Tunnel.BL.CW.Z04.STR,Reinforcement and embedded item release - West Portal,27-Jul-26,8-Aug-26
+Suez-Tunnel,ST-Z04-CON-1030,Not Started,Suez-Tunnel.BL.CW.Z04.STR,Concrete casting and curing - West Portal,9-Aug-26,17-Aug-26
+Suez-Tunnel,ST-MEP-2010,Not Started,Suez-Tunnel.BL.MEP.COR,MEP first-fix coordination and embedded systems clearance,2-Sep-26,2-Oct-26
+Suez-Tunnel,ST-FIN-3010,Not Started,Suez-Tunnel.BL.T&C,"Testing, commissioning and handover preparation",7-Oct-26,27-Oct-26
+Suez-Tunnel,ST-MS-9000,Not Started,Suez-Tunnel.BL.MI,Project Finish Milestone,30-Jun-27,

@@ -1,0 +1,37 @@
+﻿<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>Project Intelligence Hub</title>
+  <meta name="theme-color" content="#0f766e">
+  <meta name="apple-mobile-web-app-title" content="Project Intelligence Hub">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <link rel="manifest" href="./manifest.json">
+  <link rel="apple-touch-icon" href="./icons/icon-192.png">
+  <style>
+    body{margin:0;min-height:100vh;display:grid;place-items:center;background:#0f172a;color:#fff;font-family:Arial,sans-serif}
+    main{max-width:520px;padding:28px;text-align:center}
+    a{display:inline-block;margin-top:16px;padding:12px 16px;border-radius:8px;background:#0f766e;color:#fff;text-decoration:none;font-weight:800}
+  </style>
+</head>
+<body>
+  <main>
+    <h1>Project Intelligence Hub</h1>
+    <p>Open the deployed Streamlit URL in Safari, tap Share, and choose Add to Home Screen for the free iPhone PWA app.</p>
+    <a href="https://mobile-app.streamlit.app">Open Project Intelligence Hub</a>
+  </main>
+  <script>
+    if ("serviceWorker" in navigator) {
+      navigator.serviceWorker.register("./service-worker.js");
+    }
+  </script>
+</body>
+</html>
+
+
+
+
+
+
