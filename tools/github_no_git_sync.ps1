@@ -50,6 +50,8 @@ function Test-Excluded([string]$FullName) {
     $segments = $relative -split "/"
     foreach ($segment in $segments) {
         if ($segment -like "backup_*") { return $true }
+        if ($segment -like "android_app_backup*") { return $true }
+        if ($segment -eq "_RETURN_POINTS") { return $true }
     }
     foreach ($directory in @($config.excluded_directories)) {
         $normalizedDirectory = ([string]$directory).Trim("/")
