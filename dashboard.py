@@ -2450,32 +2450,35 @@ def risk_rank(value) -> int:
 def style_plotly(fig, height=390):
     title = fig.layout.title.text if fig.layout.title and fig.layout.title.text else ""
     fig.update_layout(
+        template="plotly_white",
         height=height,
         autosize=True,
         paper_bgcolor="rgba(0,0,0,0)",
-        plot_bgcolor="#ffffff",
-        font=dict(color="#172033", family="Arial, sans-serif", size=12),
-        margin=dict(l=18, r=18, t=64 if title else 42, b=38),
-        title=dict(text=title, x=0.02, xanchor="left", font=dict(size=17, color="#0f172a")),
+        plot_bgcolor="#FFFFFF",
+        font=dict(color="#1F2937", family='Inter, "Segoe UI", Arial, sans-serif', size=12),
+        margin=dict(l=34, r=24, t=70 if title else 38, b=58),
+        colorway=["#0B2A4A", "#0F8492", "#D1A329", "#1D5C83", "#6B7280", "#7C3AED", "#B94642", "#10B981", "#F59E0B", "#475569"],
+        title=dict(text=title, x=0.015, xanchor="left", y=0.98, font=dict(size=18, color="#0B2A4A")),
         legend=dict(
             orientation="h",
             yanchor="bottom",
-            y=1.02,
+            y=1.04,
             xanchor="right",
             x=1,
-            bgcolor="rgba(255,255,255,.72)",
-            bordercolor="rgba(15,23,42,.08)",
+            bgcolor="rgba(255,255,255,.88)",
+            bordercolor="rgba(217,228,239,.9)",
             borderwidth=1,
-            font=dict(size=11),
+            font=dict(size=11, color="#334155"),
+            title_text="",
         ),
-        hoverlabel=dict(bgcolor="#0f172a", bordercolor="#0f172a", font=dict(color="#ffffff", size=12)),
+        hoverlabel=dict(bgcolor="#0B2A4A", bordercolor="#0B2A4A", font=dict(color="#FFFFFF", size=12), namelength=-1),
         modebar=dict(orientation="v"),
-        xaxis=dict(gridcolor="#edf3f6", zerolinecolor="#dde7ef", automargin=True, tickfont=dict(size=11)),
-        yaxis=dict(gridcolor="#edf3f6", zerolinecolor="#dde7ef", automargin=True, tickfont=dict(size=11)),
+        xaxis=dict(showgrid=False, zeroline=False, showline=True, linecolor="#D9E4EF", automargin=True, tickfont=dict(size=11, color="#475569"), title_font=dict(size=12, color="#334155")),
+        yaxis=dict(gridcolor="#EAF0F6", zeroline=False, showline=False, automargin=True, tickfont=dict(size=11, color="#475569"), title_font=dict(size=12, color="#334155")),
     )
-    fig.update_xaxes(showline=False, ticks="outside")
-    fig.update_yaxes(showline=False, ticks="outside")
-    fig.update_traces(hoverlabel=dict(namelength=-1))
+    fig.update_xaxes(ticks="outside")
+    fig.update_yaxes(ticks="outside")
+    fig.update_traces(marker_line_color="rgba(255,255,255,.85)", marker_line_width=0.8, opacity=0.94, hoverlabel=dict(namelength=-1))
     return fig
 
 
