@@ -547,8 +547,8 @@ def render_login(app_dir: Path) -> None:
     render_footer()
 
 
-def render_admin_account_management(app_dir: Path) -> None:
-    with st.expander("Admin Control Center", expanded=False):
+def render_admin_account_management(app_dir: Path, expanded: bool = False) -> None:
+    with st.expander("Admin Control Center", expanded=expanded):
         users_df = users_dataframe(app_dir)
         if users_df.empty:
             st.info("No users found.")
@@ -687,11 +687,25 @@ def require_authentication(app_dir: Path) -> dict[str, Any]:
             logout(app_dir)
             st.rerun()
     if user.get("role") == "admin":
-        render_admin_account_management(app_dir)
+        st.markdown(
+            "<div class='auth-mode-note'>Administrator account active. User management is isolated in the separate Admin Console host.</div>",
+            unsafe_allow_html=True,
+        )
     elif user.get("role") == "viewer":
         st.markdown("<div class='auth-mode-note'>Viewer mode: read-only dashboard access.</div>", unsafe_allow_html=True)
     elif user.get("role") == "director":
         st.markdown("<div class='auth-mode-note'>Director mode: executive dashboard access.</div>", unsafe_allow_html=True)
+    return user
+
+
+def require_admin_authentication(app_dir: Path) -> dict[str, Any]:
+    user = require_authentication(app_dir)
+    if str(user.get("role", "")).lower() != "admin" or not is_owner_identity(str(user.get("username", "")), str(user.get("email", ""))):
+        st.error("Admin Console access is restricted to Engr. Ahmed Labib.")
+        if st.button("Sign out", width="stretch"):
+            logout(app_dir)
+            st.rerun()
+        st.stop()
     return user
 
 
