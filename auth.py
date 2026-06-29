@@ -35,8 +35,9 @@ DASHBOARD_SECTIONS = [
     "Delay Analysis - Time Impact Analysis",
     "Contract & Claims Intelligence Center",
     "Output Studio",
+    "Data Quality & Export Center",
 ]
-DIRECTOR_DEFAULT_SECTIONS = ["Overview", "EVM Analysis", "Risks", "Output Studio"]
+DIRECTOR_DEFAULT_SECTIONS = ["Overview", "EVM Analysis", "Risks", "Output Studio", "Data Quality & Export Center"]
 VIEWER_DEFAULT_SECTIONS = ["Overview", "WBS", "Activities", "Milestones", "S-Curve", "EVM Analysis", "Contracts", "Risks"]
 
 
@@ -429,6 +430,11 @@ def render_auth_css() -> None:
         .auth-hero p{color:#dbeafe;margin:8px 0 0}
         .auth-footer{text-align:center;color:#64748b;font-size:12px;margin-top:20px}
         .role-pill{display:inline-block;background:#e0f2fe;color:#075985;border-radius:999px;padding:4px 9px;font-weight:800;font-size:12px}
+        .auth-account-bar{position:sticky;top:0;z-index:999;background:rgba(255,255,255,.96);backdrop-filter:blur(12px);border:1px solid #d9e4ef;border-radius:12px;padding:10px 12px;margin:0 0 14px;box-shadow:0 10px 28px rgba(15,23,42,.08)}
+        .auth-account-name{font-weight:900;color:#0b2a4a;margin:0}
+        .auth-account-meta{font-size:12px;color:#64748b;margin:2px 0 0}
+        .auth-mode-note{background:#f4f7fa;border:1px solid #d9e4ef;border-radius:10px;padding:10px 12px;color:#334155;margin:8px 0 14px}
+        @media(max-width:768px){.auth-account-bar{border-radius:0;margin:-1rem -1rem 14px;padding:10px 14px}.auth-account-name{font-size:14px}}
         </style>
         """,
         unsafe_allow_html=True,
@@ -542,7 +548,7 @@ def render_login(app_dir: Path) -> None:
 
 
 def render_admin_account_management(app_dir: Path) -> None:
-    with st.sidebar.expander("Admin Account Management", expanded=False):
+    with st.expander("Admin Control Center", expanded=False):
         users_df = users_dataframe(app_dir)
         if users_df.empty:
             st.info("No users found.")
@@ -661,18 +667,31 @@ def require_authentication(app_dir: Path) -> dict[str, Any]:
         render_login(app_dir)
         st.stop()
 
-    with st.sidebar:
-        st.markdown(f"**{user.get('full_name', user.get('username', 'User'))}**")
-        st.markdown(f"<span class='role-pill'>{str(user.get('role', 'viewer')).upper()}</span>", unsafe_allow_html=True)
+    render_auth_css()
+    account_col, role_col, logout_col = st.columns([0.62, 0.18, 0.20])
+    with account_col:
+        st.markdown(
+            "<div class='auth-account-bar'>"
+            f"<p class='auth-account-name'>{user.get('full_name', user.get('username', 'User'))}</p>"
+            f"<p class='auth-account-meta'>{user.get('email', '')}</p>"
+            "</div>",
+            unsafe_allow_html=True,
+        )
+    with role_col:
+        st.markdown(
+            f"<div class='auth-account-bar'><span class='role-pill'>{str(user.get('role', 'viewer')).upper()}</span></div>",
+            unsafe_allow_html=True,
+        )
+    with logout_col:
         if st.button("Logout", width="stretch"):
             logout(app_dir)
             st.rerun()
-        if user.get("role") == "admin":
-            render_admin_account_management(app_dir)
-        elif user.get("role") == "viewer":
-            st.info("Viewer mode: read-only dashboard access.")
-        elif user.get("role") == "director":
-            st.info("Director mode: executive dashboard access.")
+    if user.get("role") == "admin":
+        render_admin_account_management(app_dir)
+    elif user.get("role") == "viewer":
+        st.markdown("<div class='auth-mode-note'>Viewer mode: read-only dashboard access.</div>", unsafe_allow_html=True)
+    elif user.get("role") == "director":
+        st.markdown("<div class='auth-mode-note'>Director mode: executive dashboard access.</div>", unsafe_allow_html=True)
     return user
 
 
