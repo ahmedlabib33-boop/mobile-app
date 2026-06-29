@@ -33,6 +33,7 @@ import plotly.graph_objects as go
 import streamlit as st
 import auth
 import contract_claims_center as ccc
+from src.construction_system import premium_platform as premium
 from reports.tia_director_pack_generator import (
     REPORT_TYPE_TIA_DIRECTOR_PACK,
     TIADirectorPackGenerator,
@@ -497,6 +498,7 @@ def apply_mobile_first_dashboard_css() -> None:
 
 
 apply_mobile_first_dashboard_css()
+premium.apply_premium_shell_css()
 
 
 def render_health_check() -> None:
@@ -2848,6 +2850,7 @@ PROJECT_HUB_SLIDE_NAMES = [
     "Delay Analysis - Time Impact Analysis",
     "Contract & Claims Intelligence Center",
     "Output Studio",
+    "Data Quality & Export Center",
 ]
 
 
@@ -8429,7 +8432,7 @@ if str(AUTH_USER.get("role", "viewer")).lower() == "director":
     VISIBLE_PROJECT_SLIDE_NAMES = [
         slide_name
         for slide_name in VISIBLE_PROJECT_SLIDE_NAMES
-        if slide_name in {"Overview", "EVM Analysis", "Risks", "Output Studio"}
+        if slide_name in {"Overview", "EVM Analysis", "Risks", "Output Studio", "Data Quality & Export Center"}
     ]
 if str(AUTH_USER.get("role", "viewer")).lower() != "admin":
     allowed_sections = [
@@ -8441,11 +8444,7 @@ if str(AUTH_USER.get("role", "viewer")).lower() != "admin":
         VISIBLE_PROJECT_SLIDE_NAMES = allowed_sections
 if st.session_state.get("active_project_slide_name") not in VISIBLE_PROJECT_SLIDE_NAMES:
     st.session_state["active_project_slide_name"] = "Output Studio" if "Output Studio" in VISIBLE_PROJECT_SLIDE_NAMES else VISIBLE_PROJECT_SLIDE_NAMES[0]
-active_slide_name = st.selectbox(
-    "Project slide",
-    VISIBLE_PROJECT_SLIDE_NAMES,
-    key="active_project_slide_name",
-)
+active_slide_name = premium.render_top_navigation(VISIBLE_PROJECT_SLIDE_NAMES, key="active_project_slide_name")
 if str(AUTH_USER.get("role", "viewer")).lower() == "director":
     st.caption("Director access is focused on executive overview, EVM, risk, and output dashboards.")
 
@@ -11283,6 +11282,9 @@ if active_slide_name == PROJECT_HUB_SLIDE_NAMES[12]:
                 width="stretch",
                 disabled=not bool(claim_html or contract_library_html),
             )
+
+if active_slide_name == "Data Quality & Export Center":
+    premium.render_quality_export_center(APP_DIR)
 
 st.divider()
 st.markdown("<p style='text-align:center;color:#667085;font-size:12px;'>Construction Project Control Platform | Designed and Developed By Eng. Ahmed Labib © Planning Department</p>", unsafe_allow_html=True)
