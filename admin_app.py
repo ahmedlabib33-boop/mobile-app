@@ -113,8 +113,15 @@ with tabs[2]:
     st.markdown("<div class='premium-card'><h3>Admin Audit View</h3><p>Use this view before handover or after approving users.</p></div>", unsafe_allow_html=True)
     if not users_df.empty:
         role_df = users_df.groupby(["role", "is_active"], dropna=False).size().reset_index(name="count")
-        fig = px.bar(role_df, x="role", y="count", color=role_df["is_active"].map({1: "Active", 0: "Pending"}), title="Users by Role and Approval Status")
-        fig.update_layout(height=360, margin=dict(l=20, r=20, t=60, b=20), showlegend=True)
+        fig = px.bar(
+            role_df,
+            x="role",
+            y="count",
+            color=role_df["is_active"].map({1: "Active", 0: "Pending"}),
+            title="Users by Role and Approval Status",
+            color_discrete_map=premium.STATUS_COLOR_MAP,
+        )
+        premium.style_premium_chart(fig, height=380, show_legend=True)
         st.plotly_chart(fig, width="stretch", config={"displaylogo": False, "responsive": True})
     st.info("Only the owner identity can hold administrator role. Any non-owner admin role is automatically downgraded by the auth initializer.")
 
