@@ -34,6 +34,27 @@ DATE_HINTS = ("date", "start", "finish", "baseline", "actual", "planned", "perio
 STATUS_HINTS = ("status", "state", "approval")
 OWNER_HINTS = ("owner", "responsible", "party", "contractor", "engineer", "discipline")
 CATEGORY_HINTS = ("category", "type", "class", "risk", "claim", "delay", "package")
+PREMIUM_COLORS = [
+    "#0B2A4A",
+    "#0F8492",
+    "#D1A329",
+    "#1D5C83",
+    "#6B7280",
+    "#7C3AED",
+    "#B94642",
+    "#10B981",
+    "#F59E0B",
+    "#475569",
+]
+STATUS_COLOR_MAP = {
+    "Active": "#0F8492",
+    "Pending": "#D1A329",
+    "Open": "#B94642",
+    "Resolved": "#10B981",
+    "High": "#B94642",
+    "Medium": "#D1A329",
+    "Low": "#1D5C83",
+}
 
 
 def apply_premium_shell_css() -> None:
@@ -94,6 +115,71 @@ def render_top_navigation(slides: list[str], key: str = "active_project_slide_na
         st.session_state[key] = mobile_selected
         return str(mobile_selected)
     return str(st.session_state.get(key, slides[0]))
+
+
+def style_premium_chart(fig: go.Figure, height: int = 380, title: str | None = None, show_legend: bool | None = None) -> go.Figure:
+    chart_title = title if title is not None else (fig.layout.title.text if fig.layout.title and fig.layout.title.text else "")
+    fig.update_layout(
+        template="plotly_white",
+        height=height,
+        autosize=True,
+        paper_bgcolor="rgba(0,0,0,0)",
+        plot_bgcolor="#FFFFFF",
+        font=dict(family='Inter, "Segoe UI", Arial, sans-serif', size=12, color="#1F2937"),
+        title=dict(
+            text=chart_title,
+            x=0.015,
+            xanchor="left",
+            y=0.98,
+            font=dict(size=18, color="#0B2A4A", family='Inter, "Segoe UI", Arial, sans-serif'),
+        ),
+        margin=dict(l=34, r=24, t=70 if chart_title else 34, b=58),
+        colorway=PREMIUM_COLORS,
+        legend=dict(
+            orientation="h",
+            yanchor="bottom",
+            y=1.04,
+            xanchor="right",
+            x=1,
+            bgcolor="rgba(255,255,255,.88)",
+            bordercolor="rgba(217,228,239,.9)",
+            borderwidth=1,
+            font=dict(size=11, color="#334155"),
+            title_text="",
+        ),
+        hoverlabel=dict(
+            bgcolor="#0B2A4A",
+            bordercolor="#0B2A4A",
+            font=dict(color="#FFFFFF", size=12, family='Inter, "Segoe UI", Arial, sans-serif'),
+            namelength=-1,
+        ),
+        modebar=dict(orientation="v"),
+    )
+    if show_legend is not None:
+        fig.update_layout(showlegend=show_legend)
+    fig.update_xaxes(
+        showgrid=False,
+        zeroline=False,
+        showline=True,
+        linecolor="#D9E4EF",
+        tickfont=dict(size=11, color="#475569"),
+        title_font=dict(size=12, color="#334155"),
+        automargin=True,
+    )
+    fig.update_yaxes(
+        gridcolor="#EAF0F6",
+        zeroline=False,
+        showline=False,
+        tickfont=dict(size=11, color="#475569"),
+        title_font=dict(size=12, color="#334155"),
+        automargin=True,
+    )
+    fig.update_traces(
+        marker_line_color="rgba(255,255,255,.85)",
+        marker_line_width=0.8,
+        opacity=0.94,
+    )
+    return fig
 
 
 def _safe_key(value: str) -> str:
@@ -297,13 +383,13 @@ def chart_pack(tables: dict[str, pd.DataFrame], issues: pd.DataFrame, score: int
     charts: dict[str, tuple[go.Figure, pd.DataFrame, str]] = {}
     if not issues.empty:
         sev_df = issues.groupby(["severity", "status"], dropna=False).size().reset_index(name="count")
-        fig = px.bar(sev_df, x="severity", y="count", color="status", title="Validation Issues by Severity", color_discrete_sequence=["#B94642", "#D1A329", "#0F8492"])
-        fig.update_layout(height=360, margin=dict(l=20, r=20, t=60, b=20))
+        fig = px.bar(sev_df, x="severity", y="count", color="status", title="Validation Issues by Severity", color_discrete_map=STATUS_COLOR_MAP)
+        style_premium_chart(fig, height=370)
         charts["validation_issues_by_severity"] = (fig, sev_df, "Shows unresolved and resolved issues by severity.")
     score_df = pd.DataFrame({"category": list(categories.keys()) + ["Overall"], "score": list(categories.values()) + [score]})
     fig = px.bar(score_df, x="category", y="score", title="Readiness Score by Category", color="score", color_continuous_scale=["#B94642", "#D1A329", "#0F8492"])
     fig.update_yaxes(range=[0, 100])
-    fig.update_layout(height=380, margin=dict(l=20, r=20, t=60, b=80))
+    style_premium_chart(fig, height=390, show_legend=False)
     charts["readiness_score_by_category"] = (fig, score_df, "Measures readiness across completeness, logic, relationships, charts, and exports.")
     for name, df in list(tables.items())[:8]:
         if df.empty:
@@ -314,8 +400,8 @@ def chart_pack(tables: dict[str, pd.DataFrame], issues: pd.DataFrame, score: int
             if col:
                 data = df[col].fillna("Required / To be verified").astype(str).replace("", "Required / To be verified").value_counts().head(12).reset_index()
                 data.columns = [col, "count"]
-                fig = px.bar(data, x=col, y="count", title=f"{name}: Summary by {label.title()}", color=col)
-                fig.update_layout(showlegend=False, height=360, margin=dict(l=20, r=20, t=60, b=90))
+                fig = px.bar(data, x=col, y="count", title=f"{name}: Summary by {label.title()}", color=col, color_discrete_sequence=PREMIUM_COLORS)
+                style_premium_chart(fig, height=370, show_legend=False)
                 charts[f"{_safe_key(name)}_by_{label}"] = (fig, data, f"Distribution of records by detected {label} field.")
                 break
         date_col = _contains_any(cols, DATE_HINTS)
@@ -324,8 +410,9 @@ def chart_pack(tables: dict[str, pd.DataFrame], issues: pd.DataFrame, score: int
             if not series.empty:
                 trend = series.dt.to_period("M").astype(str).value_counts().sort_index().reset_index()
                 trend.columns = ["period", "count"]
-                fig = px.line(trend, x="period", y="count", markers=True, title=f"{name}: Records by Date Period")
-                fig.update_layout(height=360, margin=dict(l=20, r=20, t=60, b=70))
+                fig = px.line(trend, x="period", y="count", markers=True, title=f"{name}: Records by Date Period", color_discrete_sequence=["#0F8492"])
+                fig.update_traces(line=dict(width=3), marker=dict(size=8, color="#0B2A4A", line=dict(width=2, color="#FFFFFF")))
+                style_premium_chart(fig, height=370, show_legend=False)
                 charts[f"{_safe_key(name)}_date_trend"] = (fig, trend, "Monthly trend based on detected date field.")
     return charts
 
