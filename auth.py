@@ -3,10 +3,11 @@ from __future__ import annotations
 import base64
 import hashlib
 import hmac
+import json
 import os
 import secrets
 import sqlite3
-from datetime import datetime, timezone
+from datetime import datetime, timedelta, timezone
 from pathlib import Path
 from typing import Any
 
@@ -14,7 +15,29 @@ import pandas as pd
 import streamlit as st
 
 ROLES = ("admin", "director", "viewer")
+NON_ADMIN_ROLES = ("director", "viewer")
 PBKDF2_ITERATIONS = 260_000
+OWNER_USERNAME = "ahmed_labib"
+OWNER_EMAIL = "ahmedlabib33@gmail.com"
+OWNER_FULL_NAME = "Engr. Ahmed Labib"
+OWNER_DEFAULT_PASSWORD = os.getenv("PIH_MOBILE_APP_OWNER_PASSWORD", "Ahmed731988")
+REMEMBER_DAYS = 45
+DASHBOARD_SECTIONS = [
+    "Overview",
+    "WBS",
+    "Activities",
+    "Milestones",
+    "S-Curve",
+    "EVM Analysis",
+    "Contracts",
+    "Letters Intelligence",
+    "Risks",
+    "Delay Analysis - Time Impact Analysis",
+    "Contract & Claims Intelligence Center",
+    "Output Studio",
+]
+DIRECTOR_DEFAULT_SECTIONS = ["Overview", "EVM Analysis", "Risks", "Output Studio"]
+VIEWER_DEFAULT_SECTIONS = ["Overview", "WBS", "Activities", "Milestones", "S-Curve", "EVM Analysis", "Contracts", "Risks"]
 
 
 def utc_now() -> str:
@@ -31,6 +54,47 @@ def connect(app_dir: Path) -> sqlite3.Connection:
     conn = sqlite3.connect(db_path(app_dir))
     conn.row_factory = sqlite3.Row
     return conn
+
+
+def normalize_username(username: str) -> str:
+    return username.strip().lower()
+
+
+def normalize_email(email: str) -> str:
+    return email.strip().lower()
+
+
+def default_access_sections(role: str) -> list[str]:
+    role = str(role).strip().lower()
+    if role == "admin":
+        return DASHBOARD_SECTIONS.copy()
+    if role == "director":
+        return DIRECTOR_DEFAULT_SECTIONS.copy()
+    return VIEWER_DEFAULT_SECTIONS.copy()
+
+
+def encode_sections(sections: list[str] | tuple[str, ...] | None, role: str = "viewer") -> str:
+    valid = [section for section in (sections or default_access_sections(role)) if section in DASHBOARD_SECTIONS]
+    if not valid:
+        valid = default_access_sections(role)
+    return json.dumps(valid)
+
+
+def decode_sections(value: str | None, role: str = "viewer") -> list[str]:
+    if not value:
+        return default_access_sections(role)
+    try:
+        loaded = json.loads(value)
+    except (TypeError, json.JSONDecodeError):
+        return default_access_sections(role)
+    if not isinstance(loaded, list):
+        return default_access_sections(role)
+    sections = [str(item) for item in loaded if str(item) in DASHBOARD_SECTIONS]
+    return sections or default_access_sections(role)
+
+
+def is_owner_identity(username: str = "", email: str = "") -> bool:
+    return normalize_username(username) == OWNER_USERNAME or normalize_email(email) == OWNER_EMAIL
 
 
 def init_auth_db(app_dir: Path) -> None:
@@ -53,6 +117,67 @@ def init_auth_db(app_dir: Path) -> None:
         )
         conn.execute("CREATE INDEX IF NOT EXISTS idx_users_username ON users(username)")
         conn.execute("CREATE INDEX IF NOT EXISTS idx_users_email ON users(email)")
+        existing_columns = {row["name"] for row in conn.execute("PRAGMA table_info(users)").fetchall()}
+        migrations = {
+            "approved_by": "ALTER TABLE users ADD COLUMN approved_by TEXT",
+            "approved_at": "ALTER TABLE users ADD COLUMN approved_at TEXT",
+            "access_sections": "ALTER TABLE users ADD COLUMN access_sections TEXT",
+            "remember_token_hash": "ALTER TABLE users ADD COLUMN remember_token_hash TEXT",
+            "remember_expires_at": "ALTER TABLE users ADD COLUMN remember_expires_at TEXT",
+        }
+        for column, statement in migrations.items():
+            if column not in existing_columns:
+                conn.execute(statement)
+        conn.execute(
+            "UPDATE users SET access_sections = ? WHERE access_sections IS NULL OR access_sections = ''",
+            (encode_sections(VIEWER_DEFAULT_SECTIONS, "viewer"),),
+        )
+
+
+def ensure_owner_account(app_dir: Path) -> None:
+    init_auth_db(app_dir)
+    with connect(app_dir) as conn:
+        owner = conn.execute(
+            "SELECT id FROM users WHERE lower(username) = ? OR lower(email) = ?",
+            (OWNER_USERNAME, OWNER_EMAIL),
+        ).fetchone()
+        if owner is None:
+            conn.execute(
+                """
+                INSERT INTO users (
+                    username, email, full_name, password_hash, role, is_active,
+                    must_change_password, created_at, approved_by, approved_at, access_sections
+                )
+                VALUES (?, ?, ?, ?, 'admin', 1, 0, ?, 'system', ?, ?)
+                """,
+                (
+                    OWNER_USERNAME,
+                    OWNER_EMAIL,
+                    OWNER_FULL_NAME,
+                    hash_password(OWNER_DEFAULT_PASSWORD),
+                    utc_now(),
+                    utc_now(),
+                    encode_sections(DASHBOARD_SECTIONS, "admin"),
+                ),
+            )
+        else:
+            conn.execute(
+                """
+                UPDATE users
+                SET username = ?, email = ?, full_name = ?, role = 'admin', is_active = 1,
+                    access_sections = ?
+                WHERE id = ?
+                """,
+                (OWNER_USERNAME, OWNER_EMAIL, OWNER_FULL_NAME, encode_sections(DASHBOARD_SECTIONS, "admin"), owner["id"]),
+            )
+        conn.execute(
+            """
+            UPDATE users
+            SET role = 'viewer'
+            WHERE role = 'admin' AND lower(username) <> ? AND lower(email) <> ?
+            """,
+            (OWNER_USERNAME, OWNER_EMAIL),
+        )
 
 
 def user_count(app_dir: Path) -> int:
@@ -107,16 +232,20 @@ def create_user(
     full_name: str,
     password: str,
     role: str,
-    is_active: bool = True,
+    is_active: bool = False,
     must_change_password: bool = False,
+    access_sections: list[str] | None = None,
+    approved_by: str | None = None,
 ) -> tuple[bool, str]:
     init_auth_db(app_dir)
-    username = username.strip().lower()
-    email = email.strip().lower()
+    username = normalize_username(username)
+    email = normalize_email(email)
     full_name = full_name.strip()
     role = role.strip().lower()
     if not username or not email or not full_name:
         return False, "Username, email, and full name are required."
+    if role == "admin" and not is_owner_identity(username, email):
+        return False, "Only Ahmed Labib can be administrator."
     if role not in ROLES:
         return False, "Invalid role."
     errors = password_policy_errors(password)
@@ -128,9 +257,9 @@ def create_user(
                 """
                 INSERT INTO users (
                     username, email, full_name, password_hash, role,
-                    is_active, must_change_password, created_at
+                    is_active, must_change_password, created_at, approved_by, approved_at, access_sections
                 )
-                VALUES (?, ?, ?, ?, ?, ?, ?, ?)
+                VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
                 """,
                 (
                     username,
@@ -141,6 +270,9 @@ def create_user(
                     1 if is_active else 0,
                     1 if must_change_password else 0,
                     utc_now(),
+                    approved_by,
+                    utc_now() if is_active else None,
+                    encode_sections(access_sections, role),
                 ),
             )
         return True, "User account created."
@@ -154,7 +286,7 @@ def authenticate(app_dir: Path, username_or_email: str, password: str) -> tuple[
     with connect(app_dir) as conn:
         row = conn.execute(
             """
-            SELECT id, username, email, full_name, password_hash, role, is_active, must_change_password
+            SELECT id, username, email, full_name, password_hash, role, is_active, must_change_password, access_sections
             FROM users
             WHERE lower(username) = ? OR lower(email) = ?
             """,
@@ -163,10 +295,57 @@ def authenticate(app_dir: Path, username_or_email: str, password: str) -> tuple[
         if row is None or not verify_password(password, row["password_hash"]):
             return False, "Invalid username/email or password.", None
         if not int(row["is_active"]):
-            return False, "This account is inactive. Contact the administrator.", None
+            return False, "Your account is pending administrator approval.", None
         conn.execute("UPDATE users SET last_login_at = ? WHERE id = ?", (utc_now(), row["id"]))
     user = {key: row[key] for key in row.keys() if key != "password_hash"}
+    user["access_sections"] = decode_sections(user.get("access_sections"), str(user.get("role", "viewer")))
     return True, "Login successful.", user
+
+
+def hash_remember_token(token: str) -> str:
+    return hashlib.sha256(token.encode("utf-8")).hexdigest()
+
+
+def create_remember_token(app_dir: Path, user_id: int) -> str:
+    token = secrets.token_urlsafe(32)
+    expires = datetime.now(timezone.utc) + timedelta(days=REMEMBER_DAYS)
+    with connect(app_dir) as conn:
+        conn.execute(
+            "UPDATE users SET remember_token_hash = ?, remember_expires_at = ? WHERE id = ?",
+            (hash_remember_token(token), expires.replace(microsecond=0).isoformat(), int(user_id)),
+        )
+    return token
+
+
+def revoke_remember_token(app_dir: Path, user_id: int | None) -> None:
+    if not user_id:
+        return
+    with connect(app_dir) as conn:
+        conn.execute("UPDATE users SET remember_token_hash = NULL, remember_expires_at = NULL WHERE id = ?", (int(user_id),))
+
+
+def user_from_remember_token(app_dir: Path, token: str) -> dict[str, Any] | None:
+    token = str(token or "").strip()
+    if not token:
+        return None
+    now = utc_now()
+    with connect(app_dir) as conn:
+        row = conn.execute(
+            """
+            SELECT id, username, email, full_name, role, is_active, must_change_password, access_sections, remember_expires_at
+            FROM users
+            WHERE remember_token_hash = ?
+            """,
+            (hash_remember_token(token),),
+        ).fetchone()
+        if row is None or not int(row["is_active"]):
+            return None
+        if str(row["remember_expires_at"] or "") < now:
+            conn.execute("UPDATE users SET remember_token_hash = NULL, remember_expires_at = NULL WHERE id = ?", (row["id"],))
+            return None
+    user = dict(row)
+    user["access_sections"] = decode_sections(user.get("access_sections"), str(user.get("role", "viewer")))
+    return user
 
 
 def set_password(app_dir: Path, user_id: int, password: str, must_change_password: bool = False) -> tuple[bool, str]:
@@ -181,14 +360,50 @@ def set_password(app_dir: Path, user_id: int, password: str, must_change_passwor
     return True, "Password updated."
 
 
-def update_user(app_dir: Path, user_id: int, role: str, is_active: bool) -> None:
+def update_user(app_dir: Path, user_id: int, role: str, is_active: bool, access_sections: list[str] | None = None, approved_by: str | None = None) -> None:
     if role not in ROLES:
         raise ValueError("Invalid role")
     with connect(app_dir) as conn:
+        existing = conn.execute("SELECT username, email, role FROM users WHERE id = ?", (int(user_id),)).fetchone()
+        if existing is None:
+            raise ValueError("User not found")
+        owner = is_owner_identity(existing["username"], existing["email"])
+        if owner:
+            role = "admin"
+            is_active = True
+            access_sections = DASHBOARD_SECTIONS
+        elif role == "admin":
+            raise ValueError("Only Ahmed Labib can be administrator.")
         conn.execute(
-            "UPDATE users SET role = ?, is_active = ? WHERE id = ?",
-            (role, 1 if is_active else 0, int(user_id)),
+            """
+            UPDATE users
+            SET role = ?, is_active = ?, access_sections = ?,
+                approved_by = CASE WHEN ? = 1 THEN COALESCE(approved_by, ?) ELSE approved_by END,
+                approved_at = CASE WHEN ? = 1 THEN COALESCE(approved_at, ?) ELSE approved_at END
+            WHERE id = ?
+            """,
+            (
+                role,
+                1 if is_active else 0,
+                encode_sections(access_sections, role),
+                1 if is_active else 0,
+                approved_by,
+                1 if is_active else 0,
+                utc_now(),
+                int(user_id),
+            ),
         )
+
+
+def delete_user(app_dir: Path, user_id: int) -> tuple[bool, str]:
+    with connect(app_dir) as conn:
+        existing = conn.execute("SELECT username, email FROM users WHERE id = ?", (int(user_id),)).fetchone()
+        if existing is None:
+            return False, "User not found."
+        if is_owner_identity(existing["username"], existing["email"]):
+            return False, "The owner administrator account cannot be removed."
+        conn.execute("DELETE FROM users WHERE id = ?", (int(user_id),))
+    return True, "User removed."
 
 
 def users_dataframe(app_dir: Path) -> pd.DataFrame:
@@ -196,7 +411,7 @@ def users_dataframe(app_dir: Path) -> pd.DataFrame:
     with connect(app_dir) as conn:
         rows = conn.execute(
             """
-            SELECT id, username, email, full_name, role, is_active, must_change_password, created_at, last_login_at
+            SELECT id, username, email, full_name, role, is_active, must_change_password, access_sections, approved_by, approved_at, created_at, last_login_at
             FROM users
             ORDER BY id
             """
@@ -239,8 +454,8 @@ def render_first_admin_setup(app_dir: Path) -> None:
     )
     with st.form("first_admin_setup"):
         full_name = st.text_input("Full name", value="Engr. Ahmed Labib")
-        username = st.text_input("Admin username", value="admin")
-        email = st.text_input("Admin email")
+        username = st.text_input("Admin username", value="Ahmed_Labib", disabled=True)
+        email = st.text_input("Admin email", value=OWNER_EMAIL, disabled=True)
         password = st.text_input("Password", type="password")
         confirm = st.text_input("Confirm password", type="password")
         submitted = st.form_submit_button("Create Admin Account", type="primary", width="stretch")
@@ -285,11 +500,14 @@ def render_login(app_dir: Path) -> None:
         with st.form("login_form"):
             username = st.text_input("Username or email")
             password = st.text_input("Password", type="password")
+            remember_me = st.checkbox("Remember me on this device", value=True)
             submitted = st.form_submit_button("Login", type="primary", width="stretch")
         if submitted:
             ok, message, user = authenticate(app_dir, username, password)
             if ok and user:
                 st.session_state["auth_user"] = user
+                if remember_me:
+                    st.query_params["remember"] = create_remember_token(app_dir, int(user["id"]))
                 st.success(message)
                 st.rerun()
             else:
@@ -301,7 +519,7 @@ def render_login(app_dir: Path) -> None:
             email = st.text_input("Email")
             password = st.text_input("Password", type="password")
             confirm = st.text_input("Confirm password", type="password")
-            submitted = st.form_submit_button("Create Viewer Account", width="stretch")
+            submitted = st.form_submit_button("Request Access", width="stretch")
         if submitted:
             errors = password_policy_errors(password, confirm)
             if errors:
@@ -314,10 +532,10 @@ def render_login(app_dir: Path) -> None:
                     full_name=full_name,
                     password=password,
                     role="viewer",
-                    is_active=True,
+                    is_active=False,
                 )
                 if ok:
-                    st.success("Account created. You can now log in.")
+                    st.success("Access request submitted. Wait for administrator approval before logging in.")
                 else:
                     st.error(message)
     render_footer()
@@ -331,12 +549,18 @@ def render_admin_account_management(app_dir: Path) -> None:
         else:
             st.dataframe(users_df, width="stretch", hide_index=True)
 
-        st.markdown("**Create user**")
+        st.markdown("**Create approved user**")
         with st.form("admin_create_user"):
             full_name = st.text_input("Full name", key="admin_create_full_name")
             username = st.text_input("Username", key="admin_create_username")
             email = st.text_input("Email", key="admin_create_email")
-            role = st.selectbox("Role", ROLES, index=1, key="admin_create_role")
+            role = st.selectbox("Role", NON_ADMIN_ROLES, index=0, key="admin_create_role")
+            access_sections = st.multiselect(
+                "Allowed dashboard sections",
+                DASHBOARD_SECTIONS,
+                default=default_access_sections(role),
+                key="admin_create_access_sections",
+            )
             password = st.text_input("Temporary password", type="password", key="admin_create_password")
             submitted = st.form_submit_button("Create Account")
         if submitted:
@@ -349,6 +573,8 @@ def render_admin_account_management(app_dir: Path) -> None:
                 role=role,
                 is_active=True,
                 must_change_password=True,
+                access_sections=access_sections,
+                approved_by=OWNER_USERNAME,
             )
             if ok:
                 st.success("Account created. Share credentials through a secure channel.")
@@ -364,15 +590,27 @@ def render_admin_account_management(app_dir: Path) -> None:
                 key="admin_edit_user",
             )
             selected = users_df[users_df["username"] == user_label].iloc[0]
-            new_role = st.selectbox(
-                "Role",
-                ROLES,
-                index=ROLES.index(str(selected["role"])),
-                key="admin_edit_role",
+            selected_is_owner = is_owner_identity(str(selected["username"]), str(selected["email"]))
+            role_options = ROLES if selected_is_owner else NON_ADMIN_ROLES
+            selected_role = str(selected["role"])
+            if selected_role not in role_options:
+                selected_role = role_options[0]
+            new_role = st.selectbox("Role", role_options, index=role_options.index(selected_role), key="admin_edit_role", disabled=selected_is_owner)
+            current_sections = decode_sections(str(selected.get("access_sections", "")), selected_role)
+            access_sections = st.multiselect(
+                "Allowed dashboard sections",
+                DASHBOARD_SECTIONS,
+                default=DASHBOARD_SECTIONS if selected_is_owner else current_sections,
+                key="admin_edit_access_sections",
+                disabled=selected_is_owner,
             )
-            active = st.checkbox("Active", value=bool(selected["is_active"]), key="admin_edit_active")
+            active = st.checkbox("Approved / Active", value=bool(selected["is_active"]), key="admin_edit_active", disabled=selected_is_owner)
             if st.button("Save User Changes", key="admin_save_user", width="stretch"):
-                update_user(app_dir, int(selected["id"]), new_role, active)
+                try:
+                    update_user(app_dir, int(selected["id"]), new_role, active, access_sections, approved_by=OWNER_USERNAME)
+                except ValueError as exc:
+                    st.error(str(exc))
+                    st.stop()
                 st.success("User updated.")
                 st.rerun()
             reset_password = st.text_input("New password", type="password", key="admin_reset_password")
@@ -380,6 +618,13 @@ def render_admin_account_management(app_dir: Path) -> None:
                 ok, message = set_password(app_dir, int(selected["id"]), reset_password, must_change_password=True)
                 if ok:
                     st.success("Password reset. Share it securely and ask the user to change it.")
+                else:
+                    st.error(message)
+            if st.button("Remove User", key="admin_remove_user", width="stretch", disabled=selected_is_owner):
+                ok, message = delete_user(app_dir, int(selected["id"]))
+                if ok:
+                    st.success(message)
+                    st.rerun()
                 else:
                     st.error(message)
 
@@ -393,16 +638,25 @@ def is_authenticated() -> bool:
     return current_user() is not None
 
 
-def logout() -> None:
+def logout(app_dir: Path | None = None) -> None:
+    if app_dir is not None:
+        user = current_user()
+        revoke_remember_token(app_dir, int(user["id"]) if user and user.get("id") else None)
     st.session_state.pop("auth_user", None)
+    if "remember" in st.query_params:
+        del st.query_params["remember"]
 
 
 def require_authentication(app_dir: Path) -> dict[str, Any]:
     init_auth_db(app_dir)
-    if user_count(app_dir) == 0:
-        render_first_admin_setup(app_dir)
-        st.stop()
+    ensure_owner_account(app_dir)
     user = current_user()
+    if not user:
+        token = str(st.query_params.get("remember", "") or "").strip()
+        remembered = user_from_remember_token(app_dir, token)
+        if remembered:
+            st.session_state["auth_user"] = remembered
+            user = remembered
     if not user:
         render_login(app_dir)
         st.stop()
@@ -411,7 +665,7 @@ def require_authentication(app_dir: Path) -> dict[str, Any]:
         st.markdown(f"**{user.get('full_name', user.get('username', 'User'))}**")
         st.markdown(f"<span class='role-pill'>{str(user.get('role', 'viewer')).upper()}</span>", unsafe_allow_html=True)
         if st.button("Logout", width="stretch"):
-            logout()
+            logout(app_dir)
             st.rerun()
         if user.get("role") == "admin":
             render_admin_account_management(app_dir)
