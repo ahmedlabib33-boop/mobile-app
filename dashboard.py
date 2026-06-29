@@ -298,6 +298,31 @@ def apply_mobile_first_dashboard_css() -> None:
             color:var(--pih-text);
             overflow-x:hidden;
         }
+        #MainMenu,
+        footer,
+        header,
+        [data-testid="stToolbar"],
+        [data-testid="stDecoration"],
+        [data-testid="stStatusWidget"],
+        [data-testid="stHeader"],
+        [data-testid="stMainMenu"],
+        [data-testid="stDeployButton"],
+        [data-testid="manage-app-button"],
+        a[href*="github.com"],
+        button[title*="GitHub"],
+        button[aria-label*="GitHub"],
+        button[title*="View source"],
+        button[aria-label*="View source"]{
+            display:none!important;
+            visibility:hidden!important;
+            opacity:0!important;
+            pointer-events:none!important;
+        }
+        .viewerBadge_container__r5tak,
+        .st-emotion-cache-14xtw13,
+        .st-emotion-cache-1avcm0n{
+            display:none!important;
+        }
         .main .block-container{
             max-width:1440px;
             padding:1.1rem 1.4rem 2.5rem;
@@ -8406,6 +8431,14 @@ if str(AUTH_USER.get("role", "viewer")).lower() == "director":
         for slide_name in VISIBLE_PROJECT_SLIDE_NAMES
         if slide_name in {"Overview", "EVM Analysis", "Risks", "Output Studio"}
     ]
+if str(AUTH_USER.get("role", "viewer")).lower() != "admin":
+    allowed_sections = [
+        section
+        for section in AUTH_USER.get("access_sections", [])
+        if section in VISIBLE_PROJECT_SLIDE_NAMES
+    ]
+    if allowed_sections:
+        VISIBLE_PROJECT_SLIDE_NAMES = allowed_sections
 if st.session_state.get("active_project_slide_name") not in VISIBLE_PROJECT_SLIDE_NAMES:
     st.session_state["active_project_slide_name"] = "Output Studio" if "Output Studio" in VISIBLE_PROJECT_SLIDE_NAMES else VISIBLE_PROJECT_SLIDE_NAMES[0]
 active_slide_name = st.selectbox(
