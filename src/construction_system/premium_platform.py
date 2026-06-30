@@ -174,11 +174,13 @@ def style_premium_chart(fig: go.Figure, height: int = 380, title: str | None = N
         title_font=dict(size=12, color="#334155"),
         automargin=True,
     )
-    fig.update_traces(
-        marker_line_color="rgba(255,255,255,.85)",
-        marker_line_width=0.8,
-        opacity=0.94,
-    )
+    for trace in fig.data:
+        trace_type = str(getattr(trace, "type", "") or "").lower()
+        if trace_type in {"bar", "histogram", "box", "violin", "scatter", "scattergl", "scatterpolar", "pie", "sunburst", "treemap", "funnel", "waterfall"}:
+            try:
+                trace.update(marker_line_color="rgba(255,255,255,.85)", marker_line_width=0.8, opacity=0.94)
+            except (ValueError, TypeError):
+                trace.update(opacity=0.94)
     return fig
 
 
