@@ -137,6 +137,7 @@ from src.construction_system.steel_delay_tia import (
 
 APP_DIR = Path(__file__).parent
 APP_ENV_PREFIX = "PIH_MOBILE_APP"
+CONTRACTOR_DISPLAY_NAME = "SAMCO - NATIONAL"
 RUNTIME_DIR = APP_DIR / "runtime"
 LOGO_PATH = APP_DIR / "assets" / "logo.png"
 MOBILE_CONFIG_PATH = APP_DIR / "mobile_config.json"
@@ -163,14 +164,29 @@ EVM_COMMENTS_PATH = APP_DIR / "data" / "evm_comments.json"
 TIA_DIRECTOR_WORD_TEMPLATE_PATH = APP_DIR / "reports" / "templates" / "time_impact_analysis_report_director_pack.docx"
 
 st.set_page_config(
-    page_title="Project Intelligence Hub",
+    page_title="Projects Intelligence Hub",
     page_icon=str(LOGO_PATH) if LOGO_PATH.exists() else None,
     layout="wide",
     initial_sidebar_state="collapsed",
     menu_items={
-        "About": "Project Intelligence Hub mobile-ready project controls intelligence platform.",
+        "About": "Projects Intelligence Hub - Integrated Project Controls System.",
     },
 )
+
+
+def force_contractor_display_name(value: Any = "") -> str:
+    return CONTRACTOR_DISPLAY_NAME
+
+
+def force_contractor_columns(df: pd.DataFrame) -> pd.DataFrame:
+    if df.empty:
+        return df
+    updated = df.copy()
+    for column in updated.columns:
+        normalized = re.sub(r"[^a-z0-9]+", "_", str(column).strip().lower()).strip("_")
+        if normalized in {"contractor", "contractor_name", "main_contractor"}:
+            updated[column] = CONTRACTOR_DISPLAY_NAME
+    return updated
 
 
 def _github_sync_command(mode: str, interval_seconds: int = 30) -> list[str]:
@@ -813,17 +829,17 @@ def load_core_csv(path: Path, project_id: str | None = None):
                     frame.insert(1, "source_project_id", source_ids)
                 frame["project_id"] = discovered_project_id
             frames.append(frame)
-        return pd.concat(frames, ignore_index=True, sort=False) if frames else pd.DataFrame()
+        return force_contractor_columns(pd.concat(frames, ignore_index=True, sort=False)) if frames else pd.DataFrame()
 
     scoped_path = project_scoped_file(path, requested_project_id)
     if not scoped_path.exists():
         return pd.DataFrame()
     stat = scoped_path.stat()
-    return _load_core_csv_cached(str(scoped_path), stat.st_mtime_ns, stat.st_size)
+    return force_contractor_columns(_load_core_csv_cached(str(scoped_path), stat.st_mtime_ns, stat.st_size))
 
 
 def project_filter_options(projects_df: pd.DataFrame) -> list[dict[str, str]]:
-    portfolio_label = "Decision Making dashboard"
+    portfolio_label = "Decision Making Dashboard"
     if projects_df.empty:
         return [{"label": portfolio_label, "project_id": ""}]
     options = [{"label": portfolio_label, "project_id": ""}]
@@ -1283,7 +1299,7 @@ def render_decision_making_dashboard(projects_catalog_df: pd.DataFrame) -> None:
     st.markdown(
         """
         <div class='section-header'>
-          <h3>Decision Making dashboard</h3>
+          <h3>Decision Making Dashboard</h3>
           <p style='margin:6px 0 0;color:#526276;font-size:13px'>Executive portfolio command center generated from project data, sector aggregation, and project controls indicators.</p>
         </div>
         """,
@@ -2599,7 +2615,7 @@ def build_the_big_decision_dashboard_html(
 ) -> str:
     report_date = pd.Timestamp.today().strftime("%d %b %Y")
     project_name = str(overview_metrics.get("project_name") or project_record.get("project_name") or "Project").strip()
-    brand_name = str(project_record.get("contractor") or project_record.get("contractor_name") or "Project Team").strip()
+    brand_name = CONTRACTOR_DISPLAY_NAME
     actual = float(overview_metrics.get("overall_progress", 0.0) or 0.0)
     planned = float(overview_metrics.get("planned_progress", 0.0) or 0.0)
     remaining = float(overview_metrics.get("remaining_duration_pct", 0.0) or 0.0)
@@ -4864,7 +4880,7 @@ def _build_detailed_progress_report_frames(overview_metrics: dict, evm_metrics: 
         "Main Scope": str(project_row.get("project_name", "")),
         "Client": str(project_row.get("client_name", "")),
         "Consultant": str(project_row.get("consultant", "")),
-        "Contractor": str(project_row.get("contractor", "")),
+        "Contractor": CONTRACTOR_DISPLAY_NAME,
         "PMO": str(project_row.get("pmo", "")),
         "Key Narrative": "Unified progress, cost, risk, and correspondence control pack generated from the live platform data model.",
     }])
@@ -5515,7 +5531,7 @@ st.markdown(
     unsafe_allow_html=True,
 )
 
-projects_for_selector_df = projects_frame(PROJECTS_DIR)
+projects_for_selector_df = force_contractor_columns(projects_frame(PROJECTS_DIR))
 project_selector_options = project_filter_options(projects_for_selector_df)
 project_selector_labels = [option["label"] for option in project_selector_options]
 current_project_id = selected_project_id()
@@ -5558,6 +5574,8 @@ active_project_record = {
     **(active_catalog_record or {}),
     **(active_project_rows.iloc[0].to_dict() if not active_project_rows.empty else selected_project_option),
 }
+active_project_record["contractor"] = CONTRACTOR_DISPLAY_NAME
+active_project_record["contractor_name"] = CONTRACTOR_DISPLAY_NAME
 contract_scope_dir = active_project_context.project_folder_path
 CONTRACT_CLAIMS_DIRS = ccc.ensure_contract_claims_dirs(contract_scope_dir)
 CONTRACT_REPOSITORY_DIR = CONTRACT_CLAIMS_DIRS["contracts_dir"]
@@ -5601,15 +5619,16 @@ legacy_project_logo_path = project_data_path(PROJECTS_DIR, active_project_id, "b
 if not project_logo_path.exists() and legacy_project_logo_path.exists():
     project_logo_path = legacy_project_logo_path
 logo_b64 = image_as_base64(project_logo_path if project_logo_path.exists() else LOGO_PATH)
-contractor_name = str(active_project_record.get("contractor") or active_project_record.get("contractor_name") or "Portfolio").strip()
+contractor_name = CONTRACTOR_DISPLAY_NAME
 employer_name = str(active_project_record.get("client_name") or active_project_record.get("employer") or "Portfolio").strip()
 project_display_name = str(overview_metrics.get("project_name") or active_project_record.get("project_name") or "All Projects").strip()
-hub_owner_name = contractor_name if active_project_id else "Projects"
+hub_title = "Projects - Projects Intelligence Hub" if active_project_id else "Projects Intelligence Hub"
+hub_subtitle = "Integrated Project Controls System" if active_project_id else "Decision Making Dashboard"
 logo_html = f"<img src='data:image/png;base64,{logo_b64}' alt='Project logo'>" if logo_b64 else ""
 st.markdown(
     f"""
     <div class='samco-header'>
-      <div class='samco-headline'>{logo_html}<div><div class='samco-title'>{html.escape(hub_owner_name)} - Projects Intelligence Hub</div><div class='samco-subtitle'>Integrated Project Controls System</div></div></div>
+      <div class='samco-headline'>{logo_html}<div><div class='samco-title'>{html.escape(hub_title)}</div><div class='samco-subtitle'>{html.escape(hub_subtitle)}</div></div></div>
       <div class='samco-contract-info'>
         <div class='samco-info-item'><div class='samco-info-label'>Contractor</div><div class='samco-info-value'>{html.escape(contractor_name)}</div></div>
         <div class='samco-info-item'><div class='samco-info-label'>Employer</div><div class='samco-info-value'>{html.escape(employer_name)}</div></div>
@@ -7668,7 +7687,7 @@ def build_delay_tia_director_metadata(context: dict, analysis: dict) -> dict:
         "project_name": str(project_row.get("project_name") or selected_project_id() or "Project"),
         "contract_no": str(project_row.get("contract_no") or "NOT PROVIDED IN PROJECT DATA"),
         "employer": str(project_row.get("client_name") or project_row.get("employer") or "Employer"),
-        "contractor": str(project_row.get("contractor") or "Contractor"),
+        "contractor": CONTRACTOR_DISPLAY_NAME,
         "contract_form_or_clause": "From uploaded contract library and matched clauses",
         "accepted_baseline_programme": "Project baseline package plus activity export",
         "impacted_update": "Current uploaded Delay TIA analysis context",
@@ -8106,7 +8125,7 @@ def build_delay_tia_director_pack_context(
         "data_date": overrides.get("data_date", metadata.get("data_date", pd.Timestamp.today().normalize())),
         "revision": overrides.get("revision", "Rev. 00"),
         "employer": overrides.get("employer", metadata.get("employer", "")),
-        "contractor": overrides.get("contractor", metadata.get("contractor", "")),
+        "contractor": CONTRACTOR_DISPLAY_NAME,
         "contract_form_clause": overrides.get("contract_form_clause", metadata.get("contract_form_or_clause", "")),
         "accepted_baseline_programme": overrides.get("accepted_baseline_programme", metadata.get("accepted_baseline_programme", "")),
         "impacted_update_programme": overrides.get("impacted_update_programme", metadata.get("impacted_update", "")),
@@ -10058,8 +10077,9 @@ if active_slide_name == PROJECT_HUB_SLIDE_NAMES[11]:
             )
             contractor = schedule_col3.text_input(
                 "Contractor",
-                value=default_report_context["contractor"],
+                value=CONTRACTOR_DISPLAY_NAME,
                 key="tia_director_pack_contractor",
+                disabled=True,
             )
 
             detail_col1, detail_col2 = st.columns(2)
