@@ -1,0 +1,5 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="96" fill="#0f172a"/>
+  <circle cx="256" cy="256" r="170" fill="#38bdf8"/>
+  <text x="256" y="286" font-size="96" font-family="Arial" font-weight="700" text-anchor="middle" fill="#ffffff">PIH</text>
+</svg>

@@ -7,3 +7,5 @@ openpyxl
 python-pptx
 reportlab
 openai
+
+streamlit-cookies-controller

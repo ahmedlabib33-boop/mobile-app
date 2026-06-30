@@ -33,6 +33,7 @@ import plotly.graph_objects as go
 import streamlit as st
 import auth
 import contract_claims_center as ccc
+from modules.problem_solving_engine import render_problem_solving_engine
 from src.construction_system import premium_platform as premium
 from reports.tia_director_pack_generator import (
     REPORT_TYPE_TIA_DIRECTOR_PACK,
@@ -138,6 +139,7 @@ from src.construction_system.steel_delay_tia import (
 APP_DIR = Path(__file__).parent
 APP_ENV_PREFIX = "PIH_MOBILE_APP"
 CONTRACTOR_DISPLAY_NAME = "SAMCO - NATIONAL"
+PROBLEM_SOLVING_PROJECT_ID = "__problem_solving_engine__"
 RUNTIME_DIR = APP_DIR / "runtime"
 LOGO_PATH = APP_DIR / "assets" / "logo.png"
 MOBILE_CONFIG_PATH = APP_DIR / "mobile_config.json"
@@ -5533,26 +5535,54 @@ st.markdown(
 
 projects_for_selector_df = force_contractor_columns(projects_frame(PROJECTS_DIR))
 project_selector_options = project_filter_options(projects_for_selector_df)
-project_selector_labels = [option["label"] for option in project_selector_options]
+project_only_options = [option for option in project_selector_options if option.get("project_id")]
+project_selector_labels = [option["label"] for option in project_only_options]
 current_project_id = selected_project_id()
-current_project_index = next(
-    (
-        idx
-        for idx, option in enumerate(project_selector_options)
-        if option["project_id"] == current_project_id
-    ),
-    0,
-)
-project_selector_col, project_cache_col, project_selector_spacer = st.columns([0.34, 0.18, 0.48])
+phase_options = ["Decision Making Dashboard", "Projects", "Problem Solving Engine"]
+phase_index = 2 if current_project_id == PROBLEM_SOLVING_PROJECT_ID else 1 if current_project_id else 0
+project_selector_col, project_pick_col, project_cache_col, project_selector_spacer = st.columns([0.24, 0.28, 0.18, 0.30])
 with project_selector_col:
-    selected_project_label = st.selectbox(
-        "Dashboard project",
-        project_selector_labels,
-        index=current_project_index,
-        key="overall_dashboard_project_selector",
+    selected_phase = st.selectbox(
+        "Dashboard phase",
+        phase_options,
+        index=phase_index,
+        key="overall_dashboard_phase_selector",
     )
-selected_project_option = project_selector_options[project_selector_labels.index(selected_project_label)]
+
+selected_project_option = {"label": selected_phase, "project_id": ""}
+if selected_phase == "Problem Solving Engine":
+    selected_project_option = {"label": "Problem Solving Engine", "project_id": PROBLEM_SOLVING_PROJECT_ID}
+elif selected_phase == "Projects":
+    current_project_index = next(
+        (
+            idx
+            for idx, option in enumerate(project_only_options)
+            if option["project_id"] == current_project_id
+        ),
+        0,
+    )
+    with project_pick_col:
+        if project_selector_labels:
+            selected_project_label = st.selectbox(
+                "Project",
+                project_selector_labels,
+                index=min(current_project_index, len(project_selector_labels) - 1),
+                key="overall_dashboard_project_selector",
+            )
+            selected_project_option = project_only_options[project_selector_labels.index(selected_project_label)]
+        else:
+            st.selectbox("Project", ["No projects configured"], key="overall_dashboard_project_selector_empty")
+
 st.session_state["active_project_id"] = selected_project_option["project_id"]
+
+if selected_project_option["project_id"] == PROBLEM_SOLVING_PROJECT_ID:
+    render_problem_solving_engine(
+        app_dir=APP_DIR,
+        projects_dir=PROJECTS_DIR,
+        projects_df=projects_for_selector_df,
+        auth_user=AUTH_USER,
+    )
+    st.stop()
 
 with project_cache_col:
     st.write("")

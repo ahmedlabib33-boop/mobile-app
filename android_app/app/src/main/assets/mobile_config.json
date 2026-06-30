@@ -1,12 +1,8 @@
-﻿{
-    "app_name":  "Project Intelligence Hub",
-    "streamlit_url":  "https://samco-mob-intelligence-dashboard.streamlit.app",
-    "url_type":  "stable_streamlit_cloud",
-    "github_repo":  "https://github.com/ahmedlabib33-boop/mobile-app.git",
-    "android_apk_output":  "dist/Project_Intelligence_Hub.apk",
-    "ios_free_app_route":  "PWA/Add to Home Screen via Safari",
-    "ios_native_ipa_status":  "Not generated. Native IPA requires macOS/Xcode and Apple signing.",
-    "android_status":  "Native Android WebView APK buildable on Windows after Android SDK/JDK setup.",
-    "flutter_required":  false,
-    "git_policy":  "No Git required. GitHub sync is optional and uses PIH_MOBILE_APP_GITHUB_TOKEN/PIH_MOBILE_APP_GH_TOKEN only when the owner creates a token and runs the sync script."
+{
+  "app_name": "Project Intelligence Hub",
+  "streamlit_url": "https://samco-mob-intelligence-dashboard.streamlit.app",
+  "url_type": "stable_streamlit_cloud",
+  "android_status": "Native Android WebView APK",
+  "ios_free_app_route": "PWA/Add to Home Screen via Safari",
+  "ios_native_ipa_status": "Not generated"
 }
