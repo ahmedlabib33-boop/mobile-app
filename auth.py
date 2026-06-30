@@ -686,12 +686,7 @@ def require_authentication(app_dir: Path) -> dict[str, Any]:
         if st.button("Logout", width="stretch"):
             logout(app_dir)
             st.rerun()
-    if user.get("role") == "admin":
-        st.markdown(
-            "<div class='auth-mode-note'>Administrator account active. User management is isolated in the separate Admin Console host.</div>",
-            unsafe_allow_html=True,
-        )
-    elif user.get("role") == "viewer":
+    if user.get("role") == "viewer":
         st.markdown("<div class='auth-mode-note'>Viewer mode: read-only dashboard access.</div>", unsafe_allow_html=True)
     elif user.get("role") == "director":
         st.markdown("<div class='auth-mode-note'>Director mode: executive dashboard access.</div>", unsafe_allow_html=True)
