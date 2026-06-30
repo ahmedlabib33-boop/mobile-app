@@ -101,12 +101,19 @@ def render_top_navigation(slides: list[str], key: str = "active_project_slide_na
         "<div class='pih-topnav'><div class='pih-brand'><span class='pih-brand-dot'></span>Project Intelligence Hub</div></div>",
         unsafe_allow_html=True,
     )
+    desktop_key = f"{key}_desktop_widget"
+    if st.session_state.get(desktop_key) not in slides:
+        st.session_state[desktop_key] = st.session_state.get(key, slides[0])
     try:
-        selected = st.pills("Navigation", slides, key=key, label_visibility="collapsed")
+        selected = st.pills("Navigation", slides, key=desktop_key, label_visibility="collapsed")
         if selected:
             st.session_state[key] = selected
     except Exception:
-        st.selectbox("Navigation", slides, key=key, label_visibility="collapsed")
+        fallback_key = f"{key}_desktop_select"
+        if st.session_state.get(fallback_key) not in slides:
+            st.session_state[fallback_key] = st.session_state.get(key, slides[0])
+        selected = st.selectbox("Navigation", slides, key=fallback_key, label_visibility="collapsed")
+        st.session_state[key] = selected
     mobile_key = f"{key}_mobile_dropdown"
     if st.session_state.get(mobile_key) not in slides:
         st.session_state[mobile_key] = st.session_state.get(key, slides[0])
