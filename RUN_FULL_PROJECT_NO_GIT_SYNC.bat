@@ -2,7 +2,7 @@
 setlocal EnableExtensions
 cd /d "%~dp0"
 
-set "MODE=Watch"
+set "MODE=Once"
 set "INTERVAL_SECONDS=30"
 if not "%~1"=="" set "MODE=%~1"
 if not "%~2"=="" set "INTERVAL_SECONDS=%~2"
