@@ -127,37 +127,33 @@ def render_top_navigation(slides: list[str], key: str = "active_project_slide_na
 def style_premium_chart(fig: go.Figure, height: int = 380, title: str | None = None, show_legend: bool | None = None) -> go.Figure:
     chart_title = title if title is not None else (fig.layout.title.text if fig.layout.title and fig.layout.title.text else "")
     fig.update_layout(
-        template="plotly_white",
         height=height,
         autosize=True,
         paper_bgcolor="rgba(0,0,0,0)",
-        plot_bgcolor="#FFFFFF",
-        font=dict(family='Inter, "Segoe UI", Arial, sans-serif', size=12, color="#1F2937"),
+        plot_bgcolor="#ffffff",
+        font=dict(color="#172033", family="Arial, sans-serif", size=12),
         title=dict(
             text=chart_title,
-            x=0.015,
+            x=0.02,
             xanchor="left",
-            y=0.98,
-            font=dict(size=18, color="#0B2A4A", family='Inter, "Segoe UI", Arial, sans-serif'),
+            font=dict(size=17, color="#0f172a"),
         ),
-        margin=dict(l=34, r=24, t=70 if chart_title else 34, b=58),
-        colorway=PREMIUM_COLORS,
+        margin=dict(l=18, r=18, t=64 if chart_title else 42, b=38),
         legend=dict(
             orientation="h",
             yanchor="bottom",
-            y=1.04,
+            y=1.02,
             xanchor="right",
             x=1,
-            bgcolor="rgba(255,255,255,.88)",
-            bordercolor="rgba(217,228,239,.9)",
+            bgcolor="rgba(255,255,255,.72)",
+            bordercolor="rgba(15,23,42,.08)",
             borderwidth=1,
-            font=dict(size=11, color="#334155"),
-            title_text="",
+            font=dict(size=11),
         ),
         hoverlabel=dict(
-            bgcolor="#0B2A4A",
-            bordercolor="#0B2A4A",
-            font=dict(color="#FFFFFF", size=12, family='Inter, "Segoe UI", Arial, sans-serif'),
+            bgcolor="#0f172a",
+            bordercolor="#0f172a",
+            font=dict(color="#ffffff", size=12),
             namelength=-1,
         ),
         modebar=dict(orientation="v"),
@@ -165,29 +161,22 @@ def style_premium_chart(fig: go.Figure, height: int = 380, title: str | None = N
     if show_legend is not None:
         fig.update_layout(showlegend=show_legend)
     fig.update_xaxes(
-        showgrid=False,
-        zeroline=False,
-        showline=True,
-        linecolor="#D9E4EF",
-        tickfont=dict(size=11, color="#475569"),
-        title_font=dict(size=12, color="#334155"),
+        showline=False,
+        ticks="outside",
+        gridcolor="#edf3f6",
+        zerolinecolor="#dde7ef",
+        tickfont=dict(size=11),
         automargin=True,
     )
     fig.update_yaxes(
-        gridcolor="#EAF0F6",
-        zeroline=False,
         showline=False,
-        tickfont=dict(size=11, color="#475569"),
-        title_font=dict(size=12, color="#334155"),
+        ticks="outside",
+        gridcolor="#edf3f6",
+        zerolinecolor="#dde7ef",
+        tickfont=dict(size=11),
         automargin=True,
     )
-    for trace in fig.data:
-        trace_type = str(getattr(trace, "type", "") or "").lower()
-        if trace_type in {"bar", "histogram", "box", "violin", "scatter", "scattergl", "scatterpolar", "pie", "sunburst", "treemap", "funnel", "waterfall"}:
-            try:
-                trace.update(marker_line_color="rgba(255,255,255,.85)", marker_line_width=0.8, opacity=0.94)
-            except (ValueError, TypeError):
-                trace.update(opacity=0.94)
+    fig.update_traces(hoverlabel=dict(namelength=-1))
     return fig
 
 
