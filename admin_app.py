@@ -7,11 +7,11 @@ import plotly.express as px
 import streamlit as st
 
 import auth
-from src.construction_system import premium_platform as premium
 
 
 APP_DIR = Path(__file__).resolve().parent
 MAIN_APP_URL = "https://samco-mob-intelligence-dashboard.streamlit.app/"
+ADMIN_STATUS_COLORS = {"Active": "#0F8492", "Pending": "#D1A329"}
 
 
 st.set_page_config(
@@ -21,7 +21,6 @@ st.set_page_config(
     initial_sidebar_state="collapsed",
 )
 
-premium.apply_premium_shell_css()
 auth.render_auth_css()
 
 st.markdown(
@@ -32,6 +31,11 @@ st.markdown(
     .admin-hero p{margin:8px 0 0;color:#dbeafe}
     .admin-warning{background:#fff7ed;border:1px solid #fed7aa;color:#7c2d12;border-radius:12px;padding:12px;margin:10px 0}
     .admin-link-card{background:#fff;border:1px solid #d9e4ef;border-radius:12px;padding:16px;box-shadow:0 10px 24px rgba(15,23,42,.07)}
+    .premium-kpi{background:#fff;border:1px solid #d9e4ef;border-left:5px solid #0f8492;border-radius:12px;padding:16px;min-height:112px;box-shadow:0 10px 22px rgba(15,23,42,.07)}
+    .premium-kpi span{display:block;color:#64748b;font-size:12px;font-weight:800;text-transform:uppercase}
+    .premium-kpi strong{display:block;color:#0b2a4a;font-size:30px;line-height:1.1;margin-top:8px}
+    .premium-kpi small{display:block;color:#64748b;margin-top:6px}
+    .premium-card{background:#fff;border:1px solid #d9e4ef;border-radius:12px;padding:18px;box-shadow:0 12px 28px rgba(15,23,42,.08);margin-bottom:16px}
     @media(max-width:768px){.admin-hero{border-radius:0;margin:0 -.75rem 14px}.admin-hero h1{font-size:24px}}
     </style>
     """,
@@ -119,9 +123,21 @@ with tabs[2]:
             y="count",
             color=role_df["is_active"].map({1: "Active", 0: "Pending"}),
             title="Users by Role and Approval Status",
-            color_discrete_map=premium.STATUS_COLOR_MAP,
+            color_discrete_map=ADMIN_STATUS_COLORS,
         )
-        premium.style_premium_chart(fig, height=380, show_legend=True)
+        fig.update_layout(
+            height=360,
+            autosize=True,
+            paper_bgcolor="rgba(0,0,0,0)",
+            plot_bgcolor="#ffffff",
+            font=dict(color="#172033", family="Arial, sans-serif", size=12),
+            margin=dict(l=18, r=18, t=64, b=38),
+            title=dict(x=0.02, xanchor="left", font=dict(size=17, color="#0f172a")),
+            legend=dict(orientation="h", yanchor="bottom", y=1.02, xanchor="right", x=1),
+            hoverlabel=dict(bgcolor="#0f172a", bordercolor="#0f172a", font=dict(color="#ffffff", size=12)),
+        )
+        fig.update_xaxes(showline=False, ticks="outside", gridcolor="#edf3f6", zerolinecolor="#dde7ef", automargin=True)
+        fig.update_yaxes(showline=False, ticks="outside", gridcolor="#edf3f6", zerolinecolor="#dde7ef", automargin=True)
         st.plotly_chart(fig, width="stretch", config={"displaylogo": False, "responsive": True})
     st.info("Only the owner identity can hold administrator role. Any non-owner admin role is automatically downgraded by the auth initializer.")
 
