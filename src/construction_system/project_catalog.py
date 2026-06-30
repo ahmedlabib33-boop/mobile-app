@@ -14,6 +14,7 @@ PROJECT_METADATA_FILE = "project.json"
 PROJECT_MANIFEST_FILE = "project_manifest.json"
 PROJECT_TEMPLATE_DIRNAME = "_PROJECT_TEMPLATE"
 DEFAULT_SECTOR_NAME = "Unassigned"
+CONTRACTOR_DISPLAY_NAME = "SAMCO - NATIONAL"
 PROJECT_SUBDIRECTORIES = (
     "01-data/import_templates",
     "02-delay_analysis/steel_delay_tia_templates",
@@ -63,7 +64,7 @@ def _read_project_csv_identity(project_dir: Path) -> dict[str, str]:
             "project_id": safe_project_id(row.get("project_id")),
             "project_name": str(row.get("project_name", "") or "").strip(),
             "client_name": str(row.get("client_name", "") or "").strip(),
-            "contractor": str(row.get("contractor", "") or "").strip(),
+            "contractor": CONTRACTOR_DISPLAY_NAME,
             "currency": str(row.get("currency", "") or "").strip(),
             "status": str(row.get("status", "") or "").strip(),
             "sector_name": str(row.get("sector_name", "") or "").strip(),
@@ -114,6 +115,8 @@ def read_project_metadata(project_dir: Path, sector_dir: Path | None = None) -> 
         "sector_name": sector_name,
         "sector_folder_name": sector_dir.name if sector_dir else "",
         "sector_dir": str(sector_dir) if sector_dir else "",
+        "contractor": CONTRACTOR_DISPLAY_NAME,
+        "contractor_name": CONTRACTOR_DISPLAY_NAME,
     }
 
 
