@@ -37,6 +37,7 @@ DEFAULT_TEMPLATE_PATH = APP_DIR / "reports" / "templates" / "time_impact_analysi
 DEFAULT_OUTPUT_DIR = APP_DIR / "11-outputs"
 DEFAULT_DB_PATH = APP_DIR / "construction_system.db"
 REPORT_TYPE_TIA_DIRECTOR_PACK = "Time Impact Analysis Report | Director Pack"
+CONTRACTOR_DISPLAY_NAME = "SAMCO - NATIONAL"
 
 
 def _format_date(value: Any) -> str:
@@ -141,7 +142,7 @@ def build_replacements(context: dict) -> dict[str, str]:
         "[Rev. 00]": _text(context.get("revision"), "Rev. 00"),
         "[Insert project name]": _text(context.get("project_name"), "Project Intelligence Hub"),
         "[Insert employer name]": _text(context.get("employer"), "N/A"),
-        "[Insert contractor name]": _text(context.get("contractor"), "N/A"),
+        "[Insert contractor name]": _text(context.get("contractor"), CONTRACTOR_DISPLAY_NAME),
         "[Insert contract clause]": _text(context.get("contract_form_clause"), "N/A"),
         "[BL Rev / Date]": _text(context.get("accepted_baseline_programme"), "N/A"),
         "[Update Rev / Data Date]": _text(context.get("impacted_update_programme"), "N/A"),
@@ -160,7 +161,7 @@ def _build_project_controls_df(context: dict) -> pd.DataFrame:
     rows = [
         ("Project Name", context.get("project_name", "")),
         ("Employer / Client", context.get("employer", "")),
-        ("Contractor", context.get("contractor", "")),
+        ("Contractor", context.get("contractor", CONTRACTOR_DISPLAY_NAME)),
         ("Contract Form / Clause Basis", context.get("contract_form_clause", "")),
         ("Accepted Baseline Programme", context.get("accepted_baseline_programme", "")),
         ("Impacted Update Programme", context.get("impacted_update_programme", "")),
@@ -300,7 +301,7 @@ class TIADirectorPackGenerator:
             updates = {
                 "Project Name": [_text(context.get("project_name"))],
                 "Employer / Client": [_text(context.get("employer"))],
-                "Contractor": [_text(context.get("contractor"))],
+                "Contractor": [_text(context.get("contractor"), CONTRACTOR_DISPLAY_NAME)],
                 "Contract Form / Clause Basis": [_text(context.get("contract_form_clause"))],
                 "Accepted Baseline Programme": [_text(context.get("accepted_baseline_programme"))],
                 "Impacted Update Programme": [_text(context.get("impacted_update_programme"))],
