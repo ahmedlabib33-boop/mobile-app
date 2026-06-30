@@ -15,7 +15,7 @@ ADMIN_STATUS_COLORS = {"Active": "#0F8492", "Pending": "#D1A329"}
 
 
 st.set_page_config(
-    page_title="Project Intelligence Hub Admin Console",
+    page_title="Projects Intelligence Hub Admin Console",
     page_icon="🛡️",
     layout="wide",
     initial_sidebar_state="collapsed",
@@ -38,16 +38,6 @@ st.markdown(
     .premium-card{background:#fff;border:1px solid #d9e4ef;border-radius:12px;padding:18px;box-shadow:0 12px 28px rgba(15,23,42,.08);margin-bottom:16px}
     @media(max-width:768px){.admin-hero{border-radius:0;margin:0 -.75rem 14px}.admin-hero h1{font-size:24px}}
     </style>
-    """,
-    unsafe_allow_html=True,
-)
-
-st.markdown(
-    """
-    <div class="admin-hero">
-      <h1>Project Intelligence Hub Admin Console</h1>
-      <p>Owner-only access control, user approval, role assignment, and dashboard-section permissions.</p>
-    </div>
     """,
     unsafe_allow_html=True,
 )
