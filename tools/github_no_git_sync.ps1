@@ -35,7 +35,19 @@ if ($Mode -eq "Watch") {
 function Write-SyncLog([string]$Text) {
     $line = "[$(Get-Date -Format 'yyyy-MM-dd HH:mm:ss')] $Text"
     Write-Host $line
-    Add-Content -LiteralPath $logPath -Value $line
+    $written = $false
+    for ($attempt = 1; $attempt -le 5 -and -not $written; $attempt++) {
+        try {
+            Add-Content -LiteralPath $logPath -Value $line -ErrorAction Stop
+            $written = $true
+        } catch {
+            Start-Sleep -Milliseconds (150 * $attempt)
+        }
+    }
+    if (-not $written) {
+        $fallbackLog = Join-Path (Split-Path $logPath -Parent) "pih_mobile_app_github_sync_$PID.log"
+        try { Add-Content -LiteralPath $fallbackLog -Value $line -ErrorAction SilentlyContinue } catch {}
+    }
 }
 
 function Convert-ToRelativePath([string]$FullName) {
@@ -58,7 +70,9 @@ function Test-Excluded([string]$FullName) {
         if ($segments -contains $normalizedDirectory -or $relative.Equals($normalizedDirectory, [System.StringComparison]::OrdinalIgnoreCase) -or $relative.StartsWith($normalizedDirectory + "/", [System.StringComparison]::OrdinalIgnoreCase)) { return $true }
     }
     foreach ($file in @($config.excluded_files)) {
-        if ($relative.Equals([string]$file, [System.StringComparison]::OrdinalIgnoreCase)) { return $true }
+        $filePattern = [string]$file
+        if ($relative.Equals($filePattern, [System.StringComparison]::OrdinalIgnoreCase)) { return $true }
+        if ($relative -like $filePattern) { return $true }
     }
     $name = [System.IO.Path]::GetFileName($FullName)
     foreach ($pattern in @($config.excluded_patterns)) {
