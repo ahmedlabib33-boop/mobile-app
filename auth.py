@@ -451,8 +451,8 @@ def render_first_admin_setup(app_dir: Path) -> None:
         """
         <div class='auth-shell'>
           <div class='auth-hero'>
-            <h1>Project Intelligence Hub</h1>
-            <p>First-run administrator setup. Create the owner account before the dashboard is opened.</p>
+            <h1>Projects Intelligence Hub</h1>
+            <p>Integrated Project Controls System - owner setup.</p>
           </div>
         </div>
         """,
@@ -494,8 +494,8 @@ def render_login(app_dir: Path) -> None:
         """
         <div class='auth-shell'>
           <div class='auth-hero'>
-            <h1>Project Intelligence Hub</h1>
-            <p>Secure mobile-ready project controls intelligence platform.</p>
+            <h1>Projects Intelligence Hub</h1>
+            <p>Integrated Project Controls System</p>
           </div>
         </div>
         """,
